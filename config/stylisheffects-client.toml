@@ -1,7 +1,7 @@
 	[renderers.inventory_renderer]
 		#Prevent status effects with infinite duration from showing.
 		#Default Value: false
-		hide_infinite_effects = false
+		hide_infinite_effects = true
 		#Show a tooltip when hovering over an effect widget.
 		#Default Value: true
 		hovering_tooltip = true
@@ -17,7 +17,7 @@
 		#Default Value: 5
 		# Default: 5
 		# Range: 1 ~ 255
-		max_columns = 5
+		max_columns = 1
 		#Space between individual effect widgets on y-axis.
 		#Default Value: 1
 		# Default: 1
@@ -43,7 +43,7 @@
 		respect_hide_particles = false
 		#Exclude certain menus from showing active status effects. Useful when effect icons overlap with other screen elements.
 		#Default Value: [curios:curios_container, tconstruct:*, mekanism:*]
-		menu_blacklist = ["curios:curios_container", "tconstruct:*", "mekanism:*"]
+		menu_blacklist = ["curios:curios_container", "tconstruct:*", "mekanism:*", "sophisticatedbackpacks:*", "sophisticatedstorage:*", "refinedstorage:*"]
 		#Maximum amount of status effects rendered in a single column.
 		#Default Value: 255
 		# Default: 255
@@ -66,17 +66,17 @@
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: gui_compact_widget
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "INVENTORY_COMPACT"
 
 	[renderers.gui_renderer]
 		#Prevent status effects with infinite duration from showing.
 		#Default Value: false
-		hide_infinite_effects = false
+		hide_infinite_effects = true
 		#Maximum amount of status effects rendered in a single row.
 		#Default Value: 5
 		# Default: 5
 		# Range: 1 ~ 255
-		max_columns = 5
+		max_columns = 2
 		#Space between individual effect widgets on y-axis.
 		#Default Value: 1
 		# Default: 1
@@ -99,7 +99,7 @@
 		scale = 4.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		#Default Value: true
-		respect_hide_particles = true
+		respect_hide_particles = false
 		#Maximum amount of status effects rendered in a single column.
 		#Default Value: 255
 		# Default: 255
@@ -107,7 +107,7 @@
 		max_rows = 255
 		#Allow effect renderer to fall back to a more compact version (when available) if not enough screen space exists. Otherwise effect widgets might run off-screen.
 		#Default Value: false
-		allow_fallback = false
+		allow_fallback = true
 		#Screen side to render status effects on.
 		#Default Value: RIGHT
 		#Allowed Values: LEFT, RIGHT
@@ -121,12 +121,12 @@
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: gui_compact_widget
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "INVENTORY_COMPACT"
 		#Offset on y-axis.
 		#Default Value: 3
 		# Default: 3
 		# Range: > 0
-		offset_y = 3
+		offset_y = 170
 
 	[widgets.inventory_compact]
 		#Effect amplifier color. Setting this to "EFFECT" will use potion color.
@@ -138,20 +138,20 @@
 		blinking_alpha = true
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
-		quality_border = false
+		quality_border = true
 		#Hide infinite symbol shown for an effect duration that is too long to fit.
 		#Default Value: false
-		hide_infinite_duration = false
+		hide_infinite_duration = true
 		#Show duration for ambient effects.
 		#Default Value: false
 		ambient_duration = false
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		#Default Value: false
-		compact_duration = false
+		compact_duration = true
 		#Top corner to draw effect amplifier in, or none.
 		#Default Value: TOP_RIGHT
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
-		effect_amplifier = "TOP_RIGHT"
+		effect_amplifier = "TOP_LEFT"
 		#Should ambient effect widgets have a cyan colored border.
 		#Default Value: true
 		ambient_border = true
@@ -227,10 +227,10 @@
 		compact_duration = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
-		quality_border = false
+		quality_border = true
 		#Hide infinite symbol shown for an effect duration that is too long to fit.
 		#Default Value: false
-		hide_infinite_duration = false
+		hide_infinite_duration = true
 		#Show duration for ambient effects.
 		#Default Value: false
 		ambient_duration = false
@@ -243,7 +243,7 @@
 		ambient_border = true
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
 		#Default Value: false
-		separate_effects = false
+		separate_effects = true
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
