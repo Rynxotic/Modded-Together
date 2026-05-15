@@ -48,4 +48,4 @@ lightItems = []
 	#Only update lights within this distance from the player (in blocks)
 	# Default: 32
 	# Range: 8 ~ 128
-	lightUpdateDistanceCheck = 32
+	lightUpdateDistanceCheck = 8
