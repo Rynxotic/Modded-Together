@@ -9,7 +9,7 @@ display_always = false
 spawn_eggs_show_entity = true
 # When Item Descriptions are being displayed, also display the mod name.
 # default: false
-show_mod_name = false
+show_mod_name = true
 
 [hint]
 	# When descriptions on an item are not visible, show a tooltip with the default text 'Show more' and the keybind.
@@ -17,7 +17,7 @@ show_mod_name = false
 	enabled = false
 	# Show keybinds in hint text.
 	# default: true
-	show_keybinds = true
+	show_keybinds = false
 	# This setting changes what colour code is used for hint tooltips.
 	# default: 11184810
 	colour = 11184810
@@ -65,7 +65,7 @@ show_mod_name = false
 [block_descriptions]
 	# This will show Block Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
 	# default: true
-	enable = true
+	enable = false
 	# Always show Block Descriptions, not just when a key is held.
 	# default: false
 	show_always = false
@@ -73,7 +73,7 @@ show_mod_name = false
 [entity_descriptions]
 	# This will show Entity Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
 	# default: true
-	enable = true
+	enable = false
 	# Always show Entity Descriptions, not just when a key is held.
 	# default: false
 	show_always = false
@@ -99,7 +99,7 @@ show_mod_name = false
 	colour = 5592405
 	# Italicize Enchantment Descriptions
 	# default: false
-	italics = false
+	italics = true
 
 [effect_descriptions]
 	# Enable descriptions for Status Effects.
