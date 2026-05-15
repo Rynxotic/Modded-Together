@@ -7,7 +7,22 @@
 #true: Render background
 #false: Do not render background
 #Default: true
-"Enable Background" = true
+"Enable Background" = false
+#Focus state additional height
+#Height that the spell group moves up when focused
+#Larger values = more noticeable, recommended range: 5-20
+#Unit: pixels
+#Default: 10
+"Focus Height" = 15
+#Custom spell count limit
+#Controls the number of spell slots using custom UI
+#Spells beyond this limit will fall back to vanilla system
+#Examples:
+#  8 (default): First 8 spells use custom UI
+#  0: Completely use vanilla system
+#  999: All spells use custom UI
+#Default: 8
+"Mine Custom Spell Limit" = 200
 #Background X Offset
 #Horizontal offset of the spell selection background
 #Positive: right, Negative: left
@@ -32,21 +47,6 @@
 #Unit: pixels
 #Default: 0
 "Spell Y Offset" = 0
-#Focus state additional height
-#Height that the spell group moves up when focused
-#Larger values = more noticeable, recommended range: 5-20
-#Unit: pixels
-#Default: 10
-"Focus Height" = 10
-#Custom spell count limit
-#Controls the number of spell slots using custom UI
-#Spells beyond this limit will fall back to vanilla system
-#Examples:
-#  8 (default): First 8 spells use custom UI
-#  0: Completely use vanilla system
-#  999: All spells use custom UI
-#Default: 8
-"Mine Custom Spell Limit" = 9
 #Animation easing mode
 #Controls movement animation curve for spell slot transitions
 #Available modes:
@@ -57,4 +57,4 @@
 #Default: 0 (Smoothstep)
 # Default: 1
 # Range: 0 ~ 2
-"Speed Line Mode" = 1
+"Speed Line Mode" = 2
