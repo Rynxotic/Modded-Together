@@ -25,9 +25,9 @@
 		manaBarYOffset = 0
 		manaBarTextVisible = true
 		#Allowed Values: Hunger, XP, Center, TopLeft, TopRight, BottomLeft, BottomRight
-		manaBarAnchor = "Hunger"
+		manaBarAnchor = "XP"
 		manaTextXOffset = 0
-		manaTextYOffset = 0
+		manaTextYOffset = 8
 
 	[UI.SpellBar]
 		#By default (Always), the spell bar always shows the spells in your equipped spellbook. Contextual will hide them when not in use.
@@ -54,7 +54,7 @@
 [Animations]
 	#What to render in first person while casting.
 	showFirstPersonArms = true
-	showFirstPersonItems = true
+	showFirstPersonItems = false
 
 [Renderers]
 	#By default, both fireballs are replaced with an enhanced model used by fire spells.
