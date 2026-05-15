@@ -6,7 +6,9 @@
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
-      "Channels "
+      "Channels ",
+      ".*Configuration file.*",
+      ".*blur/.*"
     ]
   }
 }
