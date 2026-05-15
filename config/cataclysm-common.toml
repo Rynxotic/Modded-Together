@@ -154,26 +154,6 @@
 			# Range: 0.0 ~ 1000000.0
 			attack_speed = 1.0
 
-	[tools_and_abilities.brontes]
-		#Brontes Storm Damage
-		# Default: 10.0
-		# Range: 0.0 ~ 1000000.0
-		brontes_storm_damage = 10.0
-		#Brontes Storm Area Damage
-		# Default: 1.0
-		# Range: 0.0 ~ 1000000.0
-		brontes_storm_area_damage = 1.0
-
-		[tools_and_abilities.brontes.tool_config]
-			#Tool attack damage
-			# Default: 13.0
-			# Range: 0.0 ~ 1000000.0
-			attack_damage = 13.0
-			#Tool attack speed
-			# Default: 1.0
-			# Range: 0.0 ~ 1000000.0
-			attack_speed = 1.0
-
 	[tools_and_abilities.wither_assault_shoulder_weapon]
 		#Missile Cooldown
 		# Default: 40
@@ -322,7 +302,7 @@
 			#Tool attack speed
 			# Default: 1.6
 			# Range: 0.0 ~ 1000000.0
-			attack_speed = 1.6
+			attack_speed = 1.4
 
 	[tools_and_abilities.cursed_bow]
 		#Cursed Bow Damage
@@ -341,6 +321,26 @@
 		# Default: 7.0
 		# Range: 0.0 ~ 1000000.0
 		laser_damage = 7.0
+
+	[tools_and_abilities.brontes]
+		#Brontes Storm Damage
+		# Default: 10.0
+		# Range: 0.0 ~ 1000000.0
+		brontes_storm_damage = 10.0
+		#Brontes Storm Area Damage
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		brontes_storm_area_damage = 1.0
+
+		[tools_and_abilities.brontes.tool_config]
+			#Tool attack damage
+			# Default: 13.0
+			# Range: 0.0 ~ 1000000.0
+			attack_damage = 13.0
+			#Tool attack speed
+			# Default: 1.0
+			# Range: 0.0 ~ 1000000.0
+			attack_speed = 1.0
 
 	[tools_and_abilities.ancient_spear]
 		#SandStorm
@@ -412,21 +412,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 1.5
 
 		[mobs.ender_guardian.cap_config]
 			#Damage Cap
 			# Default: 22.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 22.0
+			damage_cap = 1000.0
 			#Dps Cap
 			# Default: 13.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 13.0
+			dps_cap = 1000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
@@ -454,17 +454,17 @@
 		#Void Rune Damage
 		# Default: 7.0
 		# Range: 0.0 ~ 1000000.0
-		void_rune_damage = 7.0
+		void_rune_damage = 10.0
 
 		[mobs.ender_golem.combat_config]
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 1.5
 
 		[mobs.ender_golem.cap_config]
 			#Damage Cap
@@ -498,7 +498,7 @@
 		#Lava bomb Magazine
 		# Default: 3
 		# Range: 0 ~ 20
-		lava_bomb_magazine = 3
+		lava_bomb_magazine = 15
 		#Lava bomb Amount
 		# Default: 3
 		# Range: 1 ~ 1000
@@ -530,21 +530,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.netherite_monstrosity.cap_config]
 			#Damage Cap
 			# Default: 25.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 25.0
+			damage_cap = 10000.0
 			#Dps Cap
 			# Default: 20.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 20.0
+			dps_cap = 10000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
@@ -572,11 +572,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.ignis]
 		#Ignis's Life steal Multiplier
@@ -590,21 +590,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.ignis.cap_config]
 			#Damage Cap
 			# Default: 20.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 20.0
+			damage_cap = 1000.0
 			#Dps Cap
 			# Default: 14.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 14.0
+			dps_cap = 1000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
@@ -638,11 +638,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.harbinger]
 		#Harbinger Auto Heal
@@ -678,21 +678,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.harbinger.cap_config]
 			#Damage Cap
 			# Default: 22.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 22.0
+			damage_cap = 1000.0
 			#Dps Cap
 			# Default: 14.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 14.0
+			dps_cap = 1000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
@@ -738,11 +738,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.amethyst_crab]
 		#Earth Quake Damage
@@ -758,11 +758,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.leviathan]
 		#Bite Hp Damage
@@ -810,21 +810,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.leviathan.cap_config]
 			#Damage Cap
 			# Default: 20.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 20.0
+			damage_cap = 1000.0
 			#Dps Cap
 			# Default: 15.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 15.0
+			dps_cap = 1000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
@@ -844,11 +844,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.ancient_remnant]
 		#Charge Hp Damage
@@ -876,21 +876,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.ancient_remnant.cap_config]
 			#Damage Cap
 			# Default: 21.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 21.0
+			damage_cap = 1000.0
 			#Dps Cap
 			# Default: 14.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 14.0
+			dps_cap = 1000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
@@ -918,11 +918,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.koboleton]
 		#CauseKoboletontoDropItemInHandPercent
@@ -934,11 +934,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.kobolediator.ignore_mobgriefing_config]
 			#Ignore MobGriefing
@@ -958,11 +958,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.maledictus]
 		#Phantom Halberd Damage
@@ -998,11 +998,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.maledictus.cap_config]
 			#Damage Cap
@@ -1042,11 +1042,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.aptrgangr.nature_heal_config]
 			#Nature Heal
@@ -1094,21 +1094,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.scylla.cap_config]
 			#Damage Cap
 			# Default: 21.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 21.0
+			damage_cap = 1000.0
 			#Dps Cap
 			# Default: 13.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 13.0
+			dps_cap = 1000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
@@ -1136,21 +1136,21 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 		[mobs.clawdian.cap_config]
 			#Damage Cap
 			# Default: 21.0
 			# Range: 0.0 ~ 1000000.0
-			damage_cap = 21.0
+			damage_cap = 1000.0
 			#Dps Cap
 			# Default: 12.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 12.0
+			dps_cap = 1000.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
