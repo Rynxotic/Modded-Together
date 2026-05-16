@@ -23,9 +23,9 @@ particleColorType = "NAME_COLOR"
 mixedColorName = true
 useItemBorder = true
 colorOverrides = [  ]
-particleMaxHeight = 1.0
-particleMaxSpeed = 1.0
-particleDensity = 1.0
+particleMaxHeight = 0.6586627
+particleMaxSpeed = 0.37351793
+particleDensity = 0.1942670036764706
 
 [projectiles]
 enderPearlTrailDensity = 0.5
