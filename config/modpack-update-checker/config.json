@@ -4,7 +4,7 @@
   "modpackName": "Modded Together",
   "modpackAuthor": "Pitersonix",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://github.com/Piotr1628/Modded-Together-Issues/tree/main/updates/",
+  "updateCheckerId": "https://github.com/Piotr1628/Modded-Together/",
   "advanced": {
     "bccEnabled": true,
     "expandButton": false,
