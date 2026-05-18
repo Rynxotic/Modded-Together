@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.24",
-  "config_datetime": "2026-05-17_12-14-44",
+  "config_datetime": "2026-05-17_23-08-32",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
@@ -319,6 +319,67 @@
       ]
     },
     {
+      "name": "cataclysm:ancient_factory",
+      "whitelisted_biomes": [
+        "eternal_starlight:spiral_kelp_forest",
+        "eternal_starlight:scarlet_forest",
+        "eternal_starlight:permafrost_peaks",
+        "eternal_starlight:lush_shallow_sea",
+        "eternal_starlight:lucent_mycelium_isle",
+        "eternal_starlight:icy_sea",
+        "eternal_starlight:grim_shore",
+        "eternal_starlight:glimmer_scrubland",
+        "eternal_starlight:ether_river",
+        "eternal_starlight:dark_swamp"
+      ],
+      "blacklisted_biomes": [
+        "minecraft:lush_caves",
+        "minecraft:dripstone_caves",
+        "minecraft:deep_dark",
+        "ars_elemental:vexing_caves",
+        "regions_unexplored:scorching_caves",
+        "regions_unexplored:redstone_caves",
+        "regions_unexplored:prismachasm",
+        "regions_unexplored:bioshroom_caves",
+        "regions_unexplored:ancient_delta",
+        "quark:glimmering_weald"
+      ]
+    },
+    {
+      "name": "cataclysm:frosted_prison",
+      "whitelisted_biomes": [
+        "eternal_starlight:crystallized_desert"
+      ],
+      "blacklisted_biomes": [
+        "minecraft:snowy_plains"
+      ],
+      "terrain_adaptation": "beard_thin",
+      "override_global_flatness_check": false,
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": false
+    },
+    {
+      "name": "idas:iceandfire/dread_citadel",
+      "whitelisted_biomes": [
+        "eternal_starlight:starlight_dense_forest",
+        "eternal_starlight:dark_swamp",
+        "eternal_starlight:torreya_forest"
+      ],
+      "blacklisted_biomes": [
+        "minecraft:snowy_taiga",
+        "minecraft:grove",
+        "regions_unexplored:cold_boreal_taiga",
+        "regions_unexplored:cold_deciduous_forest",
+        "regions_unexplored:frozen_pine_taiga",
+        "minecraft:snowy_plains",
+        "regions_unexplored:frozen_tundra",
+        "minecraft:ice_spikes",
+        "minecraft:frozen_peaks",
+        "regions_unexplored:icy_heights",
+        "regions_unexplored:spires"
+      ]
+    },
+    {
       "name": "mowziesmobs:wrought_chamber",
       "is_disabled": true
     },
@@ -580,7 +641,7 @@
       "name": "integrated_villages:air_villages",
       "is_disabled": false,
       "salt": 1982700828,
-      "frequency": 1.5,
+      "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
       "structure_weights": {
         "integrated_villages:airship_village": 1
@@ -592,7 +653,7 @@
       "name": "integrated_villages:regular_villages",
       "is_disabled": false,
       "salt": 1982700828,
-      "frequency": 1.5,
+      "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
       "structure_weights": {
         "integrated_villages:clockwork_village": 1,
