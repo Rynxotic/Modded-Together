@@ -1,1 +1,85 @@
-# Patch Notes — 1.2.6 Update > Bug fixes, new content, balance changes & more ![image](https://media.forgecdn.net/attachments/1295121/changelog/changelog_86847d63-7c6f-4119-b37c-58786b893427.png) [![image](https://media.forgecdn.net/attachments/1295121/changelog/changelog_2daa25df-56a3-48ef-95a8-980e4924a04c.png)](https://wabbanode.com/partner/moddedtogether) ## ✦ New Content - Added **Wireless Crafting Terminal** - Added **Refined Types** — allows importing/exporting Energy (FE) and Source (Ars) wirelessly - Added **Create Filters Anywhere** — Create Filters now work in Sophisticated Storage/Backpacks and Refined Storage - Added new **Warden variants** - Added **Drygmy** — containment ritual power is low, allowing only weaker mobs to be trapped. Full list at `moddedtogether/kubejs/server_scripts/jar_blacklist.js` (open in Notepad) - Added new crafting sounds ## ↻ Updates - **Pure Darkness** (Forlorn Hollows Cave) is now used for Shadow Spells — Nightmare Fuel removed - **Interdimensional Wireless Transmitter** recipe changed - **Zenalite Ingot** recipe revisited - **Roll (dash)** is now possible mid-air - Various fixes from mod updates ## ✔ Bug Fixes - Fixed **Create Contraption** chest dupe *(thanks Tibbles for reporting!)* - Fixed **Create Contraptions** being trapped in bubble - Fixed **Magic Workbench** dupe *(thanks to the EU player whose name I couldn't find — reach out and I'll credit you properly!)* - Fixed **Underwater Chests** sound spam - Fixed **Create Shaders** — should be more performant too *(sorry for the wait! >.<)* - Fixed crashes from certain particles *(hard to test — if you still get crashes, post in #issues)* - Fixed **Hogskin** recipe ## ⚖ Balance Changes - Added some **Alex Caves** blocks to the Spectral Hammer whitelist - **Wall Glyph** disabled — overpowered and caused crashes ## − Removals - Removed **Ghost Step Perk** from Affinity — conflicted with Tombstone - **Spirit Orbs / Goddess Statue** (caves) disabled — stamina for paragliders too - **Spark** removed — left as an optional install - **Cosmetic Armors** (Miku, etc.) removed — Hazenn removed them alongside critical patches, so stability had to come first. They will return at some point - Removed **Ghost Sword** and **Phantasmal Ingot** - **Blur** re-removed ## ⚙ Performance - Installed **Gnetum** — UI framerate capped to 30 - Create Shaders fix should also improve performance --- > ⚠ **Create 6.0.10** — not yet. > ✦ Update **is** safe for worlds started in 1.2.*
+# Patch Notes — 1.2.6 Update
+
+> Bug fixes, new content, balance changes & more
+
+![Changelog Banner](https://media.forgecdn.net/attachments/1295121/changelog/changelog_86847d63-7c6f-4119-b37c-58786b893427.png)
+
+[![Partner Banner](https://media.forgecdn.net/attachments/1295121/changelog/changelog_2daa25df-56a3-48ef-95a8-980e4924a04c.png)](https://wabbanode.com/partner/moddedtogether)
+
+## New Content
+
+- Added **Wireless Crafting Terminal**
+- Added **Refined Types**
+  - Allows importing/exporting Energy (FE) and Source (Ars) wirelessly
+- Added **Create Filters Anywhere**
+  - Create Filters now work in Sophisticated Storage/Backpacks and Refined Storage
+- Added new **Warden variants**
+- Added **Drygmy**
+  - Containment ritual power is low, allowing only weaker mobs to be trapped
+  - Full list at:
+    `moddedtogether/kubejs/server_scripts/jar_blacklist.js`
+- Added new crafting sounds
+
+---
+
+## Updates
+
+- **Pure Darkness** (Forlorn Hollows Cave) is now used for Shadow Spells
+  - Nightmare Fuel removed
+- **Interdimensional Wireless Transmitter** recipe changed
+- **Zenalite Ingot** recipe revisited
+- **Roll (dash)** is now possible mid-air
+- Various fixes from mod updates
+
+---
+
+## Bug Fixes
+
+- Fixed **Create Contraption** chest dupe
+  - Thanks Tibbles for reporting
+- Fixed **Create Contraptions** being trapped in bubble
+- Fixed **Magic Workbench** dupe
+  - Thanks to the EU player whose name I couldn't find
+- Fixed **Underwater Chests** sound spam
+- Fixed **Create Shaders**
+  - Should be more performant too
+- Fixed crashes from certain particles
+  - If crashes still happen, report them in `#issues`
+- Fixed **Hogskin** recipe
+
+---
+
+## Balance Changes
+
+- Added some **Alex Caves** blocks to the Spectral Hammer whitelist
+- **Wall Glyph** disabled
+  - Overpowered and caused crashes
+
+---
+
+## Removals
+
+- Removed **Ghost Step Perk** from Affinity
+  - Conflicted with Tombstone
+- **Spirit Orbs / Goddess Statue** disabled in caves
+- **Spark** removed
+  - Left as optional install
+- **Cosmetic Armors** (Miku, etc.) removed
+  - Hazenn removed them alongside critical patches
+  - Stability had to come first
+- Removed **Ghost Sword** and **Phantasmal Ingot**
+- **Blur** re-removed
+
+---
+
+## Performance
+
+- Installed **Gnetum**
+  - UI framerate capped to 30
+- Create Shaders fix should also improve performance
+
+---
+
+> ⚠ Create 6.0.10 — not yet.
+>
+> Update is safe for worlds started in **1.2.\***
