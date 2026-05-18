@@ -1,85 +1,101 @@
-# Patch Notes — 1.2.6 Update
+PATCH NOTES - 1.2.6 UPDATE
 
-> Bug fixes, new content, balance changes & more
+Bug fixes, new content, balance changes & more
 
-![Changelog Banner](https://media.forgecdn.net/attachments/1295121/changelog/changelog_86847d63-7c6f-4119-b37c-58786b893427.png)
+https://media.forgecdn.net/attachments/1295121/changelog/changelog_86847d63-7c6f-4119-b37c-58786b893427.png
 
-[![Partner Banner](https://media.forgecdn.net/attachments/1295121/changelog/changelog_2daa25df-56a3-48ef-95a8-980e4924a04c.png)](https://wabbanode.com/partner/moddedtogether)
+https://wabbanode.com/partner/moddedtogether
 
-## New Content
 
-- Added **Wireless Crafting Terminal**
-- Added **Refined Types**
-  - Allows importing/exporting Energy (FE) and Source (Ars) wirelessly
-- Added **Create Filters Anywhere**
-  - Create Filters now work in Sophisticated Storage/Backpacks and Refined Storage
-- Added new **Warden variants**
-- Added **Drygmy**
-  - Containment ritual power is low, allowing only weaker mobs to be trapped
-  - Full list at:
-    `moddedtogether/kubejs/server_scripts/jar_blacklist.js`
+NEW CONTENT
+
+- Added Wireless Crafting Terminal
+
+- Added Refined Types
+  Allows importing/exporting Energy (FE) and Source (Ars) wirelessly
+
+- Added Create Filters Anywhere
+  Create Filters now work in Sophisticated Storage/Backpacks and Refined Storage
+
+- Added new Warden variants
+
+- Added Drygmy
+  Containment ritual power is low, allowing only weaker mobs to be trapped
+
+  Full list:
+  moddedtogether/kubejs/server_scripts/jar_blacklist.js
+
 - Added new crafting sounds
 
----
 
-## Updates
+UPDATES
 
-- **Pure Darkness** (Forlorn Hollows Cave) is now used for Shadow Spells
-  - Nightmare Fuel removed
-- **Interdimensional Wireless Transmitter** recipe changed
-- **Zenalite Ingot** recipe revisited
-- **Roll (dash)** is now possible mid-air
+- Pure Darkness (Forlorn Hollows Cave) is now used for Shadow Spells
+  Nightmare Fuel removed
+
+- Interdimensional Wireless Transmitter recipe changed
+
+- Zenalite Ingot recipe revisited
+
+- Roll (dash) is now possible mid-air
+
 - Various fixes from mod updates
 
----
 
-## Bug Fixes
+BUG FIXES
 
-- Fixed **Create Contraption** chest dupe
-  - Thanks Tibbles for reporting
-- Fixed **Create Contraptions** being trapped in bubble
-- Fixed **Magic Workbench** dupe
-  - Thanks to the EU player whose name I couldn't find
-- Fixed **Underwater Chests** sound spam
-- Fixed **Create Shaders**
-  - Should be more performant too
+- Fixed Create Contraption chest dupe
+  Thanks Tibbles for reporting
+
+- Fixed Create Contraptions being trapped in bubble
+
+- Fixed Magic Workbench dupe
+
+- Fixed Underwater Chests sound spam
+
+- Fixed Create Shaders
+  Should be more performant too
+
 - Fixed crashes from certain particles
-  - If crashes still happen, report them in `#issues`
-- Fixed **Hogskin** recipe
+  If crashes still happen, report them in #issues
 
----
+- Fixed Hogskin recipe
 
-## Balance Changes
 
-- Added some **Alex Caves** blocks to the Spectral Hammer whitelist
-- **Wall Glyph** disabled
-  - Overpowered and caused crashes
+BALANCE CHANGES
 
----
+- Added some Alex Caves blocks to the Spectral Hammer whitelist
 
-## Removals
+- Wall Glyph disabled
+  Overpowered and caused crashes
 
-- Removed **Ghost Step Perk** from Affinity
-  - Conflicted with Tombstone
-- **Spirit Orbs / Goddess Statue** disabled in caves
-- **Spark** removed
-  - Left as optional install
-- **Cosmetic Armors** (Miku, etc.) removed
-  - Hazenn removed them alongside critical patches
-  - Stability had to come first
-- Removed **Ghost Sword** and **Phantasmal Ingot**
-- **Blur** re-removed
 
----
+REMOVALS
 
-## Performance
+- Removed Ghost Step Perk from Affinity
+  Conflicted with Tombstone
 
-- Installed **Gnetum**
-  - UI framerate capped to 30
+- Spirit Orbs / Goddess Statue disabled in caves
+
+- Spark removed
+  Left as optional install
+
+- Cosmetic Armors (Miku, etc.) removed
+  Stability had to come first
+
+- Removed Ghost Sword and Phantasmal Ingot
+
+- Blur re-removed
+
+
+PERFORMANCE
+
+- Installed Gnetum
+  UI framerate capped to 30
+
 - Create Shaders fix should also improve performance
 
----
 
-> ⚠ Create 6.0.10 — not yet.
->
-> Update is safe for worlds started in **1.2.\***
+Create 6.0.10 - not yet.
+
+Update is safe for worlds started in 1.2.*
