@@ -1,15 +1,13 @@
 {
-  "schemaVersion": 9,
+  "schemaVersion": 6,
   "currentVersion": "1.2.7",
   "modpackName": "Modded Together",
   "modpackAuthor": "Pitersonix",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://github.com/Piotr1628/Modded-Together/",
+  "githubRepo": "https://github.com/Piotr1628/Modded-Together/",
   "advanced": {
     "bccEnabled": true,
     "expandButton": false,
-    "updateCheckerType": 2,
-    "retroWarning": false,
-    "modpackMods": []
+    "updateCheckerType": 2
   }
 }
