@@ -20,15 +20,46 @@
   },
   {
     "action": "remove",
-    "items":   ["appliedcreate:andesite_pattern_provider_part", "appliedcreate:brass_pattern_provider_part", "appliedcreate:brass_pattern_provider_upgrade", "appliedcreate:stress_p2p_tunnel", "appliedcreate:kinetic_energy_acceptor", "appliedcreate:me_gearbox", "appliedcreate:whichball_skin_doll", "appliedcreate:stress_circuit_board", "appliedcreate:advanced_stress_circuit_board", "appliedcreate:stress_processor", "appliedcreate:advanced_stress_processor", "appliedcreate:andesite_stress_cell_housing", "appliedcreate:brass_stress_cell_housing", "appliedcreate:stress_storage_component_1k", "appliedcreate:stress_storage_component_4k", "appliedcreate:stress_storage_component_16k", "appliedcreate:stress_storage_component_64k", "appliedcreate:stress_storage_component_256k", "appliedcreate:stress_storage_component_1m", "appliedcreate:stress_storage_component_4m", "appliedcreate:stress_storage_component_16m", "appliedcreate:stress_storage_component_64m", "appliedcreate:stress_storage_component_256m", "appliedcreate:stress_storage_cell_1k", "appliedcreate:stress_storage_cell_4k", "appliedcreate:stress_storage_cell_16k", "appliedcreate:stress_storage_cell_64k", "appliedcreate:stress_storage_cell_256k", "appliedcreate:stress_storage_cell_1m", "appliedcreate:stress_storage_cell_4m", "appliedcreate:stress_storage_cell_16m", "appliedcreate:stress_storage_cell_64m", "appliedcreate:stress_storage_cell_256m", "appliedcreate:creative_stress_cell"]
+    "items": [
+      "appliedcreate:andesite_pattern_provider_part",
+      "appliedcreate:brass_pattern_provider_part",
+      "appliedcreate:brass_pattern_provider_upgrade",
+      "appliedcreate:stress_p2p_tunnel",
+      "appliedcreate:kinetic_energy_acceptor",
+      "appliedcreate:me_gearbox",
+      "appliedcreate:whichball_skin_doll",
+      "appliedcreate:stress_circuit_board",
+      "appliedcreate:advanced_stress_circuit_board",
+      "appliedcreate:stress_processor",
+      "appliedcreate:advanced_stress_processor",
+      "appliedcreate:andesite_stress_cell_housing",
+      "appliedcreate:brass_stress_cell_housing",
+      "appliedcreate:stress_storage_component_1k",
+      "appliedcreate:stress_storage_component_4k",
+      "appliedcreate:stress_storage_component_16k",
+      "appliedcreate:stress_storage_component_64k",
+      "appliedcreate:stress_storage_component_256k",
+      "appliedcreate:stress_storage_component_1m",
+      "appliedcreate:stress_storage_component_4m",
+      "appliedcreate:stress_storage_component_16m",
+      "appliedcreate:stress_storage_component_64m",
+      "appliedcreate:stress_storage_component_256m",
+      "appliedcreate:stress_storage_cell_1k",
+      "appliedcreate:stress_storage_cell_4k",
+      "appliedcreate:stress_storage_cell_16k",
+      "appliedcreate:stress_storage_cell_64k",
+      "appliedcreate:stress_storage_cell_256k",
+      "appliedcreate:stress_storage_cell_1m",
+      "appliedcreate:stress_storage_cell_4m",
+      "appliedcreate:stress_storage_cell_16m",
+      "appliedcreate:stress_storage_cell_64m",
+      "appliedcreate:stress_storage_cell_256m",
+      "appliedcreate:creative_stress_cell"
+    ]
   },
   {
     "action": "remove",
-    "items": [
-      "apotheosis:potion_charm",
-      "transmog:void_fragment",
-      "irons_spellbooks:affinity_ring"
-    ]
+    "items": ["apotheosis:potion_charm", "transmog:void_fragment", "irons_spellbooks:affinity_ring"]
   },
   {
     "action": "remove_enchantment",
@@ -85,281 +116,129 @@
       "hazennstuff:solar_core",
       "hazennstuff:spider_fang",
       "hazennstuff:nightmare_fuel",
-      "iceandfire:ghost_sword", 
+      "iceandfire:ghost_sword",
       "iceandfire:ghost_ingot"
     ]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:mothic_witch_helmet",
-      "hazennstuff:mothic_witch_chestplate",
-      "hazennstuff:mothic_witch_leggings",
-      "hazennstuff:mothic_witch_boots"
-    ]
+    "items": ["hazennstuff:mothic_witch_helmet", "hazennstuff:mothic_witch_chestplate", "hazennstuff:mothic_witch_leggings", "hazennstuff:mothic_witch_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:slc_cat_helmet",
-      "hazennstuff:slc_cat_chestplate",
-      "hazennstuff:slc_cat_leggings",
-      "hazennstuff:slc_cat_boots"
-    ]
+    "items": ["hazennstuff:slc_cat_helmet", "hazennstuff:slc_cat_chestplate", "hazennstuff:slc_cat_leggings", "hazennstuff:slc_cat_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:maverick_helmet",
-      "hazennstuff:maverick_chestplate",
-      "hazennstuff:maverick_leggings",
-      "hazennstuff:maverick_boots"
-    ]
+    "items": ["hazennstuff:maverick_helmet", "hazennstuff:maverick_chestplate", "hazennstuff:maverick_leggings", "hazennstuff:maverick_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:supreme_witch_helmet",
-      "hazennstuff:supreme_witch_chestplate",
-      "hazennstuff:supreme_witch_leggings",
-      "hazennstuff:supreme_witch_boots"
-    ]
+    "items": ["hazennstuff:supreme_witch_helmet", "hazennstuff:supreme_witch_chestplate", "hazennstuff:supreme_witch_leggings", "hazennstuff:supreme_witch_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:the_wither_helmet",
-      "hazennstuff:the_wither_chestplate",
-      "hazennstuff:the_wither_leggings",
-      "hazennstuff:the_wither_boots"
-    ]
+    "items": ["hazennstuff:the_wither_helmet", "hazennstuff:the_wither_chestplate", "hazennstuff:the_wither_leggings", "hazennstuff:the_wither_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:chlorophyte_helmet",
-      "hazennstuff:chlorophyte_headgear",
-      "hazennstuff:chlorophyte_mask",
-      "hazennstuff:chlorophyte_chestplate",
-      "hazennstuff:chlorophyte_leggings",
-      "hazennstuff:chlorophyte_boots"
-    ]
+    "items": ["hazennstuff:chlorophyte_helmet", "hazennstuff:chlorophyte_headgear", "hazennstuff:chlorophyte_mask", "hazennstuff:chlorophyte_chestplate", "hazennstuff:chlorophyte_leggings", "hazennstuff:chlorophyte_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:thunder_prowler_helmet",
-      "hazennstuff:thunder_prowler_chestplate",
-      "hazennstuff:thunder_prowler_leggings",
-      "hazennstuff:thunder_prowler_boots"
-    ]
+    "items": ["hazennstuff:thunder_prowler_helmet", "hazennstuff:thunder_prowler_chestplate", "hazennstuff:thunder_prowler_leggings", "hazennstuff:thunder_prowler_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:mycelium_guardian_helmet",
-      "hazennstuff:mycelium_guardian_chestplate",
-      "hazennstuff:mycelium_guardian_leggings",
-      "hazennstuff:mycelium_guardian_boots"
-    ]
+    "items": ["hazennstuff:mycelium_guardian_helmet", "hazennstuff:mycelium_guardian_chestplate", "hazennstuff:mycelium_guardian_leggings", "hazennstuff:mycelium_guardian_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:garments_of_the_first_flamebearer_soul_helmet",
-      "hazennstuff:garments_of_the_first_flamebearer_soul_chestplate",
-      "hazennstuff:garments_of_the_first_flamebearer_soul_leggings"
-    ]
+    "items": ["hazennstuff:garments_of_the_first_flamebearer_soul_helmet", "hazennstuff:garments_of_the_first_flamebearer_soul_chestplate", "hazennstuff:garments_of_the_first_flamebearer_soul_leggings"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:frieren_helmet",
-      "hazennstuff:frieren_chestplate",
-      "hazennstuff:frieren_leggings",
-      "hazennstuff:frieren_boots"
-    ]
+    "items": ["hazennstuff:frieren_helmet", "hazennstuff:frieren_chestplate", "hazennstuff:frieren_leggings", "hazennstuff:frieren_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:pyrium_helmet",
-      "hazennstuff:pyrium_chestplate",
-      "hazennstuff:pyrium_leggings",
-      "hazennstuff:pyrium_boots"
-    ]
+    "items": ["hazennstuff:pyrium_helmet", "hazennstuff:pyrium_chestplate", "hazennstuff:pyrium_leggings", "hazennstuff:pyrium_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:giorno_giovanna_helmet",
-      "hazennstuff:giorno_giovanna_chestplate",
-      "hazennstuff:giorno_giovanna_leggings",
-      "hazennstuff:giorno_giovanna_boots"
-    ]
+    "items": ["hazennstuff:giorno_giovanna_helmet", "hazennstuff:giorno_giovanna_chestplate", "hazennstuff:giorno_giovanna_leggings", "hazennstuff:giorno_giovanna_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:frostbite_hunter_helmet",
-      "hazennstuff:frostbite_hunter_chestplate",
-      "hazennstuff:frostbite_hunter_leggings",
-      "hazennstuff:frostbite_hunter_boots"
-    ]
+    "items": ["hazennstuff:frostbite_hunter_helmet", "hazennstuff:frostbite_hunter_chestplate", "hazennstuff:frostbite_hunter_leggings", "hazennstuff:frostbite_hunter_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:atlas_helmet",
-      "hazennstuff:atlas_chestplate",
-      "hazennstuff:atlas_leggings",
-      "hazennstuff:atlas_boots"
-    ]
+    "items": ["hazennstuff:atlas_helmet", "hazennstuff:atlas_chestplate", "hazennstuff:atlas_leggings", "hazennstuff:atlas_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:gabriel_ultrakill_helmet",
-      "hazennstuff:gabriel_ultrakill_chestplate",
-      "hazennstuff:gabriel_ultrakill_leggings",
-      "hazennstuff:gabriel_ultrakill_boots"
-    ]
+    "items": ["hazennstuff:gabriel_ultrakill_helmet", "hazennstuff:gabriel_ultrakill_chestplate", "hazennstuff:gabriel_ultrakill_leggings", "hazennstuff:gabriel_ultrakill_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:permafrost_prince_helmet",
-      "hazennstuff:permafrost_prince_chestplate",
-      "hazennstuff:permafrost_prince_leggings",
-      "hazennstuff:permafrost_prince_boots"
-    ]
+    "items": ["hazennstuff:permafrost_prince_helmet", "hazennstuff:permafrost_prince_chestplate", "hazennstuff:permafrost_prince_leggings", "hazennstuff:permafrost_prince_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:frostbite_knight_helmet",
-      "hazennstuff:frostbite_knight_chestplate",
-      "hazennstuff:frostbite_knight_leggings",
-      "hazennstuff:frostbite_knight_boots"
-    ]
+    "items": ["hazennstuff:frostbite_knight_helmet", "hazennstuff:frostbite_knight_chestplate", "hazennstuff:frostbite_knight_leggings", "hazennstuff:frostbite_knight_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:dreadsteel_knight_helmet",
-      "hazennstuff:dreadsteel_knight_chestplate",
-      "hazennstuff:dreadsteel_knight_leggings",
-      "hazennstuff:dreadsteel_knight_boots"
-    ]
+    "items": ["hazennstuff:dreadsteel_knight_helmet", "hazennstuff:dreadsteel_knight_chestplate", "hazennstuff:dreadsteel_knight_leggings", "hazennstuff:dreadsteel_knight_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:bounty_hunter_helmet",
-      "hazennstuff:bounty_hunter_chestplate",
-      "hazennstuff:bounty_hunter_leggings",
-      "hazennstuff:bounty_hunter_boots"
-    ]
+    "items": ["hazennstuff:bounty_hunter_helmet", "hazennstuff:bounty_hunter_chestplate", "hazennstuff:bounty_hunter_leggings", "hazennstuff:bounty_hunter_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:magehunter_helmet",
-      "hazennstuff:magehunter_chestplate",
-      "hazennstuff:magehunter_leggings",
-      "hazennstuff:magehunter_boots"
-    ]
+    "items": ["hazennstuff:magehunter_helmet", "hazennstuff:magehunter_chestplate", "hazennstuff:magehunter_leggings", "hazennstuff:magehunter_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:mithril_battlemage_helmet",
-      "hazennstuff:mithril_battlemage_chestplate",
-      "hazennstuff:mithril_battlemage_leggings",
-      "hazennstuff:mithril_battlemage_boots"
-    ]
+    "items": ["hazennstuff:mithril_battlemage_helmet", "hazennstuff:mithril_battlemage_chestplate", "hazennstuff:mithril_battlemage_leggings", "hazennstuff:mithril_battlemage_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:fireblossom_battlemage_helmet",
-      "hazennstuff:fireblossom_battlemage_chestplate",
-      "hazennstuff:fireblossom_battlemage_leggings",
-      "hazennstuff:fireblossom_battlemage_boots"
-    ]
+    "items": ["hazennstuff:fireblossom_battlemage_helmet", "hazennstuff:fireblossom_battlemage_chestplate", "hazennstuff:fireblossom_battlemage_leggings", "hazennstuff:fireblossom_battlemage_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:fireblossom_knight_helmet",
-      "hazennstuff:fireblossom_knight_chestplate",
-      "hazennstuff:fireblossom_knight_leggings",
-      "hazennstuff:fireblossom_knight_boots"
-    ]
+    "items": ["hazennstuff:fireblossom_knight_helmet", "hazennstuff:fireblossom_knight_chestplate", "hazennstuff:fireblossom_knight_leggings", "hazennstuff:fireblossom_knight_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:fireblossom_gown_helmet",
-      "hazennstuff:fireblossom_gown_chestplate",
-      "hazennstuff:fireblossom_gown_leggings",
-      "hazennstuff:fireblossom_gown_boots"
-    ]
+    "items": ["hazennstuff:fireblossom_gown_helmet", "hazennstuff:fireblossom_gown_chestplate", "hazennstuff:fireblossom_gown_leggings", "hazennstuff:fireblossom_gown_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:legacy_fireblossom_crown",
-      "hazennstuff:legacy_fireblossom_helmet",
-      "hazennstuff:legacy_fireblossom_chestplate",
-      "hazennstuff:legacy_fireblossom_leggings",
-      "hazennstuff:legacy_fireblossom_boots"
-    ]
+    "items": ["hazennstuff:legacy_fireblossom_crown", "hazennstuff:legacy_fireblossom_helmet", "hazennstuff:legacy_fireblossom_chestplate", "hazennstuff:legacy_fireblossom_leggings", "hazennstuff:legacy_fireblossom_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:arbitrium_robes_helmet",
-      "hazennstuff:arbitrium_robes_chestplate",
-      "hazennstuff:arbitrium_robes_leggings",
-      "hazennstuff:arbitrium_robes_boots"
-    ]
+    "items": ["hazennstuff:arbitrium_robes_helmet", "hazennstuff:arbitrium_robes_chestplate", "hazennstuff:arbitrium_robes_leggings", "hazennstuff:arbitrium_robes_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:abberant_predator_helmet",
-      "hazennstuff:abberant_predator_chestplate",
-      "hazennstuff:abberant_predator_leggings",
-      "hazennstuff:abberant_predator_boots"
-    ]
+    "items": ["hazennstuff:abberant_predator_helmet", "hazennstuff:abberant_predator_chestplate", "hazennstuff:abberant_predator_leggings", "hazennstuff:abberant_predator_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:iron431_helmet",
-      "hazennstuff:iron431_chestplate",
-      "hazennstuff:iron431_leggings",
-      "hazennstuff:iron431_boots"
-    ]
+    "items": ["hazennstuff:iron431_helmet", "hazennstuff:iron431_chestplate", "hazennstuff:iron431_leggings", "hazennstuff:iron431_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:sacred_robes_helmet",
-      "hazennstuff:sacred_robes_chestplate",
-      "hazennstuff:sacred_robes_leggings",
-      "hazennstuff:sacred_robes_boots"
-    ]
+    "items": ["hazennstuff:sacred_robes_helmet", "hazennstuff:sacred_robes_chestplate", "hazennstuff:sacred_robes_leggings", "hazennstuff:sacred_robes_boots"]
   },
   {
     "action": "remove",
-    "items": [
-      "hazennstuff:lemon_god_helmet",
-      "hazennstuff:lemon_god_chestplate",
-      "hazennstuff:lemon_god_leggings",
-      "hazennstuff:lemon_god_boots"
-    ]
+    "items": ["hazennstuff:lemon_god_helmet", "hazennstuff:lemon_god_chestplate", "hazennstuff:lemon_god_leggings", "hazennstuff:lemon_god_boots"]
   },
   {
     "action": "remove",
@@ -447,7 +326,16 @@
   {
     "action": "remove",
     "items": [
-      "gaze:rune_of_out_of_phase"
+      "gaze:rune_of_out_of_phase",
+      "eidolon_repraised:silver_sword",
+      "iceandfire:armor_silver_metal_helmet",
+      "iceandfire:armor_silver_metal_chestplate",
+      "iceandfire:armor_silver_metal_leggings",
+      "iceandfire:armor_silver_metal_boots",
+      "eidolon_repraised:silver_pickaxe",
+      "eidolon_repraised:silver_axe",
+      "eidolon_repraised:silver_shovel",
+      "eidolon_repraised:silver_hoe"
     ]
   }
 ]
