@@ -449,5 +449,15 @@
     "items": [
       "gaze:rune_of_out_of_phase"
     ]
+  },
+    {
+    "action": "remove",
+    "items": [
+      "extendedae:ex_inscriber",
+      "extendedae:ex_circuit_cutter",
+      "ae2:spatial_anchor",
+      "oritech_portable_laser",
+      "extendedae:circuit_cutter"
+    ]
   }
 ]

@@ -19,4 +19,10 @@ ServerEvents.recipes((event) => {
       "ae2:logic_processor_press",
     ])
     .keepHeldItem(true);
+      event.recipes.create
+    .deploying("ae2:silicon_press", [
+      "minecraft:iron_block",
+      "ae2:silicon_press",
+    ])
+    .keepHeldItem(true);
 });
