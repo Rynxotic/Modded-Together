@@ -31,6 +31,7 @@ ServerEvents.recipes((event) => {
       'extendedae:concurrent_processor',
       'extendedae:crystal_assembler',
       'extendedae:assembler_matrix_frame',
+      'extendedae:entro_seed',
       //Ars Nouveau
       //Oritech
       'oritech:processing_unit',
