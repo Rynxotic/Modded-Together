@@ -43,15 +43,11 @@
     "enableLogging": false,
     "strictness": {
       "desc:": "Sets a modifier for how strict the autoBiomeCompat is, lower allows adding less similar biomes to be added. E.g. 0.5 decreases the similarity requirements by 50% . Default: 1.2",
-      "autoBiomeCompatStrictness": 1.2
+      "autoBiomeCompatStrictness": 1.0
     },
     "dimensionWhitelist": {
       "desc:": "List of allowed dimensions for automatic structure compat, by default only vanilla dimensions",
-      "dimensions": [
-        "minecraft:overworld",
-        "minecraft:the_nether",
-        "minecraft:the_end"
-      ]
+      "dimensions": ["minecraft:overworld", "minecraft:the_nether", "minecraft:the_end"]
     }
   },
   "warnMissingRegistryEntry": {
