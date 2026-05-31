@@ -490,7 +490,7 @@
 			tasks: [
 				{
 					id: "2F0E7DCCF4F66A89"
-					item: { count: 1, id: "ars_nouveau:starbuncle_charm" }
+					item: { }
 					type: "item"
 				}
 				{
@@ -1077,7 +1077,7 @@
 			tasks: [
 				{
 					id: "365C66C1AC604E6C"
-					item: { count: 1, id: "ars_elemental:flashpine_pod" }
+					item: { }
 					type: "item"
 				}
 				{
@@ -1555,10 +1555,13 @@
 		}
 		{
 			dependencies: ["6C950ED208A6728F"]
+			icon: {
+				id: "ars_nouveau:manipulation_essence"
+			}
 			id: "2B3C677DADCF5710"
 			shape: "diamond"
 			tasks: [{
-				id: "41952C184645825F"
+				id: "702CFBECF1ADA405"
 				item: { count: 1, id: "ars_nouveau:manipulation_essence" }
 				type: "item"
 			}]
@@ -1615,6 +1618,9 @@
 		}
 		{
 			dependencies: ["6C950ED208A6728F"]
+			icon: {
+				id: "kubejs:ice_essence"
+			}
 			id: "0A87D7E0750AFD89"
 			shape: "diamond"
 			tasks: [{

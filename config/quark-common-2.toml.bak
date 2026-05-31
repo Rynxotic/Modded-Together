@@ -1539,7 +1539,7 @@
 	"Soul Candles" = false
 	"Usage Ticker" = false
 	"Uses For Curses" = false
-	"Variant Animal Textures" = false
+	"Variant Animal Textures" = true
 	"Wool Shuts Up Minecarts" = false
 
 	[client.auto_walk_keybind]

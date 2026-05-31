@@ -3,9 +3,6 @@
 	default_quest_shape: ""
 	filename: "equipment_reforging_695BA116D823315B"
 	group: "5CF4FC955D2F2DD3"
-	icon: {
-		id: "eternal_starlight:starfire_hammer"
-	}
 	id: "695BA116D823315B"
 	order_index: 2
 	quest_links: [ ]
@@ -55,8 +52,8 @@
 				item: { count: 1, id: "apotheosis:gem_dust" }
 				type: "item"
 			}]
-			x: 2.263775510204084d
-			y: -2.6801020408163296d
+			x: 2.2546381295491074d
+			y: -2.6692879803190124d
 		}
 		{
 			dependencies: [
@@ -332,11 +329,8 @@
 			rewards: [{
 				id: "02D8DA29145DC955"
 				item: {
-					components: {
-						"ftbquests:loot_crate": "coins1"
-					}
 					count: 1
-					id: "ftbquests:lootcrate"
+					id: "minecraft:apple"
 				}
 				type: "item"
 			}]

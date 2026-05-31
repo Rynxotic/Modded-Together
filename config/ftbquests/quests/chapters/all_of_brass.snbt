@@ -27,10 +27,7 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "alexsmobs:tab_icon"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersive_aircraft:cargo_airship"
 			}
 			icon_scale: 0.5d
 			id: "695C3921F6ADDAD7"
@@ -74,10 +71,7 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "alexsmobs:tab_icon"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersive_aircraft:warship"
 			}
 			icon_scale: 0.5d
 			id: "12850C5229C46CE1"
@@ -108,10 +102,7 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "alexsmobs:tab_icon"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersive_aircraft:quadrocopter"
 			}
 			icon_scale: 0.5d
 			id: "007DFB2A7561B7CF"
@@ -143,10 +134,7 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "alexsmobs:tab_icon"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersive_aircraft:gyrodyne"
 			}
 			icon_scale: 0.5d
 			id: "3C7BC19CF32FC4B0"
@@ -178,10 +166,7 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "alexsmobs:tab_icon"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersive_aircraft:biplane"
 			}
 			icon_scale: 0.5d
 			id: "4B0F9B5BB46B860A"
@@ -227,10 +212,7 @@
 			dependency_requirement: "one_started"
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "alexsmobs:tab_icon"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersive_aircraft:airship"
 			}
 			icon_scale: 0.5d
 			id: "642CF2626147F4A5"
@@ -266,11 +248,8 @@
 				{
 					id: "1BFFAD54C7AA49A6"
 					item: {
-						components: {
-							"ftbquests:loot_crate": "plushie"
-						}
 						count: 1
-						id: "ftbquests:lootcrate"
+						id: "minecraft:apple"
 					}
 					type: "item"
 				}
@@ -562,10 +541,7 @@
 			y: -3.1d
 		}
 		{
-			dependencies: [
-				"56A2B326C1C263C7"
-				"1ADE21F3A1856D14"
-			]
+			dependencies: ["4096F0E0F137F2B5"]
 			id: "61784150D4FDE83E"
 			rewards: [
 				{
@@ -597,7 +573,7 @@
 				type: "item"
 			}]
 			x: -1.75d
-			y: 2.75d
+			y: 4.75d
 		}
 		{
 			dependencies: [
@@ -677,10 +653,7 @@
 			y: 1.75d
 		}
 		{
-			dependencies: [
-				"56A2B326C1C263C7"
-				"1ADE21F3A1856D14"
-			]
+			dependencies: ["56A2B326C1C263C7"]
 			id: "05156939869ED68F"
 			rewards: [{
 				id: "221999B83771C8E2"
@@ -699,7 +672,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 4.5d
+			y: 4.0d
 		}
 		{
 			dependencies: [
@@ -724,8 +697,8 @@
 				item: { count: 1, id: "createaddition:large_connector" }
 				type: "item"
 			}]
-			x: 0.75d
-			y: 4.5d
+			x: 1.25d
+			y: 4.0d
 		}
 		{
 			dependencies: [
@@ -825,8 +798,8 @@
 				item: { count: 1, id: "createaddition:copper_spool" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.2536493946646132d
+			x: -0.75d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -852,14 +825,11 @@
 				item: { count: 1, id: "createaddition:gold_spool" }
 				type: "item"
 			}]
-			x: 0.7999999999999998d
-			y: 3.2536493946646132d
+			x: 0.75d
+			y: 2.5d
 		}
 		{
-			dependencies: [
-				"659976B2F0FE208B"
-				"1ADE21F3A1856D14"
-			]
+			dependencies: ["659976B2F0FE208B"]
 			id: "2470EE7039FBC09E"
 			rewards: [{
 				id: "4C5EA9E67C987F51"
@@ -877,8 +847,8 @@
 				item: { count: 1, id: "createaddition:electrum_spool" }
 				type: "item"
 			}]
-			x: 1.6170464763321704d
-			y: 3.25d
+			x: -1.75d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -903,8 +873,8 @@
 				item: { count: 1, id: "createaddition:festive_spool" }
 				type: "item"
 			}]
-			x: 2.4000000000000004d
-			y: 3.2536493946646132d
+			x: 1.75d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -913,10 +883,7 @@
 			]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "alexsmobs:tab_icon"
-				}
-				id: "ftbquests:missing_item"
+				id: "immersive_aircraft:bamboo_hopper"
 			}
 			icon_scale: 0.5d
 			id: "70DD2FB347FA0D23"

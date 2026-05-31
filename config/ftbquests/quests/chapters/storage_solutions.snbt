@@ -5,10 +5,7 @@
 	filename: "storage_solutions"
 	group: "35D265AB28CC4B21"
 	icon: {
-		components: {
-			"ftbquests:missing_item": "refinedstorage:creative_controller"
-		}
-		id: "ftbquests:missing_item"
+		id: "ae2:controller"
 	}
 	id: "3797BCB8D2AB38A8"
 	images: [{
@@ -26,41 +23,39 @@
 			dependencies: ["06A30576F3581F25"]
 			icon_scale: 1.5d
 			id: "1846F5727D2BC433"
-			rewards: [{
-				count: 5
-				id: "286A4A4A143BAAB5"
-				item: {
-					components: {
-						"ftbquests:loot_crate": "coins2"
+			rewards: [
+				{
+					count: 5
+					id: "286A4A4A143BAAB5"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "coins2"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
 					}
-					count: 1
-					id: "ftbquests:lootcrate"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "7DE38C9C7573E441"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "AE2"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			tasks: [{
-				id: "09C8EDC9AA1D41C6"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:wireless_transmitter" }, count: 1, id: "ftbquests:missing_item" }
+				id: "2CA56ABC73B51FA9"
+				item: { count: 1, id: "ae2:wireless_access_point" }
 				type: "item"
 			}]
 			x: 0.0d
 			y: 4.300000000000001d
-		}
-		{
-			dependencies: ["1846F5727D2BC433"]
-			id: "42D011E0D00103A4"
-			rewards: [{
-				id: "3F6C69F13B42CE8A"
-				type: "loot"
-			}]
-			tasks: [{
-				id: "5839F275AC4636B0"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:network_transmitter" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -0.3999999999999999d
-			y: 5.4d
 		}
 		{
 			dependencies: ["1846F5727D2BC433"]
@@ -70,12 +65,12 @@
 				type: "loot"
 			}]
 			tasks: [{
-				id: "43C000A32F023903"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:network_receiver" }, count: 1, id: "ftbquests:missing_item" }
+				id: "078ED8971BA13BB7"
+				item: { count: 1, id: "extendedae:wireless_connect" }
 				type: "item"
 			}]
-			x: 0.3999999999999999d
-			y: 5.4d
+			x: 0.75d
+			y: 5.75d
 		}
 		{
 			dependencies: ["6C8346BEF1EE2B44"]
@@ -93,8 +88,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "646D8152822C3A6A"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:disk_interface" }, count: 1, id: "ftbquests:missing_item" }
+				id: "15B09A0726BA345A"
+				item: { count: 1, id: "ae2:portable_item_cell_1k" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -116,10 +111,10 @@
 					type: "item"
 				}
 				{
-					id: "7EA88DB1A53B3C97"
+					id: "79270544EFD5DA08"
 					item: {
 						components: {
-							"ftbquests:loot_crate": "refined"
+							"ftbquests:loot_crate": "AE2"
 						}
 						count: 1
 						id: "ftbquests:lootcrate"
@@ -130,13 +125,13 @@
 			shape: "square"
 			tasks: [
 				{
-					id: "08C70C75888BF9CB"
-					item: { components: { "ftbquests:missing_item": "refinedstorage:disk_drive" }, count: 1, id: "ftbquests:missing_item" }
+					id: "70E4A768330F1145"
+					item: { count: 1, id: "ae2:drive" }
 					type: "item"
 				}
 				{
-					id: "5FEEA34E7BE57654"
-					item: { components: { "ftbquests:missing_item": "refinedstorage:1k_storage_disk" }, count: 1, id: "ftbquests:missing_item" }
+					id: "5DF7157560DBF4F2"
+					item: { count: 1, id: "ae2:item_storage_cell_1k" }
 					type: "item"
 				}
 			]
@@ -159,8 +154,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "3EB39E14F87E3164"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:storage_monitor" }, count: 1, id: "ftbquests:missing_item" }
+				id: "1072F2F89FA5A0FD"
+				item: { count: 1, id: "ae2:storage_monitor" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -181,20 +176,17 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "09683F7ADFE4002F"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:crafting_grid" }, count: 1, id: "ftbquests:missing_item" }
+				id: "66AD397E1887EC98"
+				item: { count: 1, id: "ae2:crafting_terminal" }
 				type: "item"
 			}]
-			x: 2.0247102200819d
-			y: 3.0984649623248686d
+			x: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["06A30576F3581F25"]
 			icon: {
-				components: {
-					"ftbquests:missing_item": "refinedstorage:pattern_grid"
-				}
-				id: "ftbquests:missing_item"
+				id: "ae2:pattern_encoding_terminal"
 			}
 			id: "74550D01582163E0"
 			rewards: [{
@@ -211,21 +203,24 @@
 			}]
 			tasks: [
 				{
-					id: "369C0E2A8D7FAF5A"
-					item: { components: { "ftbquests:missing_item": "refinedstorage:pattern_grid" }, count: 1, id: "ftbquests:missing_item" }
+					id: "7F0561E4664C045A"
+					item: { count: 1, id: "ae2:pattern_encoding_terminal" }
 					type: "item"
 				}
 				{
-					id: "030482880AC459AF"
-					item: { components: { "ftbquests:missing_item": "refinedstorage:pattern" }, count: 1, id: "ftbquests:missing_item" }
+					id: "449F980AB6DB4588"
+					item: { count: 1, id: "ae2:blank_pattern" }
 					type: "item"
 				}
 			]
-			x: -1.1d
-			y: 3.1d
+			x: -1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["517D9D523E695937"]
+			icon: {
+				id: "ae2:terminal"
+			}
 			id: "06A30576F3581F25"
 			rewards: [
 				{
@@ -241,10 +236,10 @@
 					type: "item"
 				}
 				{
-					id: "089F7661F6C4C0CE"
+					id: "16C0EC96D4DB6376"
 					item: {
 						components: {
-							"ftbquests:loot_crate": "refined"
+							"ftbquests:loot_crate": "AE2"
 						}
 						count: 1
 						id: "ftbquests:lootcrate"
@@ -254,12 +249,12 @@
 			]
 			shape: "square"
 			tasks: [{
-				id: "210C9843C623BD85"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:grid" }, count: 1, id: "ftbquests:missing_item" }
+				id: "1991450863C88B55"
+				item: { count: 1, id: "ae2:terminal" }
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.1d
+			y: 3.0d
 		}
 		{
 			dependencies: ["74550D01582163E0"]
@@ -277,12 +272,12 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "07DDE7D135AC0D85"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:autocrafter" }, count: 1, id: "ftbquests:missing_item" }
+				id: "336E1C32566C1B37"
+				item: { count: 1, id: "ae2:cable_pattern_provider" }
 				type: "item"
 			}]
-			x: -1.9d
-			y: 3.1d
+			x: -2.25d
+			y: 3.0d
 		}
 		{
 			dependencies: ["72C8FDDBB7EEEDF8"]
@@ -300,8 +295,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "3A75A7AEDDB55823"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:exporter" }, count: 1, id: "ftbquests:missing_item" }
+				id: "228127E39B028869"
+				item: { count: 1, id: "ae2:export_bus" }
 				type: "item"
 			}]
 			x: 1.1d
@@ -325,8 +320,8 @@
 			}]
 			shape: "square"
 			tasks: [{
-				id: "577252F8928F288C"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:cable" }, count: 1, id: "ftbquests:missing_item" }
+				id: "0C4F0E5F718A246B"
+				item: { count: 1, id: "ae2:controller" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -348,8 +343,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "2B6FDDCFCA8205EE"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:external_storage" }, count: 1, id: "ftbquests:missing_item" }
+				id: "4FBB185AE0ED4231"
+				item: { count: 1, id: "ae2:storage_bus" }
 				type: "item"
 			}]
 			x: 1.9d
@@ -359,20 +354,16 @@
 			dependencies: ["72C8FDDBB7EEEDF8"]
 			id: "3492C7F03829A2A5"
 			rewards: [{
-				count: 4
 				id: "5AB298DB60CA2856"
 				item: {
-					components: {
-						"ftbquests:loot_crate": "coins2"
-					}
 					count: 1
-					id: "ftbquests:lootcrate"
+					id: "minecraft:apple"
 				}
 				type: "item"
 			}]
 			tasks: [{
-				id: "270D01D657294FB1"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:importer" }, count: 1, id: "ftbquests:missing_item" }
+				id: "756082A36B9E48CC"
+				item: { count: 1, id: "ae2:import_bus" }
 				type: "item"
 			}]
 			x: 1.1d
@@ -382,10 +373,7 @@
 			dependencies: ["7B6D24D7F57E065A"]
 			hide_until_deps_complete: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "refinedstorage:creative_controller"
-				}
-				id: "ftbquests:missing_item"
+				id: "ae2:controller"
 			}
 			icon_scale: 1.5d
 			id: "517D9D523E695937"
@@ -393,19 +381,16 @@
 				{
 					id: "52D814974A6D2A4E"
 					item: {
-						components: {
-							"ftbquests:loot_crate": "plushie"
-						}
 						count: 1
-						id: "ftbquests:lootcrate"
+						id: "minecraft:apple"
 					}
 					type: "item"
 				}
 				{
-					id: "20C6004B42EF15D1"
+					id: "3A1FD9ED28B14AC5"
 					item: {
 						components: {
-							"ftbquests:loot_crate": "refined"
+							"ftbquests:loot_crate": "AE2"
 						}
 						count: 1
 						id: "ftbquests:lootcrate"
@@ -416,15 +401,15 @@
 			shape: "none"
 			size: 1.5d
 			tasks: [{
-				id: "06E8DEB6D7C4B21C"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:controller" }, count: 1, id: "ftbquests:missing_item" }
+				id: "5428D533ABA1E047"
+				item: { count: 1, id: "ae2:controller" }
 				type: "item"
 			}]
 			x: 0.0d
 			y: -3.1d
 		}
 		{
-			dependencies: ["74550D01582163E0"]
+			dependencies: ["66EA7DEE1464004A"]
 			id: "15C016A627AEB0F9"
 			rewards: [{
 				count: 5
@@ -439,15 +424,15 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "6C589EC422FFF8CA"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:autocrafting_monitor" }, count: 1, id: "ftbquests:missing_item" }
+				id: "78B42A863CEA9BF2"
+				item: { count: 1, id: "ae2:pattern_access_terminal" }
 				type: "item"
 			}]
-			x: -1.9d
-			y: 2.1999999999999997d
+			x: -3.5d
+			y: 3.0d
 		}
 		{
-			dependencies: ["74550D01582163E0"]
+			dependencies: ["66EA7DEE1464004A"]
 			id: "5A8789D7CD900ABD"
 			rewards: [{
 				count: 5
@@ -462,15 +447,18 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "7EDCCF551DF7D111"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:autocrafter_manager" }, count: 1, id: "ftbquests:missing_item" }
+				id: "482DDB2A6407151F"
+				item: { count: 1, id: "ae2:molecular_assembler" }
 				type: "item"
 			}]
-			x: -1.9d
-			y: 3.9999999999999996d
+			x: -3.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["06A30576F3581F25"]
+			icon: {
+				id: "ae2:formation_plane"
+			}
 			id: "136C768289DE589C"
 			rewards: [{
 				id: "6C9897ECD5CAB6C5"
@@ -484,15 +472,18 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "1A56559E515651A1"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:constructor" }, count: 1, id: "ftbquests:missing_item" }
+				id: "6C0F51D6F935035D"
+				item: { count: 1, id: "ae2:formation_plane" }
 				type: "item"
 			}]
-			x: 1.1158404365491634d
-			y: 2.6027178076706505d
+			x: 1.25d
+			y: 2.25d
 		}
 		{
 			dependencies: ["06A30576F3581F25"]
+			icon: {
+				id: "ae2:annihilation_plane"
+			}
 			id: "6F6564478E5E52A6"
 			rewards: [{
 				id: "2E8D806B5724A404"
@@ -506,12 +497,72 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "43CB454E3B611853"
-				item: { components: { "ftbquests:missing_item": "refinedstorage:destructor" }, count: 1, id: "ftbquests:missing_item" }
+				id: "431193B59CB74A60"
+				item: { count: 1, id: "ae2:annihilation_plane" }
 				type: "item"
 			}]
-			x: 1.1364965679930918d
-			y: 3.573555985535158d
+			x: 1.25d
+			y: 3.75d
+		}
+		{
+			dependencies: ["66EA7DEE1464004A"]
+			dependency_requirement: "one_started"
+			id: "20CDFF148D236D98"
+			rewards: [{
+				count: 5
+				id: "39D8AA330BEB715D"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "coins2"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2C09197130D6154E"
+					item: { count: 1, id: "ae2:crafting_accelerator" }
+					type: "item"
+				}
+				{
+					id: "124CF803C920B3B8"
+					item: { count: 1, id: "ae2:1k_crafting_storage" }
+					type: "item"
+				}
+				{
+					id: "7B871AA430629F3D"
+					item: { count: 1, id: "ae2:crafting_unit" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1846F5727D2BC433"]
+			id: "0E9E1893164A0530"
+			tasks: [
+				{
+					id: "4028E02EA3E18898"
+					item: { count: 1, id: "ae2:quantum_link" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "306B84A160451B95"
+					item: { count: 1, id: "ae2:quantum_ring" }
+					type: "item"
+				}
+				{
+					id: "6FC8FBF36D798D88"
+					item: { count: 1, id: "ae2:quantum_entangled_singularity" }
+					type: "item"
+				}
+			]
+			x: -0.75d
+			y: 5.75d
 		}
 	]
 }

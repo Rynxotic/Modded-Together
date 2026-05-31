@@ -101,10 +101,6 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"304B359A17D9DC8B"
-				"10008913EA0470F6"
-			]
 			id: "369D66CACAEDE0D9"
 			rewards: [{
 				count: 4
@@ -118,14 +114,13 @@
 				}
 				type: "item"
 			}]
-			shape: "circle"
 			tasks: [{
 				id: "1A7D575A36CE7940"
 				item: { count: 1, id: "alshanex_familiars:familiar_storage" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 2.0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
@@ -439,30 +434,22 @@
 			y: -0.8966610392043677d
 		}
 		{
-			dependencies: [
-				"10008913EA0470F6"
-				"304B359A17D9DC8B"
-			]
 			id: "3ACFD2EF49451E95"
 			rewards: [{
 				id: "49F5C998A64831FF"
 				item: {
-					components: {
-						"ftbquests:loot_crate": "coins1"
-					}
 					count: 1
-					id: "ftbquests:lootcrate"
+					id: "minecraft:apple"
 				}
 				type: "item"
 			}]
-			shape: "rsquare"
 			tasks: [{
 				id: "257E3BC580A508C3"
 				item: { count: 1, id: "alshanex_familiars:shrinking_station" }
 				type: "item"
 			}]
-			x: -1.75d
-			y: 0.5d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -598,10 +585,6 @@
 			y: 0.5d
 		}
 		{
-			dependencies: [
-				"35FDACB27408FC07"
-				"304B359A17D9DC8B"
-			]
 			id: "0C7809E3A8D4DD37"
 			rewards: [{
 				count: 5
@@ -615,7 +598,6 @@
 				}
 				type: "item"
 			}]
-			shape: "circle"
 			tasks: [
 				{
 					id: "0305799910E856E8"
@@ -633,8 +615,8 @@
 					type: "item"
 				}
 			]
-			x: 3.25d
-			y: -0.5d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [

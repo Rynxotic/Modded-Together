@@ -99,6 +99,7 @@
 			}
 			id: "2653B1E1072A49DA"
 			rewards: [{
+				exclude_from_claim_all: true
 				id: "00509864B30C0731"
 				type: "loot"
 			}]
@@ -110,7 +111,7 @@
 				}
 				{
 					id: "22A5EFB4F0A9AF4B"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:cryomancer_chestplate" }
+					item: { }
 					type: "item"
 				}
 				{
@@ -215,7 +216,7 @@
 				}
 				{
 					id: "49AFFB665A910B74"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:priest_chestplate" }
+					item: { }
 					type: "item"
 				}
 				{
@@ -805,6 +806,7 @@
 			}
 			id: "266F66B3FF5E09A4"
 			rewards: [{
+				exclude_from_claim_all: true
 				id: "34092DEE3D282D24"
 				type: "loot"
 			}]

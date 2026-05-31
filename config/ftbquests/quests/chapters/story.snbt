@@ -300,17 +300,8 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
-					command: "/pop create @p BOTTOM_CENTER 8 You've completed the first quest! Hold G to open action menu!"
-					icon: {
-						components: {
-							"!ftbquests:icon": { }
-							"ftbquests:entity_face": "minecraft:llama"
-						}
-						id: "ftbquests:custom_icon"
-					}
+					command: "/say Hi, @p!"
 					id: "5A09574B87A94838"
-					permission_level: 4
 					type: "command"
 				}
 			]
@@ -476,8 +467,8 @@
 				}
 			]
 			tasks: [{
-				id: "65CA93B0F6EC52C9"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(refinedstorage:controllers)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "21FFB8DDEB9B441B"
+				item: { count: 1, id: "ae2:controller" }
 				type: "item"
 			}]
 			x: 1.25d
@@ -968,6 +959,77 @@
 				type: "item"
 			}]
 			x: 3.75d
+			y: 4.25d
+		}
+		{
+			dependencies: ["7B9F5F724D5A2D51"]
+			id: "2C0EC41C99F42C16"
+			tasks: [{
+				id: "3BB94B8ADB9B10AD"
+				item: { count: 1, id: "tempad:time_steel" }
+				type: "item"
+			}]
+			x: 1.25d
+			y: 5.25d
+		}
+		{
+			dependencies: ["7B6D24D7F57E065A"]
+			id: "7B9F5F724D5A2D51"
+			rewards: [
+				{
+					count: 2
+					id: "43233C7963A77D89"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "create"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7B2FE6BF87F9F75C"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "storage"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
+					}
+					type: "item"
+				}
+				{
+					id: "23C4D43FE7649F8B"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "plushie"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2B856CB25C60A6F8"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "AE2"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "498492181F972BDD"
+				item: { count: 1, id: "oritech:machine_core_1" }
+				type: "item"
+			}]
+			x: 1.25d
 			y: 4.25d
 		}
 	]

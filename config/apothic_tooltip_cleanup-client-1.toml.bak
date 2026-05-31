@@ -12,23 +12,8 @@
 	affix_visible_count = 3
 	# Sort order: default, rarity, alphabetical, type.
 	affix_sort_order = "default"
-	# Strips prefixes from affix names.
-	clean_affix_prefixes = false
 	# Translation key prefixes of affixes to hide.
 	hidden_affix_ids = []
-	# affix tooltip lines
-	# ============================================================
-	# Hides the affix source line.
-	hide_source_line = false
-	# Hides the summary block (Cold/Fire/HP%/Spell Resistance lines).
-	disable_summarization = false
-	# Hides the "ignores X% of durability damage" line.
-	hide_durability_bonus = false
-	# Hides potion-style affix descriptions.
-	disable_potion_descriptions = false
-	# Hides bracketed markers from affix lines (cooldown and Stacking tag).
-	# Hold Alt to view the full line including markers.
-	hide_affix_extras = true
 	# gem display (raw gems)
 	# ============================================================
 	# Controls how raw gem tooltips display.
@@ -50,6 +35,34 @@
 	# Only enable if the marker is leaking through visibly.
 	# Can hide the socket UI on socketed items if enabled.
 	hide_apoth_marker = false
+	# Affix type prefixes (While held, On hit, On block, Passive).
+	# show = always visible
+	# alt = hidden unless Alt is held
+	# delete = always hidden, Alt has no effect
+	affix_prefixes_mode = "show"
+	# affix tooltip lines
+	# ============================================================
+	# The summary block (Cold/Fire/HP%/Spell Resistance lines).
+	# show = always visible
+	# alt = hidden unless Alt is held
+	# delete = always hidden, Alt has no effect
+	summarization_mode = "alt"
+	# The "ignores X% of durability damage" line.
+	# show = always visible
+	# alt = hidden unless Alt is held
+	# delete = always hidden, Alt has no effect
+	durability_bonus_mode = "alt"
+	# Potion-style affix descriptions.
+	# show = always visible
+	# alt = hidden unless Alt is held
+	# delete = always hidden, Alt has no effect
+	potion_descriptions_mode = "show"
+	# The [⌛ MM:SS] cooldown markers and [Stacking] tags on affix lines.
+	# The affix text itself is never touched, only the annotations.
+	# show = always visible
+	# alt = hidden unless Alt is held
+	# delete = always hidden, Alt has no effect
+	affix_extras_mode = "alt"
 
 [rarity_colors]
 	# Enables custom rarity color overrides.

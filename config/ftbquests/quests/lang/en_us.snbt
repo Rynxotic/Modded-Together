@@ -4,10 +4,10 @@
 	chapter.0FC8A45C8B69F6CF.title: "The Brass Age"
 	chapter.10030B7FBDC5BD9E.title: "&0Black Market"
 	chapter.101E511680EA70E5.title: "- Andesite Age"
+	chapter.1385AC8A1CE21AFE.title: "&6Loot Crates"
 	chapter.1486895FB68B0F08.title: "&b&fOverview"
 	chapter.1AF49422240C8439.title: "- Copper Age"
 	chapter.266542F91BB9BC6E.title: "- Eternal Starlight"
-	chapter.2B26251833EF64D7.title: "- Plushies"
 	chapter.375A8F6624BCF455.title: "- Boss Compedium"
 	chapter.3797BCB8D2AB38A8.title: "- Advanced Storage"
 	chapter.37F197E6DC492F0B.title: "- Basic Storage"
@@ -25,6 +25,7 @@
 	chapter.5768FFE8D633E233.title: "Pack Introduction"
 	chapter.578FDAE23052383C.title: "Rumors"
 	chapter.58BB2C8D50270BA7.title: "&2Overworld Biome Maps"
+	chapter.5E7FE28E293AD7F6.title: "Cosmic Tech"
 	chapter.5FA7FAEAB572D2E0.title: "&4Nether Biome Maps"
 	chapter.66C1ABE8A80E0344.title: "- Culinary Arts"
 	chapter.695BA116D823315B.title: "- Item Reforging"
@@ -33,10 +34,12 @@
 	chapter.7071BD8565DFCEBA.title: "The Industrial Age"
 	chapter.76E051A37DBE9FEF.title: "Building a Base"
 	chapter.7C47C9158627CBF8.title: "Collections"
+	chapter.7DC088661B274FFC.title: "Matter Minipulation"
 	chapter_group.0DADF96DBC50AC3A.title: "&6EXPLORATION"
 	chapter_group.1BCBA5826AA41280.title: "&bCULTURE AND WORLD"
 	chapter_group.35D265AB28CC4B21.title: "&9TECH JOURNEY"
 	chapter_group.5CF4FC955D2F2DD3.title: "&dSCHOOL OF MAGIC"
+	chapter_group.6478263FC2EC36C2.title: "&2Modded Together Market"
 	file.0000000000000001.title: "&l&5&fModded Together&r&l&o&b&5"
 	quest.00005BF4AD7854AA.title: "Illusioner Shack"
 	quest.005C9447F3091F2B.quest_subtitle: "Collect Every Hat"
@@ -218,6 +221,7 @@
 	quest.032EFFF7193897C0.quest_subtitle: "Process negative effects faster"
 	quest.0331AC0315EBB66D.quest_desc: ["Nestled among the trees, this lively tavern is usually a haven for villagers looking to unwind. Yet when the ale flows too freely, even the most peaceful patrons turn aggressive, defending their pub with surprising ferocity. Enter carefully or risk being caught in a drunken brawl."]
 	quest.0331AC0315EBB66D.quest_subtitle: "Find a Greenwood Pub"
+	quest.03825FD55FB72543.quest_subtitle: "Speed for Power"
 	quest.0389D1998E99F8D5.quest_desc: ["{image:gamma_creatures:textures/screens/turlan_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.03AE89032879F840.quest_desc: [
 		"The &6Mechanical Saw&r uses rotational power to cut wood blocks in front of it."
@@ -393,7 +397,7 @@
 		"Use it to combine accessories more freely."
 	]
 	quest.0B997F9AA39276A1.quest_subtitle: "Break slot restrictions"
-	quest.0BB53AC414552D70.quest_desc: ["Attach to the refined storage system or an &eExternal Storage&r. Use in and out to fill items in &eDisk Drives&r. Specific items can also be filtered. Note: Ensure configurations in interface such as \"extract\" vs. \"insert\" are correct."]
+	quest.0BB53AC414552D70.quest_desc: ["The &ePortable Storage Drive &facts like a backpack. However it requires energy. These are great before you can get wireless terminals!"]
 	quest.0BB53AC414552D70.quest_subtitle: "Burning CD's!"
 	quest.0BBFE3A82C1D7086.quest_desc: [
 		"&cRawwrh!&r"
@@ -404,6 +408,12 @@
 		"{@pagebreak}"
 		"Fire Dragons can be found in hot biomes such as deserts and mesas."
 	]
+	quest.0C0CDC3D8C72DAD9.quest_desc: [
+		"A &6Card Wallet&r can store multiple &6Location Cards&r and integrates automatically with the &6Tempad&r. "
+		""
+		"When carried in a Curios slot or the inventory, the &6Tempad&r displays all wallet entries alongside its own saved locations."
+	]
+	quest.0C0CDC3D8C72DAD9.quest_subtitle: "Expanding Card Storage"
 	quest.0C2CAC4A102542B9.quest_desc: ["{image:gamma_creatures:textures/screens/crasu_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.0C2CB07683B598AB.quest_desc: [
 		"There are many &6Backpack Upgrades&r that can improve capacity and add new functions."
@@ -456,7 +466,7 @@
 	quest.0D534B3FB957F5AA.quest_desc: ["{image:gamma_creatures:textures/screens/shecko_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.0D9387765E15B6E6.title: "Bearclaw Inn"
 	quest.0DA7B652CC5FD89A.quest_desc: ["{image:gamma_creatures:textures/screens/grudels_eng2.png width:151 height:100 align:center fit:true}"]
-	quest.0DC4960C79EC8367.quest_desc: ["Use with a &eNetwork Transmitter&r to connect storage networks wirelessly. "]
+	quest.0DC4960C79EC8367.quest_desc: ["Use with a &eWireless Connector&r to connect networks wirelessly. "]
 	quest.0DCE59A1FBCF1519.quest_subtitle: "Brief flight capability when in darkness"
 	quest.0DCE59A1FBCF1519.title: "Darkness Suit"
 	quest.0DE14E15D9A336F6.quest_desc: [
@@ -464,6 +474,31 @@
 		"{@pagebreak}"
 		"The &aHydra&r will spawn in its lair throughout &2swamp-like&r biomes."
 	]
+	quest.0DFF64C6452A3465.quest_desc: [
+		"&aPros:&r"
+		"&8●&r +Summons Sword Constructs"
+		"&8●&r +30% Sword Damage"
+		""
+		"&4Cons:&r"
+		"&8●&r -50% Non-sword attack damage"
+		"&8●&r -50% Magic Proficiency"
+		""
+		""
+		"&8Pedestal Items:&r"
+		"8x Mnemonic Fragment"
+		"4x Minicry Relay"
+		"16x Hallowed Ingot"
+		""
+		"&8Central Item:&r"
+		"Spirit Saber"
+		""
+		"&8Spirits:&r"
+		"1x &8Umbral&r"
+		"64x &#D546FFArcane&r"
+		"64x &#4BF3DAAerial&r"
+		"64x &#FA9A1FInfernal&r"
+	]
+	quest.0DFF64C6452A3465.title: "Domain Of Swords"
 	quest.0E21C7219714B8A7.quest_desc: [
 		"As you approach the Redhorn Guild, you hear the rattle of weapons and armor as its inhabitants stare at you through the tower. Once you pull out the &5Note&r, though, everyone settles back down and you are waved inside."
 		""
@@ -485,6 +520,7 @@
 	quest.0E27BB345555B163.quest_subtitle: "Click to get the Animal Dictionary!"
 	quest.0E3EF6B800C9AD0D.title: "Eucalyptus Forest"
 	quest.0E920B47FE1D61F2.title: "Frozen Peaks"
+	quest.0E9E1893164A0530.quest_subtitle: "Spooky Action At A Distance!"
 	quest.0EABC471B5A4422B.quest_desc: ["{image:gamma_creatures:textures/screens/gusnow_eng2.png width:151 height:100 align:center fit:true}"]
 	quest.0EBC45A74B6F6BBF.quest_subtitle: "&l&n&5Once a old relic but was blessed by the gods!"
 	quest.0EECD33C8D3B683F.quest_subtitle: "Reach lv1000"
@@ -593,7 +629,7 @@
 	]
 	quest.11263C23054F75DA.quest_subtitle: "Enduring strength"
 	quest.112A82ADF7733058.quest_desc: ["The &6Mechanical Drill&r breaks the block directly in front of it when supplied with rotational power."]
-	quest.114347412B7B12D4.quest_desc: ["A &eGrid&r with the ability to craft."]
+	quest.114347412B7B12D4.quest_desc: ["A &eTermial&r with the ability to craft."]
 	quest.114534F59500DF73.quest_desc: [
 		"Every journey begins with a simple chest."
 		""
@@ -646,6 +682,7 @@
 	quest.12AB8BFCFE89CE4F.quest_desc: ["Complete purple &5Sempiternal Sanctum &rchallenge."]
 	quest.131B6DE8B6402E75.title: "Autumnal Maple Forest"
 	quest.1351DAD5382158BE.title: "Abandoned House"
+	quest.136C768289DE589C.quest_desc: ["&eFormation Plane &fPlaces blocks infront of it."]
 	quest.13A45A91408CDEA7.quest_desc: [
 		"The &bGlass Brooch&r allows you to inscribe additional runes."
 		""
@@ -699,10 +736,21 @@
 		""
 		"These arms cannot filter items themselves, but will follow the filters of brass funnels listed as input locations. This works especially well when paired with a mechanical crafter."
 	]
+	quest.15C016A627AEB0F9.quest_desc: ["&ePattern Access Terminal &fallows you to look at what patterns are in your system and swap them around. "]
 	quest.15CBD80EF6E59C66.quest_desc: ["Train signals help control the flow of traffic for trains not driven by a player. To use one, hold it and r-click a track. Then place it nearby. Train signals have arrows pointing in the direction that trains are allowed to go. A signal can go both ways if a second train signal is placed on the other side of the track. For more information on the different settings and configurations of trainn tracks, use the ponder ability."]
 	quest.15D67A707A499520.quest_subtitle: "Trade with villager 100 times"
 	quest.15D67A707A499520.title: "Barter"
 	quest.15E656AB2041D402.title: "Infernal Holt"
+	quest.15FEE70A75CA675D.quest_desc: [
+		"The &2Timedoor Projector&r is the simplest way to open &6Timedoors&r and requires no Time Steel to craft. It has an internal &2Chronon&r capacity of &24,000&r and works with &6Location Cards&r to create portals. "
+		"{@pagebreak}"
+		"It can be used two ways: "
+		""
+		"&8●&r Held in hand, right-click to open a &6Timedoor&r "
+		""
+		"&8●&r Placed as a block and triggered by a &4Redstone signal&r."
+	]
+	quest.15FEE70A75CA675D.quest_subtitle: "Babies 1st Steps"
 	quest.1685D64D1EDB0EB0.quest_desc: ["Allows to pipe items out of storage system."]
 	quest.1689677166235C89.title: "Ashen Woodlands"
 	quest.168FDCA29BFACC3D.quest_desc: [
@@ -792,7 +840,7 @@
 	]
 	quest.17EC541F5D610169.title: "Candy Cavity"
 	quest.17EFC22034CD0363.title: "Abyssal Armor"
-	quest.1846F5727D2BC433.quest_desc: ["Provides wireless access for certain Refined Storage items."]
+	quest.1846F5727D2BC433.quest_desc: ["Provides wireless access for certain AE2 items."]
 	quest.1863CB73604AFD14.quest_desc: [
 		"&bCulonimbus, the cloud golem, &ris an ancient &egod of air and thunder,&r He uses lightning and sky magic to protect his temple. As the antithesis to stone and earth, &eCulonimbus &rhas a hatred for any patron of these elements. The &2Ancient Guardian &ris the biggest enemy of them all. If &bCulonimbus&r sets his eyes upon the &2Ancient Guardian,&r he will go into battle immediately. Despite his large appearance, he is still light as air and quick on his feet. With a large amount of health as well, he truly is quite formidable. Although some of his attacks use a lot of energy and leave him, well…winded. "
 		"{@pagebreak}"
@@ -1236,6 +1284,9 @@
 	]
 	quest.20AE576398750BBD.quest_subtitle: "Trade with Villagers and get rewards!"
 	quest.20AE576398750BBD.title: "Trading with Villagers I"
+	quest.20CDFF148D236D98.quest_desc: ["To be able to process autocrafting requests you will need a crafting CPU setup. As a minimum it requires 1x &eCrafting Unit&f, 1x&eCrafting Storage&f, 1x&e Co-Processing Unit&f, stacked ontop of eachother and connected to the network."]
+	quest.20CDFF148D236D98.quest_subtitle: "Too Lazy To Do It By Hand !"
+	quest.20CDFF148D236D98.title: "Auto Crafting"
 	quest.21426F5EEC922866.quest_desc: ["Half-submerged in the oceans lie the petrified remains of a colossal beast, its skeletal form stretching farther than the eye can follow. Was it a creature of the deep, dragged ashore in ages past—or did it fall from the heavens themselves? No records remain, only questions carved into stone."]
 	quest.21426F5EEC922866.quest_subtitle: "Find a Typhon"
 	quest.2190515C904C5133.quest_subtitle: "Complete All \"Wizardry\" Quest Chapters"
@@ -1324,6 +1375,7 @@
 	quest.22D636C6CD7542C0.quest_subtitle: "Weave your life into miracles"
 	quest.22E6839210AB4115.quest_desc: ["Upgrade spell book variant"]
 	quest.230548B3A8E6B3D3.quest_subtitle: "Infinite durability"
+	quest.2342A341FC76266B.quest_subtitle: "Mastering Space !"
 	quest.23BB5B48E32B8A77.quest_desc: ["&eStarbuncle charm&r, crafted by &5Enchanting apparatus&r, can be right-clicked to summon a Starbuncle. The Starbuncle can be used to pick up and store items in chests using the &5Dominion wand&r. "]
 	quest.23C0F5DDA0FF977A.quest_desc: [
 		"As you arrive at the &5Tree&r, a surprisingly jovial voice rings out."
@@ -1430,7 +1482,7 @@
 	quest.26C0E4452B8066F6.quest_subtitle: "Inscribe and equip runes"
 	quest.26C0E4452B8066F6.title: "Runeworking"
 	quest.26C591103C0761A1.title: "Magnetic Caves"
-	quest.26CC2E9C21FBCFD9.quest_desc: ["Export items in refined storage setup to an external output."]
+	quest.26CC2E9C21FBCFD9.quest_desc: ["Export items in AE2 setup to an external output."]
 	quest.26CF9F2AB9E332BE.quest_desc: [
 		"&#1E5AA8Advanced Rite&r"
 		""
@@ -1522,6 +1574,30 @@
 	quest.2828614F7AD3E19C.title: "The other way"
 	quest.282DF4DB378B42B9.quest_desc: ["Wow. I'm genuinely impressed you made it this long. You deserve this."]
 	quest.282DF4DB378B42B9.quest_subtitle: "Survive and get rewarded!"
+	quest.2844662F50400532.quest_desc: [
+		"The &6Chronomark&r is an upgraded version of the &6Timedoor Marker&r. "
+		""
+		"It supports a portal offset of up to 5 blocks in any direction, allowing the marker to be hidden underground or mounted on a ceiling while the &6Timedoor&r appears at a different height."
+	]
+	quest.2844662F50400532.quest_subtitle: "Advanced Space Tearing"
+	quest.28472BF029BE8F59.quest_desc: ["The very first thing to craft is Time Steel, a material made from Iron Ingots and Netherite Scraps. Time Steel is required for nearly every advanced device in the mod, so stockpiling it early is essential. Each craft produces two ingots from two."]
+	quest.28472BF029BE8F59.quest_subtitle: "Steel made of time?"
+	quest.28472BF029BE8F59.title: "Time Steel"
+	quest.286521F3F34A396D.quest_desc: [
+		"Before using any teleportation device, a destination must be established. "
+		""
+		"Place a &6Timedoor Marker&r at the target location, then right-click it with a blank &6Location Card&r to write the coordinates. "
+		""
+		"{@pagebreak}"
+		"Right-clicking the marker with an empty hand opens a configuration screen where:"
+		""
+		"&8●&r &l&6Device Name&r, &r"
+		"&8●&r &l&6Timedoor Color&r,&r"
+		"&8●&r &l&6Security Settings&r,&r"
+		""
+		"can all be adjusted."
+	]
+	quest.286521F3F34A396D.quest_subtitle: "Marking Space?"
 	quest.28BC8D6E25E857DC.quest_subtitle: "Increases speed while sneaking"
 	quest.28D2A098210446C7.title: "Nether Fortress"
 	quest.28E1161F03772BC9.quest_subtitle: "More deadlier with dragon bone arrow"
@@ -1684,6 +1760,8 @@
 		"The &2Woodland Mansion&r is located in &2Dark Forest&r biomes. The &3Adjudicator&r will only ever stay in the basement of this structure."
 	]
 	quest.2C05F96AABB60896.title: "Witches' Abode"
+	quest.2C0EC41C99F42C16.quest_subtitle: "Matter Teleportation"
+	quest.2C0EC41C99F42C16.title: "Matter Manipulation"
 	quest.2C68C07B2D834C8C.quest_desc: [
 		"Created in a vicious clash between sea and sky, &3Scylla&r is a product of both. She harnesses the powers of water and lightning to destroy those that that enter her home, a floating &bAcropolis&r anchored to the ocean below. Many historians believe that the legends of &3Scylla&r are what inspored the journeys of other infamous sailors like &3Captain Cornelia."
 		"{@pagebreak}"
@@ -1710,6 +1788,8 @@
 		"[&#CB0CF8✧&r] &#CB0CF8Eldritch&r"
 	]
 	quest.2D0BF4AA6BE0F6E6.quest_subtitle: "Strike the vulnerable"
+	quest.2D322E83FD0793FF.quest_desc: ["The&6 Screening Device&r is an advanced version of the &2Location Broadcaster&r that adds team-based filtering."]
+	quest.2D322E83FD0793FF.quest_subtitle: "Filtering Location"
 	quest.2D58F257908A4162.title: "Temperate Grove"
 	quest.2D626A2E1004F5C1.quest_desc: [
 		"The &2Ancient Guardian&r is a creature of the earth (lowercase “e”, because obviously we are from &2the Overworld&r and not some random planet called Earth). It is older than any village or civilization can remember, and much of its origin is unknown. What is known is that it is immensely strong and sturdy, like the ground beneath your feet. With a durable body made out of ancient dripstone spikes, the &2Ancient Guardian &rhas strong defensive capabilities. These defenses help it when fighting its sworn enemy, the&b Cloud Golem. &rA battle between &2earth&r and &bsky,&2 ground&r and&b air, &ris quite the sight to behold."
@@ -2093,7 +2173,7 @@
 	quest.3492C7F03829A2A5.quest_desc: [
 		"Import from an external inventory. "
 		""
-		"Note: By default, the top row indicates the blocklisted items. Can change to allowable items."
+		"Note: By default, the top row indicates the whitelisted items. Can change to blacklist items."
 	]
 	quest.34B1062817E19ECD.quest_desc: [
 		"There are many &6Storage Upgrades&r that can improve capacity and add new functions."
@@ -2610,6 +2690,8 @@
 		""
 		"If you find one sleeping on your path, it may be wiser to go around rather than wake it. The creature guards a precious &eIce Crystal&r, capable of unleashing pure winter energy when wielded. Ranged weapons are recommended for those daring enough to face it."
 	]
+	quest.3FBC763FCE6DBB86.quest_desc: ["To charge cells and batteries, craft a &2Chronon Generator&r. Carrying it in the inventory or a Curios slot passively generates &2Chronons&r that flow into nearby cells and devices."]
+	quest.3FBC763FCE6DBB86.quest_subtitle: "Generating Time?"
 	quest.3FC3D70076B6DDF0.quest_desc: [
 		"This is a prehistoric beast possibly related to the &eAncient Remnant.&r But with both creatures being only made from fossils and too hostile to safely approach and study, archeologists have yet to determine an actual relation between the two. The &6Skeletosaurus&r uses its sheer strength and size to overwhelm its foes and kill its prey quickly. Sturdy feet and a spiky tail make great innate weapons. Should you slay this mighty beast, you might find yourself with a young one to care for and tame."
 		"{@pagebreak}"
@@ -2619,6 +2701,8 @@
 	quest.3FD44295355BD49B.title: "Riptide Sovereign Armor"
 	quest.3FED14D4D8B8C5DE.title: "Rainforest"
 	quest.40133E6D438CF1D1.title: "Ancient Portal"
+	quest.4026ED47529EF499.quest_desc: ["The &6Player Teleport Upgrade&f allows you to teleport to other players holding a &2Location Broadcaster&r or &6Scanning Device&r."]
+	quest.4026ED47529EF499.quest_subtitle: "Scanning Lifeforms"
 	quest.403944D482FBA961.quest_desc: ["Place down some train tracks and r-click them while holding a train station. A long, flat stretch of track is best. Open the train station's menu and select \"Create New Train.\" Place a train casing on any of the highlighted tracks to turn it into a bogey. From there, you can build off of the bogey and design your train. Make sure to use superglue to keep everything together. When you are done building, open the station's menu again and select \"Assemble Train.\" NOTE: You must have at least on train control on board."]
 	quest.403944D482FBA961.title: "Building a Train"
 	quest.404FF177CB141691.title: "Cottage"
@@ -2657,7 +2741,6 @@
 	quest.42963ECC905690BB.quest_subtitle: "Complete all \"Suit Up\" Quest Chapters"
 	quest.42963ECC905690BB.title: "Fashionista"
 	quest.42A44816F5A597CF.quest_desc: ["{image:gamma_creatures:textures/screens/turlan_eng2.png width:151 height:100 align:center fit:true}"]
-	quest.42D011E0D00103A4.quest_desc: ["Use with a &eNetwork Receiver&r and a &eNetwork Card&r to transmit between storage networks wirelessly. "]
 	quest.42ED72476B62BA71.quest_desc: ["&5Mage's Spell Book&r allow you to cast tier 2 glyphs and below"]
 	quest.42FA5AE8D5124F92.quest_desc: [
 		"The Wither’s power drew the interest of &9technomancers&r, who sought to turn it into a weapon. They captured and reshaped it into the Harbinger—a mechanical war machine. But a shard of its &8tormented soul&r remained, beyond control."
@@ -3136,7 +3219,7 @@
 	quest.514A3B3B7CC903B7.quest_desc: ["{image:gamma_creatures:textures/screens/zatlah_eng2.png width:151 height:100 align:center fit:true}"]
 	quest.5157AE29DAEBB0A1.title: "Dark Metal Armor"
 	quest.516DF3AB5A9E93AC.quest_desc: ["If you have any questions, please feel free to ask on discord! &dCraisin&r or &eLeafyyy&r are usually around to answer questions. Make sure to check that your question hasn't already been answered, though."]
-	quest.517D9D523E695937.quest_desc: ["The main component for a Refined Storage setup. To power, use the &eAlternator&r and associated &eConnector&r setup. Note that bigger setups attached to a controller will require more power. "]
+	quest.517D9D523E695937.quest_desc: ["The main component for an AE2 setup. To power, use the &eAlternator&r and associated &eConnector&r setup. Note that bigger setups attached to a controller will require more power. "]
 	quest.517D9D523E695937.quest_subtitle: "Nvidia or AMD?"
 	quest.51C5A13E468075F6.title: "Obsidilith Arena"
 	quest.51D9307FA7FEDA46.title: "Mangrove Swamp"
@@ -3157,6 +3240,8 @@
 		"Maximum speed is 256 RPM."
 	]
 	quest.5230D3587B041C15.quest_subtitle: "Speed control"
+	quest.52588FC8A1E4575E.quest_desc: ["The &6Knowledge Repository Upgrade&r allows access in-game encyclopedia."]
+	quest.52588FC8A1E4575E.quest_subtitle: "Portable Guidance"
 	quest.52624498675F3C66.quest_desc: [
 		"&aPros:&r"
 		"&8●&r Enter stasis when struck"
@@ -3236,6 +3321,13 @@
 		"The boost lasts for three cycles."
 	]
 	quest.5384F4B3040CFB54.quest_subtitle: "Harness opposing forces"
+	quest.5397602461B7C083.quest_desc: [
+		"The &6Workstation&r is a two-part block that serves as a docking station for the &6Tempad&r and a stationary &6Timedoor terminal&r. "
+		""
+		"{@pagebreak}"
+		"Right-click the docking pad with a &6Tempad&r to dock it, which unlocks the &6cassette slot&r for &6upgrade tapes&r and enables the Portal Setup app on the terminal screen."
+	]
+	quest.5397602461B7C083.quest_subtitle: "Upgrading to Perfection"
 	quest.539896EACCF3F1AC.quest_desc: [
 		"&bHallowed Gold&r is gold infused with Sacred arcana."
 		""
@@ -3619,6 +3711,8 @@
 		""
 		"&bNOTE: This quest is quite different to others. You must beat the parkour challenge, instead of fighting the boss in order to win."
 	]
+	quest.5A8789D7CD900ABD.quest_desc: ["A &eMolecular Assembler &fwill act as a crafting table for AE2 autocrafting"]
+	quest.5A8789D7CD900ABD.quest_subtitle: "Someone Else Can Craft It"
 	quest.5A9F07499023CC33.title: "Cursium Armor"
 	quest.5AB9F625410298AE.title: "Forests and Groves"
 	quest.5ABDA2B5174C1423.quest_desc: ["Basic set early game for spell casting"]
@@ -3736,6 +3830,19 @@
 	]
 	quest.5D966296C42F7294.quest_subtitle: "Turn fire into healing"
 	quest.5D9C9052D7853368.title: "Magma Land"
+	quest.5D9DF4ADA5ADA35D.quest_desc: [
+		"The &6Time Twister&r tracks the player’s personal timeline and allows backtracking to previous locations. "
+		""
+		"It records dimension changes and death events, presenting them on a radial display. "
+		""
+		"Selecting a point teleports the player back to that location and erases all timeline entries after the chosen point."
+		""
+		""
+		"{@pagebreak}"
+		""
+		"It can be used standalone or docked into a Tempad by right-clicking the &6Tempad&r with it. When docked, it unlocks the Travel Timeline app, which provides a more detailed minute-by-minute view of the player’s movements rather than just major events like dimension changes."
+	]
+	quest.5D9DF4ADA5ADA35D.quest_subtitle: "Mastering Time!"
 	quest.5DBB28D2E8B47D47.quest_desc: [
 		"A fiery familiar infused with infernal magic."
 		"It burns enemies that dare to approach."
@@ -3946,6 +4053,8 @@
 	]
 	quest.63E776C9321E9407.quest_subtitle: "Blocking!"
 	quest.6401E42DBD93997A.quest_desc: ["A great method to heat machines. I wonder how to fill this with a blaze..."]
+	quest.640285BA22E26720.quest_desc: ["Upgrading to a Chronon Battery doubles capacity to &24,000 Chronons&r and automatically distribute power to all carried devices."]
+	quest.640285BA22E26720.quest_subtitle: "Expanding Time"
 	quest.6402B5B6625731F0.quest_subtitle: "Take 500.000 Damage"
 	quest.6402B5B6625731F0.title: "Diamond Skin"
 	quest.64385462E003742A.quest_desc: ["Prove bee are strong. Wear bee armor set and beat &5Ender Dragon&r"]
@@ -3961,6 +4070,8 @@
 		"Used in advanced magical equipment and decorations."
 	]
 	quest.645FD518CDA984B7.quest_subtitle: "Arcane-insulated fabric"
+	quest.647335A823EBEE86.quest_desc: ["Before opening any Timedoors, a source of Chronon energy is needed. The entry-level power component is the &2Chronon Cell&r, it store &22,000 Chronons&r and automatically distribute power to all carried devices."]
+	quest.647335A823EBEE86.quest_subtitle: "Storing Time?"
 	quest.647BB831AA2FF8C4.title: "Enderskog"
 	quest.64A7804BB3AEFE86.quest_desc: [
 		"The &bRunic Brooch&r allows you to equip runes."
@@ -4104,7 +4215,8 @@
 		"&7HINT: The Harbinger can heal itself using flames. Be wary of any fire, lava, or other heat sources nearby. This includes any spells within the Fire school."
 	]
 	quest.66E2A5D8A1A92AAA.title: "Mangrove Hut"
-	quest.66EA7DEE1464004A.quest_desc: ["Using a &ePattern&r, this machine will input the stored resourced into a connected machine."]
+	quest.66EA7DEE1464004A.quest_desc: ["Using a &ePattern&r, this machine will input the stored resources into a connected machine."]
+	quest.66EA7DEE1464004A.quest_subtitle: "I am a Provider"
 	quest.66EBDFD2C7EF8780.quest_desc: [
 		"&6\"Grant Me Source.\""
 		"&6\"And I Shall\""
@@ -4138,6 +4250,13 @@
 	]
 	quest.6741EB11E7C2049E.quest_subtitle: "Do not combine blindly"
 	quest.677A9F1FFA392B64.title: "Hills"
+	quest.67B1FD1E6CBF6372.quest_desc: [
+		"The &2Location Broadcaster&r is a handheld device that, when toggled on and carried in the inventory, makes the holder visible in the Teleport app of any &6Tempad&r with the &6Player Teleport upgrade&r installed. "
+		""
+		""
+		"Right-clicking it toggles between &2active&r (&2green screen&r) and &4inactive&r (&4red screen&r)."
+	]
+	quest.67B1FD1E6CBF6372.quest_subtitle: "Locating Friends"
 	quest.67C21FEEACD7C102.quest_desc: ["This manuscript contains unknown powerful spells. Hold right-click to learn these forbidden incantations.  "]
 	quest.67C21FEEACD7C102.quest_subtitle: "Ancient Knowledge"
 	quest.67DEB218F15BDA0B.title: "Forlorn Hollows"
@@ -4539,6 +4658,8 @@
 	quest.6F4219D5D01B5958.quest_subtitle: "Empowering the blade"
 	quest.6F4219D5D01B5958.title: "Scythe Enchanting"
 	quest.6F575FD4C27C64D8.title: "Gauntlet Arena"
+	quest.6F6564478E5E52A6.quest_desc: ["&eAnnihilation Plane &fBreaks blocks infront of it. Can be enchanted with &2Fortune&f."]
+	quest.6F6564478E5E52A6.quest_subtitle: "Network Destruction"
 	quest.6F7DAC2D906DFD4B.quest_subtitle: "Kill 1000 Pillager"
 	quest.6F7DAC2D906DFD4B.title: "Dare to come again?"
 	quest.6F7EE5B63C91A70F.quest_desc: ["Two basic tables from Ars - the Scribe is for spell crafting and Alteration to upgrade armor, equipment and bind spells to equipment."]
@@ -4666,7 +4787,7 @@
 		"- &6Enchantment books found in chests are now limited in level&r to encourage enchanting through the &bEnchanting Table&r. They can still be upgraded in &bAnvils&r (see Anvil tweaks)."
 	]
 	quest.745086C99829C9E5.title: "Enchanting and EXP Tweaks"
-	quest.74550D01582163E0.quest_desc: ["A &eGrid&r with the ability to create a &ePattern&r."]
+	quest.74550D01582163E0.quest_desc: ["A &eTerminal&r with the ability to create a &ePatterns&r."]
 	quest.7474E81497ACE677.title: "Bayou"
 	quest.748BA2DB0F36CC4C.quest_desc: [
 		"Created through a sacrificial ritual performed by Underzealots, &4Forsaken&r are large hostile mobs with sound-based attacks. They fight foes with sonic waves in addition to a variety of melee strikes from their upper arms, and can leap around to gain a better position. Although weaker than a Warden’s sonic blast, it can still pack a punch and pierce through armor. "
@@ -4894,6 +5015,32 @@
 	quest.7959A303339364CF.quest_subtitle: "{components:{\"ftbquests:loot_crate\":\"food2\"},count:1,id:\"ftbquests:lootcrate\"}"
 	quest.795C0F22F2C649BA.quest_subtitle: "&l&n&5A weapon forged to watch for eternity!"
 	quest.79DB41984ACBE7BC.title: "Mushroom Fields"
+	quest.7A0D9FCECF78B9E8.quest_desc: [
+		"&aPros:&r"
+		"&8●&r Armour to Soul Ward"
+		"&8●&r Toughness to Soul Integrity"
+		"&8●&r Healing Rate to Soul Recovery"
+		"&8●&r 50% Physical Damage to Magical"
+		""
+		"&4Cons:&r"
+		"&8●&r -100% Malignant Conversion"
+		""
+		""
+		"&8Pedestal Items:&r"
+		"6x Living Flesh"
+		"6x Imitation Heart"
+		"6x Malignant Pewter Ingots"
+		""
+		"&8Central Item:&r"
+		"12x Void Salts"
+		""
+		"&8Spirits:&r"
+		"1x &8Umbral&r"
+		"60x &#792CECWicked&r"
+		"60x &#D546FFArcane&r"
+		"60x &#CB0CF8Eldritch&r"
+	]
+	quest.7A0D9FCECF78B9E8.title: "Pact of The Encroaching Malice"
 	quest.7A101769F340E522.quest_desc: ["{image:gamma_creatures:textures/screens/lennat_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.7A413E106A44B9B8.quest_desc: [
 		"&#6EC1FFSimple Rite&r"
@@ -4942,9 +5089,11 @@
 	quest.7B8A69CF40851993.title: "Oasis Village"
 	quest.7B93DF7B1EE96E10.quest_desc: ["Cheap cost and fun, this build can get you safe, easy and low cost at once but will not work well with teammate since these undead creature are aggressive most of the time so you are most likely solo play with this build."]
 	quest.7B93DF7B1EE96E10.quest_subtitle: "You may want to get a Novice spell book and a flimsy journal atleast before go for this build"
+	quest.7B9F5F724D5A2D51.title: "Cosmic Tech"
 	quest.7C34DFBE6F2EE123.quest_desc: ["Complete red &4Sempiternal Sanctum&r challenge."]
 	quest.7C5A652995E2A1FA.title: "Umvuthana Grove"
 	quest.7CD7CC37603B916F.quest_subtitle: "&l&n&5A step to &eimmortality?&r"
+	quest.7CEAF776C6ECE15F.quest_subtitle: "Ultimate Storage at a cost!"
 	quest.7CFFD768262D0F38.quest_subtitle: "Allows for hovering and gliding"
 	quest.7D4E62ABAD4362C1.quest_desc: ["A wireless terminal allowd you to access your inventory as long as you are within 16 blocks of it. No longer will you have to bounce back between your enchanting setup, kitchen, and storage. Now you can access it at the push of a button!"]
 	quest.7D50FAAF3BE2F729.quest_desc: ["{image:gamma_creatures:textures/screens/dosmo_eng2.png width:150 height:100 align:center fit:true}"]
@@ -4977,6 +5126,8 @@
 		"Copper Casing can also lock pipe corners, preventing automatic connections."
 	]
 	quest.7E1893A68247C7F2.quest_subtitle: "Fluid movement"
+	quest.7E2864E95CE03B08.quest_desc: [""]
+	quest.7E2864E95CE03B08.quest_subtitle: "Chance to inflict Blight"
 	quest.7E67CBAC42F3DD58.quest_desc: [
 		"Starlight is a dimension unlike any other."
 		""
@@ -4999,6 +5150,7 @@
 		"Encased Chain Drives can also connect to &6Adjustable Chain Gearshifts&r, allowing rotation speed to be controlled with redstone."
 	]
 	quest.7E7A6356E4B330CD.quest_subtitle: "Flexible power transmission"
+	quest.7E9E3E13111C10FB.quest_subtitle: "Guide to Space and Time"
 	quest.7EA6DF4DD6B53096.quest_subtitle: "Grudge ability. Eldritch and Ice school bonuses"
 	quest.7EA6DF4DD6B53096.title: "Cursed Wraithguard Armor"
 	quest.7EEB451F21DD14AE.quest_desc: [
@@ -5085,12 +5237,14 @@
 	reward_table.1167DE10C74242E1.title: "coins3"
 	reward_table.129C915FC6CB10B9.title: "block"
 	reward_table.142BB7B61392796F.title: "iron"
+	reward_table.1783B9BF4E2DC918.title: "ae2"
 	reward_table.26AA26ABD5FCDF5F.title: "relics_ars"
 	reward_table.31FCBB5EA0F45949.title: "coins2"
 	reward_table.337CCE599E13306B.title: "apotheosis"
 	reward_table.371DA9BD9715CD0C.title: "ars"
 	reward_table.3A3D427BD2FD027E.title: "materials"
 	reward_table.4A22F8C308D36DAB.title: "malum"
+	reward_table.4A42E0079B796709.title: "tempad"
 	reward_table.4CB0D80EDCB84D8C.title: "potions1"
 	reward_table.5F57EA1AC30EB227.title: "food2"
 	reward_table.6029E7D5ABCEC166.title: "refined"
@@ -5121,6 +5275,7 @@
 	task.05FBF137983DE781.title: "Introduction"
 	task.06141CB0DADA173F.title: "Pact Of The Prospector"
 	task.0632A246DF7DF032.title: "Arenas of Glory!"
+	task.070778C9EAE7FBBD.title: "test"
 	task.07219A28D109993E.title: "&#792CECRite Of Empowerment&r"
 	task.07AD5A0DEA76307C.title: "Build Up Strength"
 	task.07B67DFA049D510C.title: "&#72EE19Rite Of The Stone Ward&r"
@@ -5395,7 +5550,6 @@
 	task.64D9427880B43A0A.title: "&#FA9A1FRite Of Smelting&r"
 	task.6511BDBE8F7B2B89.title: "A Note?"
 	task.65C25E42442A84E7.title: "Pact Of Patience Repaid"
-	task.65CA93B0F6EC52C9.title: "Refined Storage Controller"
 	task.65D135D53E6875DF.title: "Chronicle of Shadows"
 	task.65F21E48383CD5EB.title: "&#1D64E8Rite Of Sapping&r"
 	task.667E2E140DE01A58.title: "Pact Of The Arcanaphage"

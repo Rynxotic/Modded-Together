@@ -106,11 +106,8 @@
 				{
 					id: "70D714FCAE348A31"
 					item: {
-						components: {
-							"ftbquests:loot_crate": "coins1"
-						}
 						count: 1
-						id: "ftbquests:lootcrate"
+						id: "minecraft:apple"
 					}
 					type: "item"
 				}
@@ -1413,6 +1410,7 @@
 		}
 		{
 			dependencies: ["7EF9437C1043052C"]
+			hide_dependency_lines: false
 			id: "1AC163B06D0FFC8F"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1425,7 +1423,7 @@
 				type: "item"
 			}]
 			x: 5.25d
-			y: -12.0d
+			y: -11.5d
 		}
 		{
 			dependencies: ["7EF9437C1043052C"]
@@ -1479,7 +1477,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "56C1D069FAE9FA94"
+				id: "57463E29731C30DD"
 				item: { count: 1, id: "malum:crude_scythe" }
 				type: "item"
 			}]
@@ -2245,11 +2243,10 @@
 			dependencies: ["379A48ACDCA454C9"]
 			id: "22AAE46659CE5A01"
 			rewards: [{
-				count: 4
-				id: "4EC40FEC7C2F8AB9"
+				id: "35ADAE7699716CAC"
 				item: {
 					components: {
-						"ftbquests:loot_crate": "coins1"
+						"ftbquests:loot_crate": "coins2"
 					}
 					count: 1
 					id: "ftbquests:lootcrate"
@@ -3051,8 +3048,8 @@
 				item: { count: 1, id: "malum:arcana_pylon" }
 				type: "item"
 			}]
-			x: 2.25d
-			y: -7.0d
+			x: 4.25d
+			y: -4.5d
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
@@ -3155,10 +3152,11 @@
 				"63712DE5AE6ED43D"
 				"1966555A6D4B8AC1"
 			]
-			dependency_requirement: "one_started"
-			hide_dependency_lines: true
+			hide_dependent_lines: true
 			hide_until_deps_complete: true
+			hide_until_deps_visible: true
 			id: "00E548266D5715E3"
+			invisible: true
 			rewards: [
 				{
 					count: 3
@@ -3202,6 +3200,232 @@
 			}]
 			x: -6.75d
 			y: 1.25d
+		}
+		{
+			dependencies: ["00E548266D5715E3"]
+			id: "07D1C1AE01C7D192"
+			tasks: [{
+				id: "634DC58295BAF9D0"
+				item: { count: 1, id: "gaze:splintered_world" }
+				type: "item"
+			}]
+			x: -7.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "03825FD55FB72543"
+			rewards: [{
+				count: 3
+				id: "42581A4E74BE6592"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "coins1"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C214BD772C7E6CD"
+				item: { count: 1, id: "gaze:sluggish_brooch" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.25d
+		}
+		{
+			dependencies: ["00E548266D5715E3"]
+			id: "42EB5C34C8D123ED"
+			tasks: [{
+				id: "559689F32F0E231E"
+				item: { count: 1, id: "gaze:soul_rapier" }
+				type: "item"
+			}]
+			x: -7.75d
+			y: 1.25d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "54D88A597A01F00F"
+			tasks: [{
+				id: "1893B42BC3648766"
+				item: { count: 1, id: "gaze:rune_of_beyond_the_veil" }
+				type: "item"
+			}]
+			x: -7.25d
+			y: -3.75d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "7E2864E95CE03B08"
+			tasks: [{
+				id: "327CC9B944104709"
+				item: { count: 1, id: "gaze:rune_of_blighted_presence" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "01F442A085466E76"
+			tasks: [{
+				id: "374F93A6CC3F9614"
+				item: { count: 1, id: "gaze:rune_of_touch_of_void" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "614FE4A525E2EBD9"
+			tasks: [{
+				id: "6768797895B394C4"
+				item: { count: 1, id: "gaze:rune_of_ymir" }
+				type: "item"
+			}]
+			x: -8.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "57E8333DDBBC2077"
+			tasks: [{
+				id: "3E2541973A1D2B5F"
+				item: { count: 1, id: "gaze:rune_of_gymir" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "77A7CC0701273116"
+			tasks: [{
+				id: "50853E6AD9846B64"
+				item: { count: 1, id: "gaze:rune_of_eir" }
+				type: "item"
+			}]
+			x: -10.25d
+			y: -3.75d
+		}
+		{
+			dependencies: ["26C0E4452B8066F6"]
+			id: "1C4E653E43C255DD"
+			tasks: [{
+				id: "3CB2BD21908AA177"
+				item: { count: 1, id: "gaze:rune_of_fafnir" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["00E548266D5715E3"]
+			id: "01217F83F8243887"
+			tasks: [{
+				id: "62850A84F4DCE3C8"
+				item: { count: 1, id: "gaze:swift_spiral" }
+				type: "item"
+			}]
+			x: -8.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["00E548266D5715E3"]
+			id: "008C1623540E5A06"
+			tasks: [{
+				id: "65DB4DBFE9DE7EE0"
+				item: { count: 1, id: "gaze:veil_dagger" }
+				type: "item"
+			}]
+			x: -9.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["7017D024CED592F4"]
+			id: "18E2E94735D325F9"
+			tasks: [{
+				id: "66979A57273D7733"
+				item: { count: 1, id: "gaze:spirit_channel_pouch" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["00E548266D5715E3"]
+			id: "35AA3436BC5C57D5"
+			tasks: [{
+				id: "611C95FCD80AD1EA"
+				item: { count: 1, id: "gaze:spirit_saber" }
+				type: "item"
+			}]
+			x: -8.75d
+			y: 1.25d
+		}
+		{
+			dependencies: ["00E548266D5715E3"]
+			id: "47F6418ABBBAC426"
+			tasks: [{
+				id: "2EAAB3428249CBAE"
+				item: { count: 1, id: "gaze:adaptive_wheel" }
+				type: "item"
+			}]
+			x: -9.75d
+			y: 1.25d
+		}
+		{
+			dependencies: ["00E548266D5715E3"]
+			id: "079FC746E1DA6A47"
+			tasks: [{
+				id: "6E6A963E63949E75"
+				item: { count: 1, id: "gaze:seidhr" }
+				type: "item"
+			}]
+			x: -10.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2F657C8CD3860E08"]
+			icon: {
+				components: {
+					"malum:geas_effect": {
+						geasEffectType: "gaze:pact_of_encroaching"
+						isCreative: 0b
+					}
+				}
+				id: "malum:geas"
+			}
+			id: "7A0D9FCECF78B9E8"
+			tasks: [{
+				id: "070778C9EAE7FBBD"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 11.75d
+		}
+		{
+			dependencies: ["2F657C8CD3860E08"]
+			icon: {
+				components: {
+					"malum:geas_effect": {
+						geasEffectType: "gaze:domain_of_swords"
+						isCreative: 0b
+					}
+				}
+				id: "malum:geas"
+			}
+			id: "0DFF64C6452A3465"
+			tasks: [{
+				id: "5A3CCDDCBCF77A86"
+				type: "checkmark"
+			}]
+			x: 0.25d
+			y: 11.75d
 		}
 	]
 }

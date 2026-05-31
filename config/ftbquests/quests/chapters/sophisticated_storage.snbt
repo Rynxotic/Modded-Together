@@ -89,11 +89,8 @@
 				{
 					id: "596C74925577719E"
 					item: {
-						components: {
-							"ftbquests:loot_crate": "coins2"
-						}
 						count: 1
-						id: "ftbquests:lootcrate"
+						id: "minecraft:apple"
 					}
 					type: "item"
 				}

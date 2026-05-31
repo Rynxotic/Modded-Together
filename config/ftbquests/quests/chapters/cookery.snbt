@@ -190,7 +190,6 @@
 			y: -11.75d
 		}
 		{
-			dependencies: ["52C729A521F71CB1"]
 			id: "35664D96658E5702"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -202,8 +201,8 @@
 				item: { count: 1, id: "mynethersdelight:roast_stuffed_hoglin" }
 				type: "item"
 			}]
-			x: -0.8167697800677303d
-			y: -7.497894987541173d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]

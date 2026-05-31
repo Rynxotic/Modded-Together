@@ -547,8 +547,8 @@
 			]
 			id: "56ADD7503243CBC1"
 			tasks: [{
-				id: "340AC2D09B4F8E6E"
-				item: { components: { "relics:data": { abilities: { abilities: { dissection: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { distance: { initialValue: 19.07858d }, time: { initialValue: 8.81488d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:space_dissector" }
+				id: "6AF14FE9A6706008"
+				item: { components: { "relics:data": { abilities: { abilities: { dissection: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { distance: { initialValue: 16.78791d }, time: { initialValue: 6.22562d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:space_dissector" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -575,8 +575,8 @@
 			]
 			id: "0462559EE7BE8925"
 			tasks: [{
-				id: "4938595B88E2A50B"
-				item: { components: { "relics:data": { abilities: { abilities: { spore_mist: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 6.66211d }, damage: { initialValue: 0.15763d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:spore_sack" }
+				id: "30B91FFE88D704B9"
+				item: { components: { "relics:data": { abilities: { abilities: { spore_mist: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 7.9495d }, damage: { initialValue: 0.19762d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:spore_sack" }
 				type: "item"
 			}]
 			x: 3.0d

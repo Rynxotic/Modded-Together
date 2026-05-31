@@ -975,11 +975,8 @@
 			rewards: [{
 				id: "2CB87DFE7DB4651B"
 				item: {
-					components: {
-						"ftbquests:loot_crate": "coins1"
-					}
 					count: 1
-					id: "ftbquests:lootcrate"
+					id: "minecraft:apple"
 				}
 				type: "item"
 			}]
@@ -1022,11 +1019,8 @@
 			rewards: [{
 				id: "04C421DCB89F720E"
 				item: {
-					components: {
-						"ftbquests:loot_crate": "coins1"
-					}
 					count: 1
-					id: "ftbquests:lootcrate"
+					id: "minecraft:apple"
 				}
 				type: "item"
 			}]
@@ -1211,7 +1205,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "5B28610399C69B7B"
+				id: "2BDB5968301391E2"
 				item: { count: 1, id: "create_enchantment_industry:experience_cake" }
 				type: "item"
 			}]
@@ -1312,11 +1306,8 @@
 			rewards: [{
 				id: "227FD331B9CEE310"
 				item: {
-					components: {
-						"ftbquests:loot_crate": "coins1"
-					}
 					count: 1
-					id: "ftbquests:lootcrate"
+					id: "minecraft:apple"
 				}
 				type: "item"
 			}]

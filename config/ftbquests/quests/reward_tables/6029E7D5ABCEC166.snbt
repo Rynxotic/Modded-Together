@@ -10,8 +10,8 @@
 			monster: 0
 			passive: 0
 		}
-		item_name: "Refined Storage Chest"
-		string_id: "refined"
+		item_name: "AE2 Chest"
+		string_id: "AE2"
 	}
 	loot_size: 1
 	order_index: 7
@@ -21,7 +21,7 @@
 			id: "28AA8A99A08FAEC5"
 			item: {
 				components: {
-					"ftbquests:missing_item": "refinedstorage:regulator_upgrade"
+					"ftbquests:missing_item": "ae2:capacity_card"
 				}
 				count: 1
 				id: "ftbquests:missing_item"
@@ -82,9 +82,9 @@
 				id: "ftbquests:missing_item"
 			}
 		}
-		{ id: "5ED9BBB904CC7F56", item: { components: { "ftbquests:missing_item": "refinedstorage:256b_fluid_storage_part" }, count: 1, id: "ftbquests:missing_item" } }
-		{ id: "2EFFC4916958F6CB", item: { components: { "ftbquests:missing_item": "refinedstorage:64b_fluid_storage_part" }, count: 1, id: "ftbquests:missing_item" } }
-		{ id: "5BEB68F23712144F", item: { components: { "ftbquests:missing_item": "refinedstorage:4k_storage_part" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5ED9BBB904CC7F56", item: { components: { "ftbquests:missing_item": "ae2:fluid_storage_cell_256k" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2EFFC4916958F6CB", item: { components: { "ftbquests:missing_item": "ae2:fluid_storage_cell_64k" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5BEB68F23712144F", item: { components: { "ftbquests:missing_item": "ae2:fluid_storage_cell_16k" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "54EC6BDAF9D4AAD6", item: { components: { "ftbquests:missing_item": "refinedstorage:silk_touch_upgrade" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "62D40D62859A6AFE", item: { components: { "ftbquests:missing_item": "refinedstorage:fortune_3_upgrade" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "2C49C0B1B590D293", item: { components: { "ftbquests:missing_item": "refinedstorage:range_upgrade" }, count: 1, id: "ftbquests:missing_item" } }
