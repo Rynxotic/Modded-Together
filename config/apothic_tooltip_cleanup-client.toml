@@ -1,12 +1,12 @@
 [features]
 	# affix display
 	# ============================================================
-	# Controls how many affixes show on a tooltip.
+	# How many affixes show on a tooltip.
 	# all = show every affix
-	# top_n = show first N, rest visible with Alt held
+	# top_n = show first N, rest under Alt
 	# alt_only = hide every affix unless Alt is held
 	affix_display_mode = "top_n"
-	# Number of affixes shown when mode is top_n.
+	# Affixes shown when mode is top_n.
 	# Default: 3
 	# Range: 0 ~ 99
 	affix_visible_count = 3
@@ -16,24 +16,25 @@
 	hidden_affix_ids = []
 	# gem display (raw gems)
 	# ============================================================
-	# Controls how raw gem tooltips display.
+	# How raw gem tooltips display.
 	# full = original Apotheosis layout
 	# compact = strip headers, keep per-bullet categories and bonuses
 	# ultra = one line for categories, one line for bonuses
 	# hidden = remove all gem info
 	gem_tooltip_mode = "compact"
-	# Case-insensitive list of gem categories to hide from Fits In tooltips.
-	# Works in all gem_tooltip_mode values including full.
+	# Gem categories to hide from 'Fits In' lists. Case-insensitive.
+	# Example: ["Bows", "Crossbows"] to hide ranged weapons.
+	# No effect when gem_tooltip_mode is hidden, since that drops all gem info anyway.
 	hidden_gem_categories = []
 	# sockets
 	# ============================================================
 	# Merges empty sockets into one summary line.
-	# All-empty: single line replaces the empty rows.
-	# Mixed: filled gems still render, empty count appended below.
+	# All-empty: one line replaces the empty rows.
+	# Mixed: filled gems still render, empty count added below.
 	merge_empty_sockets = true
 	# Hides the APOTH_SOCKET_MARKER literal text.
-	# Only enable if the marker is leaking through visibly.
-	# Can hide the socket UI on socketed items if enabled.
+	# Only turn on if the marker is leaking through visibly.
+	# Can hide the socket UI on socketed items.
 	hide_apoth_marker = false
 	# Affix type prefixes (While held, On hit, On block, Passive).
 	# show = always visible
@@ -58,14 +59,14 @@
 	# delete = always hidden, Alt has no effect
 	potion_descriptions_mode = "show"
 	# The [⌛ MM:SS] cooldown markers and [Stacking] tags on affix lines.
-	# The affix text itself is never touched, only the annotations.
+	# Only the annotations are touched, never the affix text.
 	# show = always visible
 	# alt = hidden unless Alt is held
 	# delete = always hidden, Alt has no effect
 	affix_extras_mode = "alt"
 
 [rarity_colors]
-	# Enables custom rarity color overrides.
+	# Turns on custom rarity color overrides.
 	# When false, vanilla Apotheosis colors are used.
 	rarity_colors_enabled = false
 	# Hex format: 0xRRGGBB
@@ -74,5 +75,6 @@
 	rare = "0x55FFFF"
 	epic = "0xFF55FF"
 	mythic = "0xFFAA00"
-	# Color used for unknown rarities. In Apotheosis 8.x ancient is no longer a built-in rarity, but this color still applies to Apotheotic Additions esoteric and any other unrecognized rarity.
+	# Fallback color for unknown rarities (e.g. Apotheotic Additions esoteric).
+	# Apotheosis 8.x has no built-in ancient tier.
 	ancient = "0xFF5555"

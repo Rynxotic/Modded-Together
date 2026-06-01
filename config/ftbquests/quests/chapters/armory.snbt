@@ -94,6 +94,7 @@
 	quests: [
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:cryomancer_helmet"
 			}
@@ -129,6 +130,7 @@
 		}
 		{
 			dependencies: ["2653B1E1072A49DA"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:tank_helmet"
 			}
@@ -164,6 +166,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:cultist_helmet"
 			}
@@ -199,6 +202,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:priest_helmet"
 			}
@@ -234,6 +238,7 @@
 		}
 		{
 			dependencies: ["2AAAAC0AB9F37A9F"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:paladin_helmet"
 			}
@@ -269,6 +274,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:plagued_helmet"
 			}
@@ -304,6 +310,7 @@
 		}
 		{
 			dependencies: ["72D2CDFE36B066FE"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:toxic_helmet"
 			}
@@ -339,6 +346,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:pyromancer_helmet"
 			}
@@ -374,6 +382,7 @@
 		}
 		{
 			dependencies: ["759667587F8DA4F4"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:pyromancer_helmet"
 			}
@@ -409,6 +418,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:electromancer_helmet"
 			}
@@ -444,6 +454,7 @@
 		}
 		{
 			dependencies: ["15151EE723E78F53"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:electromancer_helmet"
 			}
@@ -479,6 +490,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:shadowwalker_helmet"
 			}
@@ -514,6 +526,7 @@
 		}
 		{
 			dependencies: ["414B32E069F3D1DF"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:mage_helmet"
 			}
@@ -549,6 +562,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:archevoker_helmet"
 			}
@@ -584,6 +598,7 @@
 		}
 		{
 			dependencies: ["0F09D1ED9345987E"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:evoker_helmet"
 			}
@@ -622,6 +637,7 @@
 				"1FA35D9B9C012809"
 				"5A357C798CEE2BC6"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:cursium_helmet"
 			}
@@ -660,6 +676,7 @@
 				"1FA35D9B9C012809"
 				"6B369CA108443246"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:ignitium_helmet"
 			}
@@ -695,6 +712,7 @@
 		}
 		{
 			dependencies: ["29E00CB431D6F14A"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:netherite_mage_helmet"
 			}
@@ -730,6 +748,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "iceandfire:dragonsteel_ice_helmet"
 			}
@@ -765,6 +784,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "iceandfire:dragonsteel_fire_helmet"
 			}
@@ -800,6 +820,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "iceandfire:dragonsteel_lightning_helmet"
 			}
@@ -835,6 +856,7 @@
 		}
 		{
 			dependencies: ["05B139406CE7B1C8"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "crystal_chronicles:rogue_helmet"
 			}
@@ -870,6 +892,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "minecraft:diamond_helmet"
 			}
@@ -901,6 +924,7 @@
 		}
 		{
 			dependencies: ["604F567246B4CA59"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "minecraft:netherite_helmet"
 			}
@@ -932,6 +956,7 @@
 		}
 		{
 			dependencies: ["2653B1E1072A49DA"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "hazennstuff:cryogenic_ruler_helmet"
 			}
@@ -964,6 +989,7 @@
 		}
 		{
 			dependencies: ["759667587F8DA4F4"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"azurelib:az_id": [I;
@@ -1003,6 +1029,7 @@
 		}
 		{
 			dependencies: ["05B139406CE7B1C8"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "hazennstuff:flesh_mass_helmet"
 			}
@@ -1034,6 +1061,7 @@
 		}
 		{
 			dependencies: ["2AAAAC0AB9F37A9F"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"azurelib:az_id": [I;
@@ -1073,6 +1101,7 @@
 		}
 		{
 			dependencies: ["414B32E069F3D1DF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"azurelib:az_id": [I;
@@ -1112,6 +1141,7 @@
 		}
 		{
 			dependencies: ["72D2CDFE36B066FE"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"azurelib:az_id": [I;
@@ -1151,6 +1181,7 @@
 		}
 		{
 			dependencies: ["15151EE723E78F53"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "hazennstuff:charged_scourge_helmet"
 			}
@@ -1182,6 +1213,7 @@
 		}
 		{
 			dependencies: ["0F09D1ED9345987E"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "hazennstuff:alchemist_supreme_helmet"
 			}

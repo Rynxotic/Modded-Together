@@ -1,0 +1,16 @@
+{
+  "buildShape": "BOX",
+  "fillMode": "HOLLOW",
+  "rotationDegrees": 0,
+  "quickBuildOpen": true,
+  "ultimineOpen": false,
+  "ultimineLimit": 64,
+  "chunkCurtainVisible": false,
+  "rtsGuiScale": 2.0,
+  "inputSensitivityIndex": 2,
+  "startCameraAtPlayerHead": false,
+  "allowPlacedBlockRecovery": false,
+  "debugButtonVisible": false,
+  "containerOverlayEnabled": true,
+  "dismissedIntroReminderKeys": []
+}

@@ -1,0 +1,16 @@
+{
+  "equipped": {
+    "ICON": "BASE_ICON",
+    "WINGS": "UNDEAD_WINGS",
+    "FULL_BODY": "UNDEAD_OVERLORD_BODY",
+    "EARS": "GOTHIC_HORNS",
+    "PET": "BAT_PET"
+  },
+  "settings": {
+    "UNDEAD_OVERLORD_BODY": [],
+    "BASE_ICON": [],
+    "BAT_PET": [],
+    "GOTHIC_HORNS": [],
+    "UNDEAD_WINGS": []
+  }
+}

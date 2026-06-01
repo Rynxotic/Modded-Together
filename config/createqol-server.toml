@@ -47,12 +47,21 @@ experimentalWarning = false
 	# Default: 64
 	# Range: > 1
 	stockManagerMaxDestroyDistance = 64
+	#.
+	#The items that the trash can won't accept at all
+	trashcan_item_blacklist = []
+	#.
+	#The fluids that the trash can won't accept at all
+	trashcan_fluid_blacklist = []
 
 #.
 #Modify Create Qol equipments comportment
 [equipments]
-
 	#.
+	#.
+	#Use backtank air before item durability for Refined Radiance, Shadow Steel, and Shadow Radiance equipment.
+	useAir = true
+
 	#.
 	#Modify Create Qol armors comportment
 	[equipments.armors]

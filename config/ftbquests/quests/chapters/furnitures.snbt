@@ -24,6 +24,7 @@
 	quests: [
 		{
 			dependencies: ["1BD7614BCF857898"]
+			entity_vis_size: 1.0f
 			id: "540C58C5344D28E5"
 			tasks: [{
 				count: 16L
@@ -36,6 +37,7 @@
 		}
 		{
 			dependencies: ["38E21F11C7A958A5"]
+			entity_vis_size: 1.0f
 			id: "34A151C152644840"
 			rewards: [{
 				id: "7B07F10C86E460F5"
@@ -53,6 +55,7 @@
 		}
 		{
 			dependencies: ["38E21F11C7A958A5"]
+			entity_vis_size: 1.0f
 			id: "31664650D48A6D76"
 			rewards: [{
 				id: "316D7B28389D318B"
@@ -70,6 +73,7 @@
 		}
 		{
 			dependencies: ["38E21F11C7A958A5"]
+			entity_vis_size: 1.0f
 			id: "311328339164DE85"
 			rewards: [{
 				id: "2E84E9690442D4E0"
@@ -87,6 +91,7 @@
 		}
 		{
 			dependencies: ["38E21F11C7A958A5"]
+			entity_vis_size: 1.0f
 			id: "6BB4BE1CB2108183"
 			rewards: [{
 				id: "497D7444C3A9EA3B"
@@ -107,6 +112,7 @@
 				"6F3A522F48723F9D"
 				"1BD7614BCF857898"
 			]
+			entity_vis_size: 1.0f
 			id: "38E21F11C7A958A5"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -124,6 +130,7 @@
 		}
 		{
 			dependencies: ["1BD7614BCF857898"]
+			entity_vis_size: 1.0f
 			id: "7987DCA97F2EDC73"
 			shape: "circle"
 			tasks: [{
@@ -136,6 +143,7 @@
 		}
 		{
 			dependencies: ["1BD7614BCF857898"]
+			entity_vis_size: 1.0f
 			id: "16097316C970AE4F"
 			tasks: [{
 				id: "33C983592AF2D9F1"
@@ -147,6 +155,7 @@
 		}
 		{
 			dependencies: ["1C3DBD984E973953"]
+			entity_vis_size: 1.0f
 			id: "1BD7614BCF857898"
 			tasks: [{
 				id: "2B99FBE1CD3B8F45"
@@ -157,6 +166,7 @@
 		}
 		{
 			dependencies: ["5C918104E9B5A332"]
+			entity_vis_size: 1.0f
 			id: "0DA5600E646BB305"
 			tasks: [{
 				id: "57D7C908BDE1E89D"
@@ -168,6 +178,7 @@
 		}
 		{
 			dependencies: ["1BD7614BCF857898"]
+			entity_vis_size: 1.0f
 			id: "19FD02262DBF8077"
 			tasks: [{
 				id: "70AEA645BB1B1DBF"

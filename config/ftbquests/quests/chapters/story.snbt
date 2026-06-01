@@ -44,6 +44,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			entity_vis_size: 1.0f
 			icon: {
 				id: "minecraft:book"
 			}
@@ -59,6 +60,7 @@
 			y: -2.75d
 		}
 		{
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:icon": "supplementaries:item/wrench"
@@ -77,6 +79,7 @@
 			y: -2.75d
 		}
 		{
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:icon": "minecraft:textures/gui/sprites/icon/search.png"
@@ -95,6 +98,7 @@
 			y: -2.75d
 		}
 		{
+			entity_vis_size: 1.0f
 			icon: {
 				id: "minecraft:writable_book"
 			}
@@ -110,6 +114,7 @@
 			y: -2.75d
 		}
 		{
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:icon": "ftbquests:item/book"
@@ -129,6 +134,7 @@
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: true
 			icon: {
@@ -222,6 +228,7 @@
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: true
 			id: "1C3DBD984E973953"
@@ -268,6 +275,7 @@
 			y: 2.25d
 		}
 		{
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			hide_until_deps_complete: false
 			icon: {
@@ -326,6 +334,7 @@
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: true
 			icon: {
@@ -373,6 +382,7 @@
 				"35D71AB41E3127FF"
 				"6401E42DBD93997A"
 			]
+			entity_vis_size: 1.0f
 			id: "1ADE21F3A1856D14"
 			rewards: [
 				{
@@ -425,6 +435,7 @@
 				"1ADE21F3A1856D14"
 				"7E67CBAC42F3DD58"
 			]
+			entity_vis_size: 1.0f
 			id: "7B6D24D7F57E065A"
 			rewards: [
 				{
@@ -488,6 +499,7 @@
 				"71EEA285EB464740"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "25207E44424D49A8"
 			rewards: [
 				{
@@ -535,6 +547,7 @@
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: true
 			id: "7F972B3D9AF131FC"
@@ -598,6 +611,7 @@
 		}
 		{
 			dependencies: ["7F972B3D9AF131FC"]
+			entity_vis_size: 1.0f
 			id: "7E67CBAC42F3DD58"
 			rewards: [
 				{
@@ -660,6 +674,7 @@
 		}
 		{
 			dependencies: ["7E67CBAC42F3DD58"]
+			entity_vis_size: 1.0f
 			id: "1B57F6F420F3B000"
 			rewards: [
 				{
@@ -719,6 +734,7 @@
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_details_until_startable: true
 			hide_until_deps_complete: true
@@ -759,6 +775,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "29A9F5E23FCB78F5"
 			rewards: [
@@ -796,6 +813,7 @@
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
@@ -860,6 +878,7 @@
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
@@ -903,6 +922,7 @@
 		}
 		{
 			dependencies: ["29A9F5E23FCB78F5"]
+			entity_vis_size: 1.0f
 			id: "31C2AAB08714196A"
 			rewards: [{
 				count: 2
@@ -926,6 +946,7 @@
 		}
 		{
 			dependencies: ["46B9E8C825098695"]
+			entity_vis_size: 1.0f
 			id: "55535225BDBDF6FD"
 			rewards: [{
 				count: 10
@@ -949,6 +970,7 @@
 		}
 		{
 			dependencies: ["55535225BDBDF6FD"]
+			entity_vis_size: 1.0f
 			id: "25FE3E7DA0D58F67"
 			rewards: [{
 				count: 10

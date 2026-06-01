@@ -23,6 +23,7 @@
 	quests: [
 		{
 			dependencies: ["10008913EA0470F6"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: false
 			icon_scale: 1.25d
 			id: "7A61DCA5D60B5A6E"
@@ -77,6 +78,7 @@
 				"10008913EA0470F6"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "6903210043926E19"
 			rewards: [{
 				count: 4
@@ -105,6 +107,7 @@
 				"304B359A17D9DC8B"
 				"10008913EA0470F6"
 			]
+			entity_vis_size: 1.0f
 			id: "369D66CACAEDE0D9"
 			rewards: [{
 				count: 4
@@ -129,6 +132,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -148,6 +152,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: true
 			icon: {
 				components: {
@@ -168,6 +173,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -187,6 +193,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -206,6 +213,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -225,6 +233,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -244,6 +253,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -263,6 +273,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -282,6 +293,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -301,6 +313,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -320,6 +333,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "alexsmobs:tab_icon"
@@ -339,6 +353,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: true
 			id: "10008913EA0470F6"
 			rewards: [
@@ -389,6 +404,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: true
 			icon: {
 				components: {
@@ -412,6 +428,7 @@
 				"10008913EA0470F6"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "35FDACB27408FC07"
 			shape: "rsquare"
 			tasks: [{
@@ -428,6 +445,7 @@
 				"10008913EA0470F6"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "2AF547C932FF6A42"
 			tasks: [{
 				advancement: "alshanex_familiars:alshanex_familiars/learn_necromancy"
@@ -443,6 +461,7 @@
 				"10008913EA0470F6"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "3ACFD2EF49451E95"
 			rewards: [{
 				id: "49F5C998A64831FF"
@@ -469,6 +488,7 @@
 				"35FDACB27408FC07"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "alshanex_familiars:life_fruit_tier_1"
 			}
@@ -511,6 +531,7 @@
 				"3ACFD2EF49451E95"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "6BE5A75F1CB8D1FA"
 			rewards: [{
 				count: 4
@@ -550,6 +571,7 @@
 				"3ACFD2EF49451E95"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "63E776C9321E9407"
 			rewards: [{
 				id: "6054EB335FE18B41"
@@ -576,6 +598,7 @@
 				"35FDACB27408FC07"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "272EB0866B721CB5"
 			rewards: [{
 				id: "28D729C489339D59"
@@ -602,6 +625,7 @@
 				"35FDACB27408FC07"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "0C7809E3A8D4DD37"
 			rewards: [{
 				count: 5
@@ -641,6 +665,7 @@
 				"3ACFD2EF49451E95"
 				"304B359A17D9DC8B"
 			]
+			entity_vis_size: 1.0f
 			id: "51D0F13982902EA5"
 			rewards: [{
 				id: "56D522B5B7087964"

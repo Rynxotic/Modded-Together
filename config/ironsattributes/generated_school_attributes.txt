@@ -1,0 +1,21 @@
+===========================================
+SCHOOL ATTRIBUTES
+===========================================
+These control whether a player can cast any spell from a school.
+Value: 0 = locked, 1 = unlocked
+
+ironsattributes:irons_spellbooks_fire_school_unlocked
+ironsattributes:irons_spellbooks_ice_school_unlocked
+ironsattributes:irons_spellbooks_lightning_school_unlocked
+ironsattributes:irons_spellbooks_holy_school_unlocked
+ironsattributes:irons_spellbooks_ender_school_unlocked
+ironsattributes:irons_spellbooks_blood_school_unlocked
+ironsattributes:irons_spellbooks_evocation_school_unlocked
+ironsattributes:irons_spellbooks_nature_school_unlocked
+ironsattributes:irons_spellbooks_eldritch_school_unlocked
+ironsattributes:aces_spell_utils_ritual_school_unlocked
+ironsattributes:aces_spell_utils_hydro_school_unlocked
+ironsattributes:aces_spell_utils_technomancy_school_unlocked
+ironsattributes:hazentouvelib_radiance_school_unlocked
+ironsattributes:hazentouvelib_shadow_school_unlocked
+ironsattributes:hazentouvelib_cosmic_school_unlocked

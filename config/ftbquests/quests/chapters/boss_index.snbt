@@ -48,6 +48,7 @@
 	quests: [
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mowziesmobs:umvuthi_spawn_egg"
 			}
@@ -80,6 +81,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "mowziesmobs:umvuthi"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "315A1F41C3BFD7AA"
 				type: "kill"
 				value: 1L
@@ -89,6 +99,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mowziesmobs:naga_spawn_egg"
 			}
@@ -109,6 +120,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "mowziesmobs:naga"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "0F39376697D89C10"
 				type: "kill"
 				value: 1L
@@ -118,6 +138,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mowziesmobs:wroughtnaut_spawn_egg"
 			}
@@ -138,6 +159,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "mowziesmobs:ferrous_wroughtnaut"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "72276CB34FBD9164"
 				type: "kill"
 				value: 1L
@@ -147,6 +177,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mowziesmobs:frostmaw_spawn_egg"
 			}
@@ -179,6 +210,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "mowziesmobs:frostmaw"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "33BB547E2778D17B"
 				type: "kill"
 				value: 1L
@@ -188,6 +228,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "452903524040F904"
 			rewards: [{
 				count: 2
@@ -214,6 +255,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mutantmonsters:mutant_skeleton_spawn_egg"
 			}
@@ -234,6 +276,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "mythsandlegends:black_charro"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "0CAC6447FA31FCC5"
 				type: "kill"
 				value: 1L
@@ -246,6 +297,7 @@
 				"1FA35D9B9C012809"
 				"3250EB72322E5124"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "eternal_starlight:starlight_golem_spawn_egg"
 			}
@@ -278,6 +330,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "eternal_starlight:starlight_golem"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "0DC1FC9636B9B09D"
 				type: "kill"
 				value: 1L
@@ -290,6 +351,7 @@
 				"1FA35D9B9C012809"
 				"3250EB72322E5124"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "eternal_starlight:lunar_monstrosity_spawn_egg"
 			}
@@ -322,6 +384,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "eternal_starlight:lunar_monstrosity"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "1F4790B18EC2CDEA"
 				type: "kill"
 				value: 1L
@@ -331,6 +402,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "7624A9C655DE8534"
 			rewards: [{
 				count: 2
@@ -348,6 +420,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "bosses_of_mass_destruction:lich"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "iceandfire:spawn_egg_lich"
 				}
@@ -360,6 +441,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "amendments:dragon_charge"
 			}
@@ -380,6 +462,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "minecraft:ender_dragon"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "1300B1962650B3E7"
 				type: "kill"
 				value: 1L
@@ -389,6 +480,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "irons_spellbooks:dead_king_corpse_spawn_egg"
 			}
@@ -421,6 +513,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "irons_spellbooks:dead_king"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "irons_spellbooks:dead_king_corpse_spawn_egg"
 				}
@@ -436,6 +537,7 @@
 				"1FA35D9B9C012809"
 				"0C45D51752B49C3B"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "bosses_of_mass_destruction:blazing_eye"
 			}
@@ -468,6 +570,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "bosses_of_mass_destruction:gauntlet"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "4C76F974D9C25310"
 				type: "kill"
 				value: 1L
@@ -477,6 +588,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:ancient_remnant_spawn_egg"
 			}
@@ -497,6 +609,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:ancient_remnant"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "46CEC2D9D19F4C0F"
 				type: "kill"
 				value: 1L
@@ -509,6 +630,7 @@
 				"1FA35D9B9C012809"
 				"1134B8B955B40235"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:ignis_spawn_egg"
 			}
@@ -529,6 +651,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:ignis"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "3C72A61FC59F281C"
 				type: "kill"
 				value: 1L
@@ -538,6 +669,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:ender_guardian_spawn_egg"
 			}
@@ -558,6 +690,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:ender_guardian"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "41F8F4595166977B"
 				type: "kill"
 				value: 1L
@@ -567,6 +708,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:ender_golem_spawn_egg"
 			}
@@ -599,6 +741,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:ender_golem"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "7D7C72B8D50D4FC4"
 				type: "kill"
 				value: 1L
@@ -608,6 +759,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:the_leviathan_spawn_egg"
 			}
@@ -628,6 +780,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:the_leviathan"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "4D08DFF37C49DA10"
 				type: "kill"
 				value: 1L
@@ -637,6 +798,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:scylla_spawn_egg"
 			}
@@ -657,6 +819,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:scylla"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "20FA16FA20B5F981"
 				type: "kill"
 				value: 1L
@@ -669,6 +840,7 @@
 				"1FA35D9B9C012809"
 				"070749FB18F3B0BD"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:netherite_monstrosity_spawn_egg"
 			}
@@ -689,6 +861,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "34CF2A1F57FF4153"
 				type: "kill"
 				value: 1L
@@ -698,6 +879,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:the_harbinger_spawn_egg"
 			}
@@ -718,6 +900,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:the_harbinger"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "0295C0A0A3312DC6"
 				type: "kill"
 				value: 1L
@@ -727,6 +918,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "cataclysm:maledictus_spawn_egg"
 			}
@@ -747,6 +939,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "cataclysm:maledictus"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "24ACF835A69F6984"
 				type: "kill"
 				value: 1L
@@ -756,6 +957,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "ars_nouveau:wilden_hunter_se"
 			}
@@ -788,6 +990,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "ars_nouveau:wilden_boss"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "ars_nouveau:wilden_hunter_se"
 				}
@@ -800,6 +1011,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mutantmonsters:mutant_enderman_spawn_egg"
 			}
@@ -832,6 +1044,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "bosses_of_mass_destruction:obsidilith"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "696299D749EBC2C6"
 				type: "kill"
 				value: 1L
@@ -841,6 +1062,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mowziesmobs:foliaath_spawn_egg"
 			}
@@ -873,6 +1095,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "bosses_of_mass_destruction:void_blossom"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "bosses_of_mass_destruction:crystal_fruit"
 				}
@@ -885,6 +1116,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "minecraft:wither_skeleton_spawn_egg"
 			}
@@ -917,6 +1149,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "minecraft:wither"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "minecraft:nether_star"
 				}
@@ -929,6 +1170,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "748BA2DB0F36CC4C"
 			rewards: [{
 				count: 2
@@ -946,6 +1188,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "alexscaves:forsaken"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "61CF1C9B76C3C03A"
 				type: "kill"
 				value: 1L
@@ -958,6 +1209,7 @@
 				"1FA35D9B9C012809"
 				"1F3C64299F7730B6"
 			]
+			entity_vis_size: 1.0f
 			id: "51040727BD2ABC19"
 			rewards: [{
 				count: 2
@@ -975,6 +1227,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "alexsmobs:warped_mosco"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "7DD75522BCBFA524"
 				type: "kill"
 				value: 1L
@@ -984,6 +1245,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "1B4599B19EBFD1D0"
 			rewards: [
 				{
@@ -1013,6 +1275,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "alexscaves:luxtructosaurus"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "1381E7CFE3154663"
 				type: "kill"
 				value: 1L
@@ -1022,6 +1293,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "0BBFE3A82C1D7086"
 			rewards: [
 				{
@@ -1051,6 +1323,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "iceandfire:fire_dragon"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "35338B12CA6C4AF3"
 				type: "kill"
 				value: 1L
@@ -1060,6 +1341,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "48A8BDBA503F6840"
 			rewards: [
 				{
@@ -1089,6 +1371,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "iceandfire:ice_dragon"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "5E394E70C0D121D1"
 				type: "kill"
 				value: 1L
@@ -1098,6 +1389,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "65B65FE2A989ADC8"
 			rewards: [
 				{
@@ -1127,6 +1419,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "iceandfire:lightning_dragon"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "1DC1B9423F817374"
 				type: "kill"
 				value: 1L
@@ -1136,6 +1437,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "51DA55FEB55D644A"
 			rewards: [
 				{
@@ -1165,6 +1467,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "minecraft:warden"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "1BE55548579924B5"
 				type: "kill"
 				value: 1L
@@ -1174,6 +1485,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "illagerinvasion:invoker_spawn_egg"
 			}
@@ -1194,6 +1506,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "illagerinvasion:invoker"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "illagerinvasion:invoker_spawn_egg"
 				}
@@ -1206,6 +1527,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "174DA5B7870ACD56"
 			rewards: [
 				{
@@ -1235,6 +1557,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "alexsmobs:void_worm"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "69749EFA28A2A8D9"
 				type: "kill"
 				value: 1L
@@ -1247,6 +1578,7 @@
 				"1FA35D9B9C012809"
 				"247CA3EA18B94B1F"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "hazennstuff:garments_of_the_first_flamebearer_helmet"
 			}
@@ -1267,6 +1599,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "irons_spellbooks:fire_boss"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "20EA6BD76E50C846"
 				type: "kill"
 				value: 1L
@@ -1276,6 +1617,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			id: "615884269AB07E86"
 			rewards: [{
 				count: 2
@@ -1293,6 +1635,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "alexscaves:hullbreaker"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "36C749220F63521A"
 				type: "kill"
 				value: 1L
@@ -1302,6 +1653,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "minecraft:elder_guardian_spawn_egg"
 			}
@@ -1322,6 +1674,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "minecraft:elder_guardian"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "endrem:guardian_eye"
 				}
@@ -1334,6 +1695,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "iceandfire:spawn_egg_hydra"
 			}
@@ -1363,6 +1725,7 @@
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "iceandfire:spawn_egg_cyclops"
 			}
@@ -1383,6 +1746,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "iceandfire:cyclops"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				icon: {
 					id: "iceandfire:cyclops_eye"
 				}
@@ -1396,6 +1768,7 @@
 		{
 			dependencies: ["1FA35D9B9C012809"]
 			disable_recipe_mod: false
+			entity_vis_size: 1.0f
 			icon: {
 				id: "mythsandlegends:ironshade_helmet"
 			}
@@ -1416,6 +1789,15 @@
 			size: 1.25d
 			tasks: [{
 				entity: "mythsandlegends:possessed_armor_inquisitor"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
 				id: "331CF9AA64F9891C"
 				type: "kill"
 				value: 1L

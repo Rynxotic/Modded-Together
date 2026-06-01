@@ -102,6 +102,12 @@
       },
       "pass": 2
     },
+    "relics:stun_effect": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
     "ars_nouveau:spell_hud": {
       "enabled": {
         "value": "AUTO"
@@ -204,6 +210,12 @@
       },
       "pass": 3
     },
+    "vista:viewfinder": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
     "xaerohud:hud": {
       "enabled": {
         "value": "AUTO"
@@ -305,6 +317,12 @@
         "value": "AUTO"
       },
       "pass": 1
+    },
+    "modonomicon:multiblock_hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 3
     },
     "minecraft:overlay_message": {
       "enabled": {
@@ -444,6 +462,12 @@
       },
       "pass": 1
     },
+    "relics:piglin_mask/teeth": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
     "shouldersurfing:post_crosshair": {
       "enabled": {
         "value": "AUTO"
@@ -571,6 +595,12 @@
         "value": "AUTO"
       },
       "pass": 1
+    },
+    "astoutline": {
+      "enabled": {
+        "value": "OFF"
+      },
+      "pass": 1
     }
   },
   "mapModdedElementsPost": {
@@ -587,6 +617,12 @@
       "pass": 3
     },
     "puzzleslib": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 3
+    },
+    "via_romana": {
       "enabled": {
         "value": "AUTO"
       },

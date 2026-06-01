@@ -24,6 +24,7 @@
 	quests: [
 		{
 			dependencies: ["06A30576F3581F25"]
+			entity_vis_size: 1.0f
 			icon_scale: 1.5d
 			id: "1846F5727D2BC433"
 			rewards: [{
@@ -49,6 +50,7 @@
 		}
 		{
 			dependencies: ["1846F5727D2BC433"]
+			entity_vis_size: 1.0f
 			id: "42D011E0D00103A4"
 			rewards: [{
 				id: "3F6C69F13B42CE8A"
@@ -64,6 +66,7 @@
 		}
 		{
 			dependencies: ["1846F5727D2BC433"]
+			entity_vis_size: 1.0f
 			id: "0DC4960C79EC8367"
 			rewards: [{
 				id: "53C493B142210A4D"
@@ -79,6 +82,7 @@
 		}
 		{
 			dependencies: ["6C8346BEF1EE2B44"]
+			entity_vis_size: 1.0f
 			id: "0BB53AC414552D70"
 			rewards: [{
 				count: 5
@@ -102,6 +106,7 @@
 		}
 		{
 			dependencies: ["517D9D523E695937"]
+			entity_vis_size: 1.0f
 			id: "6C8346BEF1EE2B44"
 			rewards: [
 				{
@@ -145,6 +150,7 @@
 		}
 		{
 			dependencies: ["6C8346BEF1EE2B44"]
+			entity_vis_size: 1.0f
 			id: "3CE5551031D8BB4D"
 			rewards: [{
 				count: 5
@@ -168,6 +174,7 @@
 		}
 		{
 			dependencies: ["06A30576F3581F25"]
+			entity_vis_size: 1.0f
 			id: "114347412B7B12D4"
 			rewards: [{
 				id: "2CED1EFD15B95882"
@@ -190,6 +197,7 @@
 		}
 		{
 			dependencies: ["06A30576F3581F25"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:missing_item": "refinedstorage:pattern_grid"
@@ -226,6 +234,7 @@
 		}
 		{
 			dependencies: ["517D9D523E695937"]
+			entity_vis_size: 1.0f
 			id: "06A30576F3581F25"
 			rewards: [
 				{
@@ -263,6 +272,7 @@
 		}
 		{
 			dependencies: ["74550D01582163E0"]
+			entity_vis_size: 1.0f
 			id: "66EA7DEE1464004A"
 			rewards: [{
 				count: 5
@@ -286,6 +296,7 @@
 		}
 		{
 			dependencies: ["72C8FDDBB7EEEDF8"]
+			entity_vis_size: 1.0f
 			id: "26CC2E9C21FBCFD9"
 			rewards: [{
 				count: 4
@@ -309,6 +320,7 @@
 		}
 		{
 			dependencies: ["517D9D523E695937"]
+			entity_vis_size: 1.0f
 			icon_scale: 1.25d
 			id: "72C8FDDBB7EEEDF8"
 			rewards: [{
@@ -334,6 +346,7 @@
 		}
 		{
 			dependencies: ["72C8FDDBB7EEEDF8"]
+			entity_vis_size: 1.0f
 			id: "33C050328C9C732C"
 			rewards: [{
 				count: 4
@@ -357,6 +370,7 @@
 		}
 		{
 			dependencies: ["72C8FDDBB7EEEDF8"]
+			entity_vis_size: 1.0f
 			id: "3492C7F03829A2A5"
 			rewards: [{
 				count: 4
@@ -380,6 +394,7 @@
 		}
 		{
 			dependencies: ["7B6D24D7F57E065A"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: true
 			icon: {
 				components: {
@@ -425,6 +440,7 @@
 		}
 		{
 			dependencies: ["74550D01582163E0"]
+			entity_vis_size: 1.0f
 			id: "15C016A627AEB0F9"
 			rewards: [{
 				count: 5
@@ -448,6 +464,7 @@
 		}
 		{
 			dependencies: ["74550D01582163E0"]
+			entity_vis_size: 1.0f
 			id: "5A8789D7CD900ABD"
 			rewards: [{
 				count: 5
@@ -471,6 +488,7 @@
 		}
 		{
 			dependencies: ["06A30576F3581F25"]
+			entity_vis_size: 1.0f
 			id: "136C768289DE589C"
 			rewards: [{
 				id: "6C9897ECD5CAB6C5"
@@ -493,6 +511,7 @@
 		}
 		{
 			dependencies: ["06A30576F3581F25"]
+			entity_vis_size: 1.0f
 			id: "6F6564478E5E52A6"
 			rewards: [{
 				id: "2E8D806B5724A404"

@@ -22,6 +22,7 @@
 	quests: [
 		{
 			dependencies: ["71EEA285EB464740"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "7154FAF601157D23"
@@ -42,6 +43,7 @@
 		}
 		{
 			dependencies: ["7154FAF601157D23"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "6DC0429F108D03E6"
 			rewards: [{
@@ -71,6 +73,7 @@
 		}
 		{
 			dependencies: ["7154FAF601157D23"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "2A9727EBE40E6ED3"
 			rewards: [{
@@ -88,6 +91,7 @@
 		}
 		{
 			dependencies: ["71EEA285EB464740"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "780F8E2C9E617768"
@@ -132,6 +136,7 @@
 		}
 		{
 			dependencies: ["3C510AA36D63F0F5"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "6C26AEA4620EF6A5"
@@ -174,6 +179,7 @@
 		}
 		{
 			dependencies: ["3C510AA36D63F0F5"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "193E29B1A735FAC5"
@@ -216,6 +222,7 @@
 		}
 		{
 			dependencies: ["3C510AA36D63F0F5"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			hide_until_deps_visible: false
@@ -272,6 +279,7 @@
 				"63712DE5AE6ED43D"
 				"2062B1A841F4053C"
 			]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: false
 			id: "5CA186F2C9AD57AE"
 			shape: "circle"
@@ -285,6 +293,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: false
 			id: "191867EE552F6F30"
 			shape: "circle"
@@ -298,6 +307,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			icon_scale: 2.0d
@@ -339,6 +349,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "539896EACCF3F1AC"
@@ -379,6 +390,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			icon_scale: 2.0d
@@ -422,6 +434,7 @@
 				"766AB4D78945AC31"
 				"645FD518CDA984B7"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "ars_nouveau:novice_spell_book"
 			}
@@ -448,6 +461,7 @@
 		}
 		{
 			dependencies: ["3C510AA36D63F0F5"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "2AE34D8173EA2A79"
@@ -479,6 +493,7 @@
 		}
 		{
 			dependencies: ["539896EACCF3F1AC"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			icon_scale: 2.0d
@@ -520,6 +535,7 @@
 		}
 		{
 			dependencies: ["71EEA285EB464740"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			icon_scale: 2.0d
@@ -560,6 +576,7 @@
 		}
 		{
 			dependencies: ["4C21428819E5C7AC"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "59A40626E8112293"
 			rewards: [
@@ -599,6 +616,7 @@
 		{
 			dependencies: ["4C21428819E5C7AC"]
 			dependency_requirement: "one_completed"
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "508F651458C4E4F5"
 			rewards: [
@@ -640,6 +658,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -662,6 +681,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -684,6 +704,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -706,6 +727,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -728,6 +750,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -750,6 +773,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -772,6 +796,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -794,6 +819,7 @@
 				"2F657C8CD3860E08"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -813,6 +839,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -832,6 +859,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -851,6 +879,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -870,6 +899,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -889,6 +919,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -908,6 +939,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -927,6 +959,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -946,6 +979,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -965,6 +999,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -984,6 +1019,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1003,6 +1039,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1022,6 +1059,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1041,6 +1079,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1060,6 +1099,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1079,6 +1119,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1098,6 +1139,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1117,6 +1159,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1136,6 +1179,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1155,6 +1199,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1174,6 +1219,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1193,6 +1239,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1212,6 +1259,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1231,6 +1279,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1250,6 +1299,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1269,6 +1319,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1288,6 +1339,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1307,6 +1359,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1326,6 +1379,7 @@
 		}
 		{
 			dependencies: ["2F657C8CD3860E08"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -1345,6 +1399,7 @@
 		}
 		{
 			dependencies: ["7154FAF601157D23"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "27E17C1DE0D9848D"
 			rewards: [{
@@ -1362,6 +1417,7 @@
 		}
 		{
 			dependencies: ["7154FAF601157D23"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "7EF9437C1043052C"
 			rewards: [{
@@ -1379,6 +1435,7 @@
 		}
 		{
 			dependencies: ["7EF9437C1043052C"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "4281E238E86E010D"
 			rewards: [{
@@ -1396,6 +1453,7 @@
 		}
 		{
 			dependencies: ["7EF9437C1043052C"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "1D92946E2522A63F"
 			rewards: [{
@@ -1413,6 +1471,7 @@
 		}
 		{
 			dependencies: ["7EF9437C1043052C"]
+			entity_vis_size: 1.0f
 			id: "1AC163B06D0FFC8F"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1429,6 +1488,7 @@
 		}
 		{
 			dependencies: ["7EF9437C1043052C"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "7B33A0B7B0475946"
 			rewards: [{
@@ -1446,6 +1506,7 @@
 		}
 		{
 			dependencies: ["7EF9437C1043052C"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "70581D79FC865B4C"
 			rewards: [{
@@ -1463,6 +1524,7 @@
 		}
 		{
 			dependencies: ["71EEA285EB464740"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			icon_scale: 2.0d
@@ -1488,6 +1550,7 @@
 		}
 		{
 			dependencies: ["4C21428819E5C7AC"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "0CC80243EB0A36FA"
 			rewards: [
@@ -1524,6 +1587,7 @@
 		}
 		{
 			dependencies: ["3C510AA36D63F0F5"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			icon: {
@@ -1550,6 +1614,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "379A48ACDCA454C9"
 			rewards: [
@@ -1587,6 +1652,7 @@
 		}
 		{
 			dependencies: ["379A48ACDCA454C9"]
+			entity_vis_size: 1.0f
 			id: "5CDDF3402116BADB"
 			rewards: [{
 				count: 2
@@ -1627,6 +1693,7 @@
 		}
 		{
 			dependencies: ["379A48ACDCA454C9"]
+			entity_vis_size: 1.0f
 			id: "5CD975573ECE25F5"
 			rewards: [{
 				count: 2
@@ -1653,6 +1720,7 @@
 				"539896EACCF3F1AC"
 				"63712DE5AE6ED43D"
 			]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: false
 			id: "3D40D539C72FEE73"
 			tasks: [{
@@ -1665,6 +1733,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: false
 			id: "2062B1A841F4053C"
 			tasks: [{
@@ -1677,6 +1746,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "645FD518CDA984B7"
 			rewards: [
@@ -1714,6 +1784,7 @@
 		}
 		{
 			dependencies: ["645FD518CDA984B7"]
+			entity_vis_size: 1.0f
 			id: "0E913C5E57A4F2E8"
 			tasks: [
 				{
@@ -1742,6 +1813,7 @@
 		}
 		{
 			dependencies: ["645FD518CDA984B7"]
+			entity_vis_size: 1.0f
 			id: "7017D024CED592F4"
 			tasks: [{
 				id: "32C81C8D2F1E5956"
@@ -1753,6 +1825,7 @@
 		}
 		{
 			dependencies: ["539896EACCF3F1AC"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "357AD72C3B07464A"
@@ -1778,6 +1851,7 @@
 		}
 		{
 			dependencies: ["645FD518CDA984B7"]
+			entity_vis_size: 1.0f
 			id: "6201488BC9F7D831"
 			tasks: [{
 				id: "5CF0D5A11D93A168"
@@ -1789,6 +1863,7 @@
 		}
 		{
 			dependencies: ["304B359A17D9DC8B"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: true
 			icon_scale: 2.0d
 			id: "71EEA285EB464740"
@@ -1839,6 +1914,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			id: "032EFFF7193897C0"
 			tasks: [{
 				id: "749E4782A5411092"
@@ -1853,6 +1929,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "4CAF984AB7164AAA"
 			tasks: [{
@@ -1865,6 +1942,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			id: "7020B22574DDAE5E"
 			tasks: [{
 				id: "6BCE5DE4525F87B8"
@@ -1876,6 +1954,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			id: "5B09D9B25751DECC"
 			tasks: [{
 				id: "29C1039BA5C5F461"
@@ -1890,6 +1969,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "5D966296C42F7294"
 			tasks: [{
@@ -1905,6 +1985,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "43AE9F7F76FCA7A7"
 			tasks: [{
@@ -1920,6 +2001,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "3154356038FD808B"
 			tasks: [{
@@ -1935,6 +2017,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "76B16225129CA5BA"
 			tasks: [{
@@ -1950,6 +2033,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "11263C23054F75DA"
 			tasks: [{
@@ -1962,6 +2046,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "09D56960D27C751B"
 			tasks: [{
@@ -1974,6 +2059,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			id: "650A06E7214A2ED1"
 			tasks: [{
 				id: "0D50D4EFBB6581CB"
@@ -1985,6 +2071,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			id: "73F191A33FAA8878"
 			tasks: [{
 				id: "42B41AABB78AD523"
@@ -1999,6 +2086,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "595647B7C73FBAED"
 			tasks: [{
@@ -2014,6 +2102,7 @@
 				"26C0E4452B8066F6"
 				"5DCF8060165FBBAF"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "4A958BA4CE4F0F17"
 			tasks: [{
@@ -2026,6 +2115,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			id: "658F7D00A8E5D76D"
 			tasks: [{
 				id: "1F46FD37D41B5276"
@@ -2040,6 +2130,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "314493A01850296D"
 			tasks: [{
 				id: "49F4125E5ACC6F34"
@@ -2054,6 +2145,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "53D7E09EFF7E8F03"
 			tasks: [{
 				id: "098AF641C6A2AE9F"
@@ -2068,6 +2160,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "26F5734127F0F7EC"
 			tasks: [{
 				id: "7B5FE6B908D76DF5"
@@ -2082,6 +2175,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "602899D1C100DCE3"
 			tasks: [{
 				id: "14EF833DECE9788E"
@@ -2096,6 +2190,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "3C6A9B5933DA9FF9"
 			tasks: [{
 				id: "76D4F76E0CAA9E8E"
@@ -2110,6 +2205,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "29478688B4243817"
 			tasks: [{
 				id: "4488ABE9316899E5"
@@ -2124,6 +2220,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "4D74B46861B7E82C"
 			tasks: [{
 				id: "2348485E7922397E"
@@ -2138,6 +2235,7 @@
 				"26C0E4452B8066F6"
 				"1966555A6D4B8AC1"
 			]
+			entity_vis_size: 1.0f
 			id: "7FD332F870142F0F"
 			tasks: [{
 				id: "293566FE00C8FB4C"
@@ -2149,6 +2247,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "64A7804BB3AEFE86"
 			rewards: [{
@@ -2172,6 +2271,7 @@
 		}
 		{
 			dependencies: ["26C0E4452B8066F6"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "0B997F9AA39276A1"
 			rewards: [{
@@ -2195,6 +2295,7 @@
 		}
 		{
 			dependencies: ["64A7804BB3AEFE86"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: false
 			id: "13A45A91408CDEA7"
 			rewards: [{
@@ -2219,6 +2320,7 @@
 		}
 		{
 			dependencies: ["0B997F9AA39276A1"]
+			entity_vis_size: 1.0f
 			hide_until_deps_complete: false
 			id: "17621723674DC74B"
 			rewards: [{
@@ -2243,6 +2345,7 @@
 		}
 		{
 			dependencies: ["379A48ACDCA454C9"]
+			entity_vis_size: 1.0f
 			id: "22AAE46659CE5A01"
 			rewards: [{
 				count: 4
@@ -2266,6 +2369,7 @@
 		}
 		{
 			dependencies: ["379A48ACDCA454C9"]
+			entity_vis_size: 1.0f
 			id: "008C36CDA68E6968"
 			rewards: [{
 				count: 4
@@ -2292,6 +2396,7 @@
 				"008C36CDA68E6968"
 				"22AAE46659CE5A01"
 			]
+			entity_vis_size: 1.0f
 			id: "667338706C4A306E"
 			rewards: [{
 				id: "0B25B4B5556813A3"
@@ -2313,6 +2418,7 @@
 		}
 		{
 			dependencies: ["731D092CBEF73010"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "1CAD3BB2D5A8E0F1"
 			tasks: [{
@@ -2325,6 +2431,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "0FAB015603DE8044"
 			tasks: [{
 				id: "07FB7C3E37383B8C"
@@ -2336,6 +2443,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "59D1C805DC42672E"
 			tasks: [{
 				id: "5C66B7588A4189C8"
@@ -2347,6 +2455,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "6741EB11E7C2049E"
 			tasks: [{
 				id: "0041A64097BC79F5"
@@ -2358,6 +2467,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "5C9996876CAE4EED"
 			tasks: [{
 				id: "7E314B79E6909029"
@@ -2369,6 +2479,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "2BD5481BAC57878D"
 			tasks: [{
 				id: "3A34D4B6135A2F44"
@@ -2380,6 +2491,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "3CCB559BCAB1B69C"
 			tasks: [{
 				id: "242F7AD475825D3E"
@@ -2391,6 +2503,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "7927B2581B383040"
 			tasks: [{
 				id: "25E659ADAFC8F8F1"
@@ -2402,6 +2515,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "25766506F8F4307F"
 			tasks: [{
 				id: "7F54244485F88A18"
@@ -2413,6 +2527,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "1DDCF59C7FAA9EB8"
 			tasks: [{
 				id: "22219970F27EEB82"
@@ -2424,6 +2539,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "30609822AD46F9F5"
 			tasks: [{
 				id: "5C85E905951444AE"
@@ -2435,6 +2551,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "1EA40EB628B0436B"
 			tasks: [{
 				id: "27139419B885D46D"
@@ -2446,6 +2563,7 @@
 		}
 		{
 			dependencies: ["1CAD3BB2D5A8E0F1"]
+			entity_vis_size: 1.0f
 			id: "5384F4B3040CFB54"
 			tasks: [{
 				id: "3208B59DD4614A83"
@@ -2457,6 +2575,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2476,6 +2595,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2498,6 +2618,7 @@
 				"63712DE5AE6ED43D"
 				"379A48ACDCA454C9"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			icon: {
@@ -2545,6 +2666,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			icon: {
 				components: {
@@ -2565,6 +2687,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2584,6 +2707,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2603,6 +2727,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2622,6 +2747,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2641,6 +2767,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2660,6 +2787,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2679,6 +2807,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2698,6 +2827,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2717,6 +2847,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2736,6 +2867,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2755,6 +2887,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2774,6 +2907,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2793,6 +2927,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2812,6 +2947,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2831,6 +2967,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2850,6 +2987,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2869,6 +3007,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2888,6 +3027,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2907,6 +3047,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2926,6 +3067,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2945,6 +3087,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"malum:geas_effect": {
@@ -2964,6 +3107,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			icon: {
 				components: {
@@ -2984,6 +3128,7 @@
 		}
 		{
 			dependencies: ["63712DE5AE6ED43D"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			icon_scale: 2.0d
@@ -3010,6 +3155,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			hide_dependent_lines: true
 			id: "69EEBB675F42BB49"
@@ -3034,6 +3180,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			id: "2E648F8887B844FC"
 			rewards: [{
 				id: "209D6B1C81786840"
@@ -3057,6 +3204,7 @@
 		{
 			dependencies: ["5DCF8060165FBBAF"]
 			dependency_requirement: "one_started"
+			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "2F474B69D274C2AD"
 			min_width: 400
@@ -3081,6 +3229,7 @@
 		}
 		{
 			dependencies: ["5DCF8060165FBBAF"]
+			entity_vis_size: 1.0f
 			id: "4B762A924465F350"
 			rewards: [{
 				id: "7997143A569E3D9C"
@@ -3102,6 +3251,7 @@
 		}
 		{
 			dependencies: ["00E548266D5715E3"]
+			entity_vis_size: 1.0f
 			id: "1A7EEA69F3E21C4A"
 			tasks: [
 				{
@@ -3130,6 +3280,7 @@
 		}
 		{
 			dependencies: ["00E548266D5715E3"]
+			entity_vis_size: 1.0f
 			id: "742D36AD4B8DF462"
 			tasks: [{
 				id: "35925DB6646EA098"
@@ -3141,6 +3292,7 @@
 		}
 		{
 			dependencies: ["00E548266D5715E3"]
+			entity_vis_size: 1.0f
 			id: "4D7E22ED67BA2B27"
 			tasks: [{
 				id: "53D7AA90E91AF4AD"
@@ -3156,6 +3308,7 @@
 				"1966555A6D4B8AC1"
 			]
 			dependency_requirement: "one_started"
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "00E548266D5715E3"
@@ -3194,6 +3347,7 @@
 		}
 		{
 			dependencies: ["00E548266D5715E3"]
+			entity_vis_size: 1.0f
 			id: "0145425C3B8CB3C8"
 			tasks: [{
 				id: "02A08CC38B7268A8"

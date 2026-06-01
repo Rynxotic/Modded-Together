@@ -9,23 +9,32 @@
 	# Better Store Info
 	# Optimize table cloth store info display and interaction logic
 	betterStoreInfo = true
+	# Better Factory Gauge
+	# Allows any way to connect and move factory gauges
+	betterFactoryGauge = true
 	# Render Kinetic Particles
 	# Render rotation particle effects for target blocks
 	enableKineticEffect = true
-	# Precise Numbers
-	# Display more precise numerical values
-	preciseNumber = true
 	# Disable In-Screen Goggles
 	# Disable goggles display when any screen is open
 	disableScreenGoggles = true
 	# Render with Value Box
 	# Allow goggle tooltip rendering when value box is visible
 	canRenderOnValueBox = false
+	# Deduplicate Tooltip Lines
+	# Remove adjacent duplicate or near-duplicate lines in goggles tooltip
+	dedupTooltipLines = true
+	# Precise Numbers
+	# Display more precise numerical values
+	preciseNumber = true
+	# Max Fraction Digits
+	# The maximum fraction digits used for precise number
+	maxFractionDigits = 2
 
 # Tooltip
 [tooltip]
 	# Extra Item Tooltip
-	# Display extra information in item tooltip
+	# Show extra information in item tooltip
 	extraItemTooltip = true
 	# Container
 	# Show container content
@@ -33,6 +42,12 @@
 	# Fluid Container
 	# Show fluid container content
 	fluidContainer = true
+	# Clipboard
+	# Enable clipboard custom rendering in first person and tooltip overlay
+	clipboard = true
+	# Map
+	# Show additional tooltip information for the map
+	map = true
 	# Toolbox
 	# Show toolbox content
 	toolbox = true
@@ -75,6 +90,9 @@
 	# Depot
 	# Show depot content
 	depot = true
+	# Table Cloth
+	# Show table cloth content
+	tableCloth = true
 	# Redstone Requester
 	# Show redstone requester content
 	redstoneRequester = true
@@ -107,7 +125,7 @@
 [overlay]
 	# Render Item Overlay
 	# Allow rendering item info overlay on blocks
-	renderItemOverlay = true
+	renderItemOverlay = false
 	# Overlay Horizontal Offset
 	# Horizontal offset of item info overlay
 	# Positive: right, Negative: left
@@ -158,9 +176,9 @@
 
 # Chain Conveyor
 [chainConveyor]
-	# Always Allow Riding
+	# Always Allow Riding Chain
 	# Hang on chain conveyors without needing a wrench
-	alwaysAllowRiding = false
+	alwaysAllowRidingChain = false
 	# Prevent Auto Detach
 	# Prevent automatic detachment from chain conveyors due to obstacles
 	preventFalling = false
@@ -199,6 +217,24 @@
 	# §cWarning: May be considered cheating on servers
 	enchancedRotationMenu = false
 
+# Aeronautics
+[aeronautics]
+	# Always Show Mass
+	# Show the mass of any blocks
+	alwaysShowMass = true
+	# Always Show Friction
+	# Show the friction of any blocks
+	alwaysShowFriction = false
+	# Lift Limit Of Handle Range
+	# Lift the limit of the iron handle range
+	liftLimitOfHandleRange = false
+	# Custom Handle Move Sublevel Key
+	# Enable custom handle movement Sublevel key
+	customHandleMoveSublevelKey = false
+	# Always Allow Riding Rope
+	# Hang on rope without needing a wrench
+	alwaysAllowRidingRope = true
+
 # Misc
 [misc]
 	# Remove Mechanical Arm Limit
@@ -207,6 +243,12 @@
 	# Remove Request Limit
 	# Remove request quantity limit for factory panels and redstone requesters, optimize fast scrolling
 	removeRequestLimit = true
+	# Stock Request Quick Actions
+	# Enable quick actions in stock request screen
+	stockRequestQuickActions = true
+	# Recursive Schematic Scan
+	# Include schematics in subfolders when refreshing the list
+	recursiveSchematicScan = true
 	# Prevent Selection Discard
 	# Prevent discarding selection when switching items
 	preventSelectionDiscard = true
@@ -225,6 +267,12 @@
 	# Fix Schematic Name
 	# Allow non-ASCII characters when saving schematics
 	fixSchematicName = true
+	# Remove Train Damage
+	# Prevent train collisions from dealing damage to players
+	removeTrainDamage = false
+	# Enable Negative Infinity Throttle
+	# Allow train throttle to scroll past the normal minimum limit
+	enableNegativeInfThrottle = false
 	# Force Flywheel Backend
 	# Force enable Flywheel rendering backend (conflicts with shaders, unless you know what you're doing)
 	forcedBackend = false

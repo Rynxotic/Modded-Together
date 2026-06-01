@@ -107,6 +107,7 @@
 	quests: [
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			icon: {
 				id: "farmersdelight:roast_chicken_block"
 			}
@@ -127,6 +128,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "1FB94E6D0B301C54"
 			rewards: [{
 				id: "733D688346A0A48A"
@@ -142,6 +144,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "18B145BF604B9230"
 			rewards: [{
 				id: "3340564930D0AB58"
@@ -158,6 +161,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "2F1A4AB39DED083A"
 			rewards: [{
 				id: "624892C7164EBEBB"
@@ -174,6 +178,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "30676D2D00FE5A3D"
 			rewards: [{
 				id: "14F846567A6FABA5"
@@ -191,6 +196,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "35664D96658E5702"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -207,6 +213,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "4E760DCE8E64F80B"
 			rewards: [{
 				id: "28AE8039C657CBC6"
@@ -223,6 +230,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "6F8D7BD6FEF725DA"
 			rewards: [{
 				id: "08A16A68C84B3D9C"
@@ -239,6 +247,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "68470F41A5B48B01"
 			rewards: [{
 				id: "62C932ED0A9CF89A"
@@ -255,6 +264,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "3B9BD6F5AAB53549"
 			rewards: [{
 				id: "47C2A130A2DC45C7"
@@ -271,6 +281,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "49C37A041ECEE783"
 			rewards: [{
 				id: "3D7E6AF1FD3DC941"
@@ -287,6 +298,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "1CDC8E0EDF620BE4"
 			rewards: [{
 				id: "5CDF8EE4A9FF07C4"
@@ -303,6 +315,7 @@
 		}
 		{
 			dependencies: ["46B9E8C825098695"]
+			entity_vis_size: 1.0f
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
 			icon_scale: 1.25d
@@ -331,6 +344,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			hide_dependent_lines: true
 			icon_scale: 1.25d
 			id: "52C729A521F71CB1"
@@ -358,6 +372,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			hide_dependent_lines: true
 			icon_scale: 1.25d
 			id: "1813D71878C4651E"
@@ -384,6 +399,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "4F1DD40750E72735"
 			rewards: [{
 				id: "14AF5D8997D070B3"
@@ -399,6 +415,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "4C0409D5E3FB524C"
 			rewards: [{
 				id: "20D33416B6CA381D"
@@ -414,6 +431,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "7E8A11671BDB1B89"
 			rewards: [{
 				id: "381C0044012A0F55"
@@ -429,6 +447,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "5C940A8562DCEACE"
 			rewards: [{
 				id: "72F9CF80A87A79DB"
@@ -444,6 +463,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "03D3D891064EA7E5"
 			rewards: [{
 				id: "2656A54341CBB19B"
@@ -459,6 +479,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "74BAD3BE4843A6C2"
 			rewards: [{
 				id: "71FD5FE6FFDF5869"
@@ -474,6 +495,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "35AD161A84C8D5D6"
 			rewards: [{
 				id: "7A33E14CC6F2DEA9"
@@ -489,6 +511,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "21E864010FDDFE3E"
 			rewards: [{
 				id: "39819FBC034387B3"
@@ -504,6 +527,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "7FC1ECCB425A2C92"
 			rewards: [{
 				id: "30847F0C1CBF1152"
@@ -519,6 +543,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "5B8B73B49C67E451"
 			rewards: [{
 				id: "44605D9B6577FAED"
@@ -534,6 +559,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "2CA7993833E43B17"
 			rewards: [{
 				id: "2DB88F0B667B960B"
@@ -549,6 +575,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "18122E404DCBA775"
 			rewards: [{
 				id: "0609724799A8A482"
@@ -564,6 +591,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "637D45E3E9D312ED"
 			rewards: [{
 				id: "4BF46DA37E3F09B4"
@@ -579,6 +607,7 @@
 		}
 		{
 			dependencies: ["35664D96658E5702"]
+			entity_vis_size: 1.0f
 			id: "52C91027614B470F"
 			rewards: [{
 				id: "2311FF0FB5ABAF96"
@@ -594,6 +623,7 @@
 		}
 		{
 			dependencies: ["35664D96658E5702"]
+			entity_vis_size: 1.0f
 			id: "69BBC100391E75F4"
 			rewards: [{
 				id: "0409C7AE65ABC0AC"
@@ -609,6 +639,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "26EE9175C68ADB0D"
 			rewards: [{
 				id: "456BCBFC359AE52B"
@@ -624,6 +655,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "40554D5B7FD13ADE"
 			rewards: [{
 				id: "3DFA1F5FA00503FC"
@@ -639,6 +671,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "218B5DF3739D3359"
 			rewards: [{
 				id: "14BE239AE969180E"
@@ -654,6 +687,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "0C9B6D4D227207FC"
 			rewards: [{
 				id: "7ED63ED5E795BCB4"
@@ -669,6 +703,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "74B6FC74572ED928"
 			rewards: [{
 				id: "526278043A2FF547"
@@ -684,6 +719,7 @@
 		}
 		{
 			dependencies: ["4E760DCE8E64F80B"]
+			entity_vis_size: 1.0f
 			id: "18CAD679CD3F9A62"
 			rewards: [{
 				id: "5FC071FD74E08625"
@@ -699,6 +735,7 @@
 		}
 		{
 			dependencies: ["4E760DCE8E64F80B"]
+			entity_vis_size: 1.0f
 			id: "30BE9D2BED50CA8E"
 			rewards: [{
 				id: "14011110E2712BBC"
@@ -714,6 +751,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "24946CBA5FBCB892"
 			rewards: [{
 				id: "0351A003CE211298"
@@ -729,6 +767,7 @@
 		}
 		{
 			dependencies: ["6F8D7BD6FEF725DA"]
+			entity_vis_size: 1.0f
 			id: "3DDBC166A26F23F1"
 			rewards: [{
 				id: "61899F187FAB3C79"
@@ -744,6 +783,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "43B7FF47E7EDD904"
 			rewards: [{
 				id: "78523057AE56DD0E"
@@ -759,6 +799,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "6E1EF4A2933C23AE"
 			rewards: [{
 				id: "6CF60C9557491AF8"
@@ -774,6 +815,7 @@
 		}
 		{
 			dependencies: ["52C729A521F71CB1"]
+			entity_vis_size: 1.0f
 			id: "71C198BE3D15A579"
 			rewards: [{
 				id: "7B69DC28B6233F1B"
@@ -789,6 +831,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "13609A5EBD761276"
 			rewards: [{
 				id: "4F4BA1485F8418DC"
@@ -804,6 +847,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "46C8082E0EAD70D1"
 			rewards: [{
 				id: "6942C2A04FD3186C"
@@ -819,6 +863,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "706C7AA038C85AB9"
 			rewards: [{
 				id: "452DDEC389A3B642"
@@ -834,6 +879,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "772908F7386D8BCC"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -850,6 +896,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "7FDD9782F91F9B42"
 			rewards: [{
 				id: "33BB979D00DC8934"
@@ -865,6 +912,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "3652596A1B972AC2"
 			rewards: [{
 				id: "12E441213CFD2684"
@@ -880,6 +928,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "6B3151B1F0F34380"
 			rewards: [{
 				id: "687A31DCCAF6BADF"
@@ -895,6 +944,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "391EA8F663A6CEFA"
 			rewards: [{
 				id: "5775200D3FC402B2"
@@ -910,6 +960,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "3751A0540867805C"
 			rewards: [{
 				id: "6278271BFA413F83"
@@ -925,6 +976,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "6A6EA2BB85038674"
 			rewards: [{
 				id: "4E465804E4F320BE"
@@ -940,6 +992,7 @@
 		}
 		{
 			dependencies: ["1FB94E6D0B301C54"]
+			entity_vis_size: 1.0f
 			id: "050054943EDD7FD0"
 			rewards: [{
 				id: "116048271C47C4C5"
@@ -955,6 +1008,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "7BF3BE106378810F"
 			rewards: [{
 				id: "0354F59F6F3C7F91"
@@ -970,6 +1024,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "573130FEE1FAAA7D"
 			rewards: [{
 				id: "3FCDA8EE457FAE97"
@@ -985,6 +1040,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "4FB8C43224726449"
 			rewards: [{
 				id: "61B55E6ABF82C955"
@@ -1000,6 +1056,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "43C3EAA92945C7B9"
 			rewards: [{
 				id: "71726F7391017634"
@@ -1015,6 +1072,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "703BF89D72D3B8DB"
 			rewards: [{
 				id: "21DE2A0C0DDFDA44"
@@ -1030,6 +1088,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "27AF406500077C9B"
 			rewards: [{
 				id: "06226D41D0A8CA00"
@@ -1045,6 +1104,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "7133BC3F0C1B943F"
 			rewards: [{
 				id: "3785C2F0DDC46B6B"
@@ -1060,6 +1120,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "0ECCE219B4F99420"
 			rewards: [{
 				id: "2A955C8FA5AE97D3"
@@ -1075,6 +1136,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			id: "0CEE2DE62D36A50B"
 			rewards: [{
 				id: "390AAB68553CCA75"
@@ -1090,6 +1152,7 @@
 		}
 		{
 			dependencies: ["618C8EF4ED4E173C"]
+			entity_vis_size: 1.0f
 			id: "3026A8858834B1A9"
 			rewards: [{
 				id: "2F79C4C1181DD9DB"
@@ -1105,6 +1168,7 @@
 		}
 		{
 			dependencies: ["2F1A4AB39DED083A"]
+			entity_vis_size: 1.0f
 			id: "2C0F82B61AB54D39"
 			rewards: [{
 				id: "1FF93EB2765D7C26"
@@ -1120,6 +1184,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "08E2CDEC190F0D56"
 			rewards: [{
 				id: "65E89D01073C1A38"
@@ -1135,6 +1200,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "2527E27AC9CD9699"
 			rewards: [{
 				id: "259775A4B36CBA72"
@@ -1150,6 +1216,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "23DD6BBD020F0446"
 			rewards: [{
 				id: "7EB7276EB6DDCC8A"
@@ -1165,6 +1232,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "0C6667DE3A0F26B1"
 			rewards: [{
 				id: "7947FBE61476929A"
@@ -1180,6 +1248,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "3DEC089C1A86C5E6"
 			rewards: [{
 				id: "0E664B68590E529B"
@@ -1195,6 +1264,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "3A1B2DC1B4004DAD"
 			rewards: [{
 				id: "22D5416AF9D8BDAF"
@@ -1210,6 +1280,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "4CD7761EBD902306"
 			rewards: [{
 				id: "2381856467BD0C43"
@@ -1225,6 +1296,7 @@
 		}
 		{
 			dependencies: ["1813D71878C4651E"]
+			entity_vis_size: 1.0f
 			id: "4B850C7BCD69B611"
 			rewards: [{
 				id: "62D5924F959185B0"
@@ -1240,6 +1312,7 @@
 		}
 		{
 			dependencies: ["68470F41A5B48B01"]
+			entity_vis_size: 1.0f
 			id: "03F6583D12DD590D"
 			rewards: [{
 				id: "1D6894444ABAF0BF"
@@ -1255,6 +1328,7 @@
 		}
 		{
 			dependencies: ["1CDC8E0EDF620BE4"]
+			entity_vis_size: 1.0f
 			id: "4B848CB113D515BB"
 			rewards: [{
 				id: "389F1BB242178F91"
@@ -1270,6 +1344,7 @@
 		}
 		{
 			dependencies: ["49C37A041ECEE783"]
+			entity_vis_size: 1.0f
 			id: "20078DD2EA9A9074"
 			rewards: [{
 				id: "5F46B6741774CA56"
@@ -1285,6 +1360,7 @@
 		}
 		{
 			dependencies: ["3B9BD6F5AAB53549"]
+			entity_vis_size: 1.0f
 			id: "23FC4E1D0CF8E5C7"
 			rewards: [{
 				id: "0AA726ED58DA00C2"
@@ -1351,90 +1427,13 @@
 				"1CDC8E0EDF620BE4"
 				"49C37A041ECEE783"
 			]
+			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			icon: {
 				components: {
-					"relics:charge": 6
-					"relics:data": {
-						abilities: {
-							abilities: {
-								marinade: {
-									extender: {
-										cooldown: 0
-										cooldownCap: 0
-										ticking: 0b
-									}
-									lock: {
-										breaks: 5
-									}
-									points: 10
-									research: {
-										links: { }
-										researched: 1b
-									}
-									stats: {
-										duration: {
-											initialValue: 3.0d
-										}
-									}
-								}
-								meat_bat: {
-									extender: {
-										cooldown: 0
-										cooldownCap: 0
-										ticking: 0b
-									}
-									lock: {
-										breaks: 5
-									}
-									points: 10
-									research: {
-										links: { }
-										researched: 1b
-									}
-									stats: {
-										damage: {
-											initialValue: 2.0d
-										}
-										stun: {
-											initialValue: 0.25d
-										}
-									}
-								}
-								regeneration: {
-									extender: {
-										cooldown: 0
-										cooldownCap: 0
-										ticking: 0b
-									}
-									lock: {
-										breaks: 5
-									}
-									points: 10
-									research: {
-										links: { }
-										researched: 1b
-									}
-									stats: {
-										cooldown: {
-											initialValue: 15.0d
-										}
-										feed: {
-											initialValue: 3.0d
-										}
-									}
-								}
-							}
-						}
-						leveling: {
-							experience: 0
-							level: 20
-							luck: 0
-							points: 0
-						}
-					}
+					"ftbquests:missing_item": "relics:infinity_ham"
 				}
-				id: "relics:infinity_ham"
+				id: "ftbquests:missing_item"
 			}
 			icon_scale: 1.2d
 			id: "70C8BA5815937256"
@@ -1443,88 +1442,10 @@
 					id: "6EBC5CBBBD7BCD4A"
 					item: {
 						components: {
-							"relics:charge": 6
-							"relics:data": {
-								abilities: {
-									abilities: {
-										marinade: {
-											extender: {
-												cooldown: 0
-												cooldownCap: 0
-												ticking: 0b
-											}
-											lock: {
-												breaks: 0
-											}
-											points: 0
-											research: {
-												links: { }
-												researched: 0b
-											}
-											stats: {
-												duration: {
-													initialValue: 1.46324d
-												}
-											}
-										}
-										meat_bat: {
-											extender: {
-												cooldown: 0
-												cooldownCap: 0
-												ticking: 0b
-											}
-											lock: {
-												breaks: 0
-											}
-											points: 0
-											research: {
-												links: { }
-												researched: 0b
-											}
-											stats: {
-												damage: {
-													initialValue: 0.76344d
-												}
-												stun: {
-													initialValue: 0.11754d
-												}
-											}
-										}
-										regeneration: {
-											extender: {
-												cooldown: 0
-												cooldownCap: 0
-												ticking: 0b
-											}
-											lock: {
-												breaks: 5
-											}
-											points: 0
-											research: {
-												links: { }
-												researched: 0b
-											}
-											stats: {
-												cooldown: {
-													initialValue: 19.29382d
-												}
-												feed: {
-													initialValue: 2.50423d
-												}
-											}
-										}
-									}
-								}
-								leveling: {
-									experience: 0
-									level: 0
-									luck: 0
-									points: 0
-								}
-							}
+							"ftbquests:missing_item": "relics:infinity_ham"
 						}
 						count: 1
-						id: "relics:infinity_ham"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}
@@ -1563,6 +1484,7 @@
 		}
 		{
 			dependencies: ["18B145BF604B9230"]
+			entity_vis_size: 1.0f
 			id: "350DBB1C73D5DFED"
 			rewards: [{
 				id: "75A41BB0B72B10CC"
@@ -1578,6 +1500,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:icon": "farmersdelight:textures/mob_effect/comfort.png"
@@ -1602,6 +1525,7 @@
 		}
 		{
 			dependencies: ["2B9E04B931ADDDAE"]
+			entity_vis_size: 1.0f
 			icon: {
 				components: {
 					"ftbquests:icon": "farmersdelight:textures/mob_effect/nourishment.png"

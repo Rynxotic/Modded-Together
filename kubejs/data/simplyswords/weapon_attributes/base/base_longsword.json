@@ -1,0 +1,6 @@
+{
+  "parent": "malfu_combat_animation:er_sword",
+  "attributes": {
+    "category": "sword"
+  }
+}

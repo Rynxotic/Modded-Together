@@ -1,0 +1,113 @@
+===========================================
+SCHOOL RARITY ATTRIBUTES
+===========================================
+These control whether a player can cast spells of a specific
+rarity within a specific school.
+Value: 0 = locked, 1 = unlocked
+Requires globalSchoolRarityLocking = true in config.
+
+--- irons_spellbooks:fire ---
+ironsattributes:irons_spellbooks_fire_common_rarity_unlocked
+ironsattributes:irons_spellbooks_fire_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_fire_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_fire_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_fire_legendary_rarity_unlocked
+
+--- irons_spellbooks:ice ---
+ironsattributes:irons_spellbooks_ice_common_rarity_unlocked
+ironsattributes:irons_spellbooks_ice_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_ice_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_ice_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_ice_legendary_rarity_unlocked
+
+--- irons_spellbooks:lightning ---
+ironsattributes:irons_spellbooks_lightning_common_rarity_unlocked
+ironsattributes:irons_spellbooks_lightning_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_lightning_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_lightning_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_lightning_legendary_rarity_unlocked
+
+--- irons_spellbooks:holy ---
+ironsattributes:irons_spellbooks_holy_common_rarity_unlocked
+ironsattributes:irons_spellbooks_holy_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_holy_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_holy_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_holy_legendary_rarity_unlocked
+
+--- irons_spellbooks:ender ---
+ironsattributes:irons_spellbooks_ender_common_rarity_unlocked
+ironsattributes:irons_spellbooks_ender_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_ender_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_ender_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_ender_legendary_rarity_unlocked
+
+--- irons_spellbooks:blood ---
+ironsattributes:irons_spellbooks_blood_common_rarity_unlocked
+ironsattributes:irons_spellbooks_blood_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_blood_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_blood_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_blood_legendary_rarity_unlocked
+
+--- irons_spellbooks:evocation ---
+ironsattributes:irons_spellbooks_evocation_common_rarity_unlocked
+ironsattributes:irons_spellbooks_evocation_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_evocation_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_evocation_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_evocation_legendary_rarity_unlocked
+
+--- irons_spellbooks:nature ---
+ironsattributes:irons_spellbooks_nature_common_rarity_unlocked
+ironsattributes:irons_spellbooks_nature_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_nature_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_nature_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_nature_legendary_rarity_unlocked
+
+--- irons_spellbooks:eldritch ---
+ironsattributes:irons_spellbooks_eldritch_common_rarity_unlocked
+ironsattributes:irons_spellbooks_eldritch_uncommon_rarity_unlocked
+ironsattributes:irons_spellbooks_eldritch_rare_rarity_unlocked
+ironsattributes:irons_spellbooks_eldritch_epic_rarity_unlocked
+ironsattributes:irons_spellbooks_eldritch_legendary_rarity_unlocked
+
+--- aces_spell_utils:ritual ---
+ironsattributes:aces_spell_utils_ritual_common_rarity_unlocked
+ironsattributes:aces_spell_utils_ritual_uncommon_rarity_unlocked
+ironsattributes:aces_spell_utils_ritual_rare_rarity_unlocked
+ironsattributes:aces_spell_utils_ritual_epic_rarity_unlocked
+ironsattributes:aces_spell_utils_ritual_legendary_rarity_unlocked
+
+--- aces_spell_utils:hydro ---
+ironsattributes:aces_spell_utils_hydro_common_rarity_unlocked
+ironsattributes:aces_spell_utils_hydro_uncommon_rarity_unlocked
+ironsattributes:aces_spell_utils_hydro_rare_rarity_unlocked
+ironsattributes:aces_spell_utils_hydro_epic_rarity_unlocked
+ironsattributes:aces_spell_utils_hydro_legendary_rarity_unlocked
+
+--- aces_spell_utils:technomancy ---
+ironsattributes:aces_spell_utils_technomancy_common_rarity_unlocked
+ironsattributes:aces_spell_utils_technomancy_uncommon_rarity_unlocked
+ironsattributes:aces_spell_utils_technomancy_rare_rarity_unlocked
+ironsattributes:aces_spell_utils_technomancy_epic_rarity_unlocked
+ironsattributes:aces_spell_utils_technomancy_legendary_rarity_unlocked
+
+--- hazentouvelib:radiance ---
+ironsattributes:hazentouvelib_radiance_common_rarity_unlocked
+ironsattributes:hazentouvelib_radiance_uncommon_rarity_unlocked
+ironsattributes:hazentouvelib_radiance_rare_rarity_unlocked
+ironsattributes:hazentouvelib_radiance_epic_rarity_unlocked
+ironsattributes:hazentouvelib_radiance_legendary_rarity_unlocked
+
+--- hazentouvelib:shadow ---
+ironsattributes:hazentouvelib_shadow_common_rarity_unlocked
+ironsattributes:hazentouvelib_shadow_uncommon_rarity_unlocked
+ironsattributes:hazentouvelib_shadow_rare_rarity_unlocked
+ironsattributes:hazentouvelib_shadow_epic_rarity_unlocked
+ironsattributes:hazentouvelib_shadow_legendary_rarity_unlocked
+
+--- hazentouvelib:cosmic ---
+ironsattributes:hazentouvelib_cosmic_common_rarity_unlocked
+ironsattributes:hazentouvelib_cosmic_uncommon_rarity_unlocked
+ironsattributes:hazentouvelib_cosmic_rare_rarity_unlocked
+ironsattributes:hazentouvelib_cosmic_epic_rarity_unlocked
+ironsattributes:hazentouvelib_cosmic_legendary_rarity_unlocked
+

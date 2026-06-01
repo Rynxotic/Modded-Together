@@ -1,0 +1,62 @@
+#Enable VisualFar LOD rendering system
+enabled = true
+#Enable LOD terrain rendering (can be disabled while keeping data ingestion)
+enableRendering = true
+#Enable automatic chunk data ingestion for LOD generation
+ingestEnabled = true
+#LOD section render distance (multiplied by 32 for actual chunk distance)
+#Example: 12 = 384 chunks render distance
+# Default: 12
+# Range: 2 ~ 64
+sectionRenderDistance = 12
+#Number of background threads for LOD processing
+#Lower values reduce stutter while moving through new terrain.
+# Default: 3
+# Range: 1 ~ 8
+serviceThreads = 3
+#Subdivision size for LOD rendering (28-256)
+#Lower = more detailed LODs but more GPU load
+# Default: 96.0
+# Range: 28.0 ~ 256.0
+subDivisionSize = 96.0
+#How many LOD distance-tracker updates VisualFar may process per frame.
+#Lower values reduce stutter while moving quickly, but distant LODs appear more gradually.
+#Recommended: 4-12
+# Default: 8
+# Range: 1 ~ 64
+renderDistanceUpdatesPerFrame = 8
+#Maximum model baking work per frame in microseconds.
+#Lower values reduce frame spikes; higher values make LODs appear faster.
+#Recommended: 250-1000
+# Default: 350
+# Range: 50 ~ 5000
+modelBakeBudgetMicros = 350
+#Maximum queued chunk-section ingest jobs.
+#Lower values protect weak PCs from backlog stutter; higher values cache explored terrain faster.
+#Recommended: 384-1536
+# Default: 768
+# Range: 64 ~ 8192
+maxQueuedIngestSections = 768
+#Apply environmental fog to LOD terrain
+useEnvironmentalFog = true
+#Don't share threads with Sodium's chunk builder
+dontUseSodiumBuilderThreads = true
+#LOD boundary overlap in blocks (like DH's overdraw prevention)
+#Controls how much LODs overlap with vanilla chunk edges.
+#Higher values = more overlap = smoother transitions but slight overdraw.
+#0 = exact match (may have gaps), 1 = minimal overlap, 2-4 = smoother for fast flight
+# Default: 1
+# Range: 0 ~ 4
+lodBoundaryBuffer = 1
+#World curvature effect - simulates standing on a spherical planet
+#0 = disabled (flat world)
+#1 = real Earth curvature (6371km radius)
+#Higher values = more extreme curvature (smaller planet effect)
+#Valid range: 0 (off), or 50-5000. Values 1-49 are auto-corrected to 50.
+#Inspired by Distant Horizons' earth curvature feature
+# Default: 0
+# Range: 0 ~ 5000
+earthCurveRatio = 0
+#Show render statistics in F3 debug screen
+#Displays LOD traversal counts, visible sections, and quad counts
+renderStatistics = false
