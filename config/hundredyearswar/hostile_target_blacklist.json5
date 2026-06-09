@@ -1,3 +1,0 @@
-// Hostile target blacklist - only used when nullOwnerUnitsFriendlyToEnemy is true
-// Format: "namespace:entity_id"
-[]
