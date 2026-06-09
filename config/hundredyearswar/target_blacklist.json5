@@ -1,3 +1,0 @@
-// Target blacklist - BaseCombatEntity will never attack these entities
-// Format: "namespace:entity_id"
-[]

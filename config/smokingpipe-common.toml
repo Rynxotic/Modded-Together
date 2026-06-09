@@ -1,2 +1,0 @@
-#Whether smoking the pipe consumes one item from the loaded smokable per effect tick
-consumeSmokableOnUse = true
