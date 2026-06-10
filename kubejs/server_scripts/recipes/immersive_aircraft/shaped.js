@@ -48,18 +48,6 @@ ServerEvents.recipes((event) => {
       id: `${id_prefix}engine`,
     },
     {
-      result: { id: 'immersive_aircraft:gyrodyne', count: 1 },
-      pattern: [' A ', 'BCB', 'DED'],
-      key: {
-        D: { item: 'immersive_aircraft:hull' },
-        B: { item: 'immersive_aircraft:sail' },
-        C: { item: 'create:precision_mechanism' },
-        E: { tag: 'create:seats' },
-        A: { item: 'immersive_aircraft:propeller' },
-      },
-      id: `${id_prefix}gyrodyne`,
-    },
-    {
       result: { id: 'immersive_aircraft:quadrocopter', count: 1 },
       pattern: ['ABA', ' C ', 'ADA'],
       key: {
