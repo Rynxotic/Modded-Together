@@ -45,6 +45,7 @@ ServerEvents.recipes((event) => {
     // create additions
     { id: 'createaddition:liquid_burning/biofuel' },
     { id: 'createaddition:mixing/bioethanol' },
+    { id: 'createaddition:123456789-=charging/electrify_gold_ingot' },
 
     // oritech
     { id: 'oritech:centrifuge/fluid/plasticoilbetter' },
@@ -64,6 +65,10 @@ ServerEvents.recipes((event) => {
     { id: 'oritech:crafting/alloy/rawsilicon' },
     { id: 'oritech:silicon_from_smelting_raw_silicon' },
     { id: 'oritech:refinery/siliconwashing' },
+    { id: 'oritech:centrifuge/fluid/biopolymer' },
+    { id: 'oritech:centrifuge/fluid/biopolymer_bioblock' },
+    { id: 'oritech:mixing/compat/create/biosteel' },
+    { id: 'oritech:crafting/manualresin' },
 
     // ars_nouveau
     { id: 'ars_elemental:imbuement_anima_essence' },
