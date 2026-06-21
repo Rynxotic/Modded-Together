@@ -67,12 +67,10 @@ ServerEvents.recipes((event) => {
       F: 'ae2:fluix_crystal',
     },
   );
-  event.recipes.create.mechanical_crafting('ae2:controller', [' DDD ', 'DSLSD', 'DOCED', 'DSLSD', ' DDD '], {
-    D: 'ae2:printed_silicon',
-    S: 'eternal_starlight:unrealium_ingot',
-    C: 'irons_spellbooks:energized_core',
+  event.recipes.create.mechanical_crafting('ae2:controller', [' DDD ', 'DSLSD', 'DLCLD', 'DSLSD', ' DDD '], {
+    D: 'ae2:sky_stone_block',
+    S: 'create:sturdy_sheet',
+    C: 'eternal_starlight:unrealium_block',
     L: 'ae2:fluix_crystal',
-    O: 'ae2:formation_core',
-    E: 'ae2:annihilation_core',
   });
 });
