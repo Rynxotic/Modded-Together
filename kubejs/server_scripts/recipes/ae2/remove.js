@@ -1,5 +1,6 @@
 ServerEvents.recipes((event) => {
   const recipes = [
+    { id: 'ae2:network/blocks/controller' },
     { id: 'ae2:inscriber/logic_processor' },
     { id: 'ae2:inscriber/calculation_processor' },
     { id: 'ae2:inscriber/engineering_processor' },
@@ -25,6 +26,9 @@ ServerEvents.recipes((event) => {
     { id: 'ae2:network/cells/item_storage_components_cell_16k_part' },
     { id: 'ae2:network/cells/item_storage_components_cell_64k_part' },
     { id: 'ae2:network/cells/item_storage_components_cell_256k_part' },
+    { id: 'ae2:network/blocks/energy_energy_acceptor' },
+    { id: 'ae2:transform/entangled_singularity' },
+    { id: 'ae2:transform/entangled_singularity_from_pearl' },
   ];
 
   recipes.forEach((recipe) => {

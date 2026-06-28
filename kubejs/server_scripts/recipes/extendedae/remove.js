@@ -4,6 +4,7 @@ ServerEvents.recipes((event) => {
     { id: 'extendedae:crystal_assembler' },
     { id: 'extendedae:assembler_matrix_frame' },
     { id: 'extendedae:entro_seed' },
+    { id: 'appflux:insulating_resin' },
   ];
 
   recipes.forEach((recipe) => {

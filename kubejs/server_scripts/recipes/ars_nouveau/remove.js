@@ -23,6 +23,7 @@ ServerEvents.recipes((event) => {
     { id: 'ars_nouveau:novice_spell_book' },
     { id: 'ars_nouveau:novice_spellbook_alt' },
     { id: 'ars_nouveau:archmage_book_upgrade' },
+    { id: 'ars_nouveau:storage_lectern' },
   ];
 
   recipes.forEach((recipe) => {
