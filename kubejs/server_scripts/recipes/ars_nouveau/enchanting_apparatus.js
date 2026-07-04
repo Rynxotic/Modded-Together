@@ -59,4 +59,19 @@ ServerEvents.recipes((event) => {
     'ars_nouveau:archmage_spell_book',
     20000,
   );
+  event.recipes.ars_nouveau.enchanting_apparatus(
+    [
+      'ars_nouveau:archwood_planks',
+      'malum:hallowed_gold_ingot',
+      'malum:hallowed_gold_ingot',
+      'malum:hallowed_gold_ingot',
+      'malum:hallowed_gold_ingot',
+      'malum:hallowed_gold_ingot',
+      'malum:hallowed_gold_ingot',
+      'malum:hallowed_gold_ingot',
+    ],
+    'minecraft:lectern',
+    'ars_nouveau:storage_lectern',
+    20000,
+  );
 });
