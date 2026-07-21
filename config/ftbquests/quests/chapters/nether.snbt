@@ -147,8 +147,15 @@
 			}
 			id: "290BBC2EE0FB5A41"
 			rewards: [{
-				id: "38975A804FF0371C"
-				type: "loot"
+				id: "740EE0238FF86CCF"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "nether"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "35A66010A41B8C90"
@@ -164,8 +171,15 @@
 			hide_dependency_lines: true
 			id: "3D4AE8E64B761BB0"
 			rewards: [{
-				id: "589678188CC99893"
-				type: "loot"
+				id: "0385F7BDD06D0EC9"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "nether"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
 			}]
 			shape: "circle"
 			size: 1.0d
@@ -183,8 +197,15 @@
 			hide_dependency_lines: true
 			id: "41E1F2A2D07C8D21"
 			rewards: [{
-				id: "40DC5B364E35CB58"
-				type: "loot"
+				id: "4CAF1883EB002FD2"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "nether"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
 			}]
 			shape: "circle"
 			size: 1.0d
@@ -207,10 +228,23 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "517D927F6C015007"
-			rewards: [{
-				id: "3757E17C59D93676"
-				type: "loot"
-			}]
+			rewards: [
+				{
+					id: "3757E17C59D93676"
+					type: "loot"
+				}
+				{
+					id: "799FF5C512913265"
+					item: {
+						components: {
+							"ftbquests:loot_crate": "nether"
+						}
+						count: 1
+						id: "ftbquests:lootcrate"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "31C9C033CAF703B9"
 				structure: "minecraft:bastion_remnant"
@@ -457,6 +491,17 @@
 			entity_vis_size: 1.0f
 			hide_dependency_lines: true
 			id: "5C4DBF6C3BA8406B"
+			rewards: [{
+				id: "09303CB0CE3ABA5C"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "nether"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					count: 3L
@@ -718,30 +763,6 @@
 				type: "biome"
 			}]
 			x: -0.25d
-			y: 5.0d
-		}
-		{
-			dependencies: ["1F3C64299F7730B6"]
-			entity_vis_size: 1.0f
-			hide_dependency_lines: true
-			id: "7ED2CB67250FB222"
-			rewards: [{
-				id: "42F47EBB7B2B246C"
-				item: {
-					components: {
-						"ftbquests:loot_crate": "nether"
-					}
-					count: 1
-					id: "ftbquests:lootcrate"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				biome: "minecraft:plains"
-				id: "76139566864AF675"
-				type: "biome"
-			}]
-			x: 0.75d
 			y: 5.0d
 		}
 	]

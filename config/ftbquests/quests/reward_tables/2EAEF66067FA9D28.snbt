@@ -24,8 +24,11 @@
 			count: 16
 			id: "23301A21B9072E42"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:auger_cog"
+				}
 				count: 1
-				id: "simulated:auger_cog"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.8f
 		}
@@ -33,8 +36,11 @@
 			count: 8
 			id: "67FB7ADAD38AD0B3"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:torsion_spring"
+				}
 				count: 1
-				id: "simulated:torsion_spring"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.8f
 		}
@@ -42,8 +48,11 @@
 			count: 8
 			id: "00CB765E1FB65CF5"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:directional_gearshift"
+				}
 				count: 1
-				id: "simulated:directional_gearshift"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.8f
 		}
@@ -51,8 +60,11 @@
 			count: 4
 			id: "009C91A4919C6602"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:velocity_sensor"
+				}
 				count: 1
-				id: "simulated:velocity_sensor"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.7f
 		}
@@ -60,8 +72,11 @@
 			count: 2
 			id: "12BCC2D4AF2FDF30"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:throttle_lever"
+				}
 				count: 1
-				id: "simulated:throttle_lever"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.4f
 		}
@@ -69,31 +84,43 @@
 			count: 16
 			id: "288536FE9137B521"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:rope_coupling"
+				}
 				count: 1
-				id: "simulated:rope_coupling"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{
 			count: 16
 			id: "0558D1F9940931EB"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:iron_handle"
+				}
 				count: 1
-				id: "simulated:iron_handle"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{
 			id: "7C19C6BA631FEEB5"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:physics_assembler"
+				}
 				count: 1
-				id: "simulated:physics_assembler"
+				id: "ftbquests:missing_item"
 			}
 			weight: 5.0f
 		}
 		{
 			id: "4A83C66523D71A89"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:aviators_goggles"
+				}
 				count: 1
-				id: "aeronautics:aviators_goggles"
+				id: "ftbquests:missing_item"
 			}
 			weight: 2.0f
 		}
@@ -101,8 +128,11 @@
 			count: 2
 			id: "32148D2910FB83CD"
 			item: {
+				components: {
+					"ftbquests:missing_item": "simulated:red_portable_engine"
+				}
 				count: 1
-				id: "simulated:red_portable_engine"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.1f
 		}
@@ -110,8 +140,11 @@
 			count: 2
 			id: "2756F01EE634ED16"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:propeller_bearing"
+				}
 				count: 1
-				id: "aeronautics:propeller_bearing"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.5f
 		}
@@ -119,8 +152,11 @@
 			count: 4
 			id: "157721B0E771A5CD"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:steam_vent"
+				}
 				count: 1
-				id: "aeronautics:steam_vent"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.01f
 		}
@@ -128,48 +164,66 @@
 			count: 2
 			id: "5C63D327B86526AB"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics_utility_objects:universal_joint_rod"
+				}
 				count: 1
-				id: "aeronautics_utility_objects:universal_joint_rod"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.6f
 		}
 		{
 			id: "452FCB4AF8F18297"
 			item: {
+				components: {
+					"ftbquests:missing_item": "create_aeronautics_toolgun:survival_structure_tool"
+				}
 				count: 1
-				id: "create_aeronautics_toolgun:survival_structure_tool"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.5f
 		}
 		{
 			id: "23C97FD0EB3605C4"
 			item: {
+				components: {
+					"ftbquests:missing_item": "create_aeronautics_toolgun:magnetic_gun"
+				}
 				count: 1
-				id: "create_aeronautics_toolgun:magnetic_gun"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.5f
 		}
 		{
 			id: "6CF1EE03F96900CE"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:adjustable_burner"
+				}
 				count: 1
-				id: "aeronautics:adjustable_burner"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.6f
 		}
 		{
 			id: "7A7F7F3A85A14942"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:gyroscopic_propeller_bearing"
+				}
 				count: 1
-				id: "aeronautics:gyroscopic_propeller_bearing"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.1f
 		}
 		{
 			id: "4BD80363A92726CD"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:smart_propeller"
+				}
 				count: 1
-				id: "aeronautics:smart_propeller"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.1f
 		}
@@ -177,21 +231,27 @@
 			count: 2
 			id: "0551EF41157BE324"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:andesite_propeller"
+				}
 				count: 1
-				id: "aeronautics:andesite_propeller"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.2f
 		}
 		{
 			id: "48F6946C7F40B13B"
 			item: {
+				components: {
+					"ftbquests:missing_item": "aeronautics:wooden_propeller"
+				}
 				count: 1
-				id: "aeronautics:wooden_propeller"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.6f
 		}
 		{
-			count: 64
+			count: 32
 			id: "38948FF40FCA5FE8"
 			item: {
 				count: 1
@@ -200,7 +260,7 @@
 			weight: 2.0f
 		}
 		{
-			count: 64
+			count: 32
 			id: "02BCFD326A30AA44"
 			item: {
 				count: 1
@@ -209,7 +269,7 @@
 			weight: 2.0f
 		}
 		{
-			count: 64
+			count: 32
 			id: "3F0B95C38A258BAB"
 			item: {
 				count: 1

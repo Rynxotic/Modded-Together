@@ -5,14 +5,14 @@
 	group: "35D265AB28CC4B21"
 	id: "315C6FDA4B447676"
 	images: [{
-		height: 2.0d
+		height: 1.5d
 		image: "kubejs:textures/quests/dwarventech.png"
 		rotation: 0.0d
 		width: 13.0d
-		x: 4.5d
-		y: -7.25d
+		x: 4.0d
+		y: -6.25d
 	}]
-	order_index: 6
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -259,7 +259,7 @@
 				item: { count: 1, id: "embers:item_vacuum" }
 				type: "item"
 			}]
-			x: 6.25d
+			x: 6.0d
 			y: -1.25d
 		}
 		{
@@ -283,7 +283,7 @@
 				type: "item"
 			}]
 			x: 5.25d
-			y: -2.5d
+			y: -2.25d
 		}
 		{
 			dependencies: ["0988171D04FD481A"]
@@ -335,8 +335,8 @@
 					type: "item"
 				}
 			]
-			x: 6.25d
-			y: -2.5d
+			x: 6.0d
+			y: -2.25d
 		}
 		{
 			dependencies: ["35260E4EA737E4CF"]
@@ -347,7 +347,7 @@
 				item: { count: 1, id: "embers:item_dropper" }
 				type: "item"
 			}]
-			x: 8.25d
+			x: 7.5d
 			y: -1.25d
 		}
 		{
@@ -739,7 +739,7 @@
 				item: { count: 1, id: "embers:item_dial" }
 				type: "item"
 			}]
-			x: 7.25d
+			x: 6.75d
 			y: -1.25d
 		}
 		{
@@ -751,8 +751,8 @@
 				item: { count: 1, id: "embers:fluid_dial" }
 				type: "item"
 			}]
-			x: 7.25d
-			y: -2.5d
+			x: 6.75d
+			y: -2.25d
 		}
 		{
 			dependencies: ["6A1E74CADFF0AA9B"]
@@ -820,8 +820,8 @@
 				item: { count: 1, id: "embers:heat_insulation" }
 				type: "item"
 			}]
-			x: 2.75d
-			y: 0.0d
+			x: 1.75d
+			y: -0.25d
 		}
 		{
 			dependencies: ["17E30219AD43B90C"]
@@ -866,8 +866,8 @@
 				item: { count: 1, id: "embers:atmospheric_bellows" }
 				type: "item"
 			}]
-			x: 2.75d
-			y: -2.5d
+			x: 1.75d
+			y: -2.25d
 		}
 		{
 			dependencies: ["0BAB3697515D88AA"]

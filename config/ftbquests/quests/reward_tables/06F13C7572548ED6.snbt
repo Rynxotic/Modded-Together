@@ -15,7 +15,7 @@
 		string_id: "relics_cataclysm"
 	}
 	loot_size: 1
-	order_index: 5
+	order_index: 6
 	rewards: [
 		{ id: "1B35297E5288D215", item: { components: { "ftbquests:missing_item": "reliquified_lenders_cataclysm:void_bubble" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "06793E5F01E2FD8D", item: { components: { "ftbquests:missing_item": "reliquified_lenders_cataclysm:vacuum_glove" }, count: 1, id: "ftbquests:missing_item" } }

@@ -1,7 +1,7 @@
 ServerEvents.recipes((event) => {
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:seraph_helmet',
     'irons_spellbooks:priest_helmet',
+    'hazennstuff:seraph_helmet',
     ['64x sacred'],
     [
       '4x hazennstuff:deus_essence',
@@ -13,8 +13,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:seraph_chestplate',
     'irons_spellbooks:priest_chestplate',
+    'hazennstuff:seraph_chestplate',
     ['64x sacred'],
     [
       '4x hazennstuff:deus_essence',
@@ -26,8 +26,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:seraph_leggings',
     'irons_spellbooks:priest_leggings',
+    'hazennstuff:seraph_leggings',
     ['64x sacred'],
     [
       '4x hazennstuff:deus_essence',
@@ -39,8 +39,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:seraph_boots',
     'irons_spellbooks:priest_boots',
+    'hazennstuff:seraph_boots',
     ['64x sacred'],
     [
       '4x hazennstuff:deus_essence',
@@ -52,8 +52,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:cryogenic_ruler_helmet',
     'irons_spellbooks:cryomancer_helmet',
+    'hazennstuff:cryogenic_ruler_helmet',
     ['64x aqueous'],
     [
       '4x hazennstuff:deus_essence',
@@ -65,8 +65,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:cryogenic_ruler_chestplate',
     'irons_spellbooks:cryomancer_chestplate',
+    'hazennstuff:cryogenic_ruler_chestplate',
     ['64x aqueous'],
     [
       '4x hazennstuff:deus_essence',
@@ -78,8 +78,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:cryogenic_ruler_leggings',
     'irons_spellbooks:cryomancer_leggings',
+    'hazennstuff:cryogenic_ruler_leggings',
     ['64x aqueous'],
     [
       '4x hazennstuff:deus_essence',
@@ -91,8 +91,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:cryogenic_ruler_boots',
     'irons_spellbooks:cryomancer_boots',
+    'hazennstuff:cryogenic_ruler_boots',
     ['64x aqueous'],
     [
       '4x hazennstuff:deus_essence',
@@ -104,8 +104,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:blazeborne_helmet',
     'irons_spellbooks:pyromancer_helmet',
+    'hazennstuff:blazeborne_helmet',
     ['64x infernal'],
     [
       '4x hazennstuff:deus_essence',
@@ -117,8 +117,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:blazeborne_chestplate',
     'irons_spellbooks:pyromancer_chestplate',
+    'hazennstuff:blazeborne_chestplate',
     ['64x infernal'],
     [
       '4x hazennstuff:deus_essence',
@@ -130,8 +130,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:blazeborne_leggings',
     'irons_spellbooks:pyromancer_leggings',
+    'hazennstuff:blazeborne_leggings',
     ['64x infernal'],
     [
       '4x hazennstuff:deus_essence',
@@ -143,8 +143,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:blazeborne_boots',
     'irons_spellbooks:pyromancer_boots',
+    'hazennstuff:blazeborne_boots',
     ['64x infernal'],
     [
       '4x hazennstuff:deus_essence',
@@ -156,8 +156,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:ender_dragon_helmet',
     'irons_spellbooks:shadowwalker_helmet',
+    'hazennstuff:ender_dragon_helmet',
     ['64x eldritch'],
     [
       '4x hazennstuff:deus_essence',
@@ -169,8 +169,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:ender_dragon_chestplate',
     'irons_spellbooks:shadowwalker_chestplate',
+    'hazennstuff:ender_dragon_chestplate',
     ['64x eldritch'],
     [
       '4x hazennstuff:deus_essence',
@@ -182,8 +182,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:ender_dragon_leggings',
     'irons_spellbooks:shadowwalker_leggings',
+    'hazennstuff:ender_dragon_leggings',
     ['64x eldritch'],
     [
       '4x hazennstuff:deus_essence',
@@ -195,8 +195,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:ender_dragon_boots',
     'irons_spellbooks:shadowwalker_boots',
+    'hazennstuff:ender_dragon_boots',
     ['64x eldritch'],
     [
       '4x hazennstuff:deus_essence',
@@ -208,8 +208,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:creaking_helmet',
     'irons_spellbooks:plagued_helmet',
+    'hazennstuff:creaking_helmet',
     ['64x earthen'],
     [
       '4x hazennstuff:deus_essence',
@@ -221,8 +221,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:creaking_chestplate',
     'irons_spellbooks:plagued_chestplate',
+    'hazennstuff:creaking_chestplate',
     ['64x earthen'],
     [
       '4x hazennstuff:deus_essence',
@@ -234,8 +234,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:creaking_leggings',
     'irons_spellbooks:plagued_leggings',
+    'hazennstuff:creaking_leggings',
     ['64x earthen'],
     [
       '4x hazennstuff:deus_essence',
@@ -247,8 +247,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:creaking_boots',
     'irons_spellbooks:plagued_boots',
+    'hazennstuff:creaking_boots',
     ['64x earthen'],
     [
       '4x hazennstuff:deus_essence',
@@ -260,8 +260,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:charged_scourge_helmet',
     'irons_spellbooks:electromancer_helmet',
+    'hazennstuff:charged_scourge_helmet',
     ['64x aerial'],
     [
       '4x hazennstuff:deus_essence',
@@ -273,8 +273,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:charged_scourge_chestplate',
     'irons_spellbooks:electromancer_chestplate',
+    'hazennstuff:charged_scourge_chestplate',
     ['64x aerial'],
     [
       '4x hazennstuff:deus_essence',
@@ -286,8 +286,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:charged_scourge_leggings',
     'irons_spellbooks:electromancer_leggings',
+    'hazennstuff:charged_scourge_leggings',
     ['64x aerial'],
     [
       '4x hazennstuff:deus_essence',
@@ -299,8 +299,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:charged_scourge_boots',
     'irons_spellbooks:electromancer_boots',
+    'hazennstuff:charged_scourge_boots',
     ['64x aerial'],
     [
       '4x hazennstuff:deus_essence',
@@ -312,8 +312,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:flesh_mass_helmet',
     'irons_spellbooks:cultist_helmet',
+    'hazennstuff:flesh_mass_helmet',
     ['64x wicked'],
     [
       '4x hazennstuff:deus_essence',
@@ -325,8 +325,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:flesh_mass_chestplate',
     'irons_spellbooks:cultist_chestplate',
+    'hazennstuff:flesh_mass_chestplate',
     ['64x wicked'],
     [
       '4x hazennstuff:deus_essence',
@@ -338,8 +338,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:flesh_mass_leggings',
     'irons_spellbooks:cultist_leggings',
+    'hazennstuff:flesh_mass_leggings',
     ['64x wicked'],
     [
       '4x hazennstuff:deus_essence',
@@ -351,8 +351,8 @@ ServerEvents.recipes((event) => {
   );
 
   event.recipes.malum.spirit_infusion(
-    'hazennstuff:flesh_mass_boots',
     'irons_spellbooks:cultist_boots',
+    'hazennstuff:flesh_mass_boots',
     ['64x wicked'],
     [
       '4x hazennstuff:deus_essence',

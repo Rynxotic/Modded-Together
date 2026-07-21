@@ -21,4 +21,16 @@ ServerEvents.recipes((event) => {
     M: 'oritech:motor',
     I: 'minecraft:iron_block',
   });
+
+  event.recipes.create.mechanical_crafting(
+    'oritech:atomic_forge_block',
+    [' PPP ', ' IBI ', ' BMB ', ' IBI ', ' EEE '],
+    {
+      P: 'minecraft:glass',
+      B: 'oritech:adamant_ingot',
+      M: 'eternal_starlight:unrealium_block',
+      I: 'oritech:motor',
+      E: 'unify:electrum_ingot',
+    },
+  );
 });

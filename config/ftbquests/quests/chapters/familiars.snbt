@@ -326,8 +326,8 @@
 				item: { count: 1, id: "alshanex_familiars:pandora_box" }
 				type: "item"
 			}]
-			x: -3.375d
-			y: 0.75d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7A61DCA5D60B5A6E"]

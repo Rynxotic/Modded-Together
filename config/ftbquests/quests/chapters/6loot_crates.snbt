@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "6loot_crates"
-	group: "6478263FC2EC36C2"
+	group: "11A03005AB84A570"
 	id: "1385AC8A1CE21AFE"
 	order_index: 0
 	quest_links: [ ]
@@ -34,27 +34,32 @@
 			can_repeat: true
 			entity_vis_size: 1.0f
 			icon: {
-				id: "unify:brass_ingot"
+				components: {
+					"ftbquests:loot_crate": "relics"
+				}
+				id: "ftbquests:lootcrate"
 			}
-			id: "08EAE3DF897C5307"
+			id: "2CD318AED08DB001"
 			rewards: [{
-				count: 64
-				id: "196B37D62FCE7F7D"
+				id: "641F80E02F5AD002"
 				item: {
+					components: {
+						"ftbquests:loot_crate": "relics"
+					}
 					count: 1
-					id: "unify:brass_ingot"
+					id: "ftbquests:lootcrate"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				consume_items: true
-				count: 16L
-				id: "29040DF91D9B04FF"
-				item: { count: 1, id: "numismatics:cog" }
+				count: 2L
+				id: "174E97790AA39539"
+				item: { count: 1, id: "numismatics:sun" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 2.5d
+			x: 7.5d
+			y: 2.25d
 		}
 	]
 }

@@ -74,4 +74,14 @@ ServerEvents.recipes((event) => {
     'ars_nouveau:storage_lectern',
     20000,
   );
+      event.recipes.ars_nouveau.enchanting_apparatus(
+    [
+      'scguns:nether_star_fragment',
+      'scguns:nether_star_fragment',
+      'scguns:nether_star_fragment',
+    ],
+    'hazennstuff:raw_zenalite',
+    'hazennstuff:starkissed_zenalite',
+    20000,
+  );
 });

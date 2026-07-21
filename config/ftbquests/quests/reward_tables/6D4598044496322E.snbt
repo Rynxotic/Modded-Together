@@ -15,7 +15,7 @@
 		string_id: "plushie"
 	}
 	loot_size: 1
-	order_index: 9
+	order_index: 7
 	rewards: [
 		{ id: "1A74733A900AD24C", item: { count: 1, id: "nenus_pop_plushies:lunar_new_year_miku_plushie" } }
 		{ id: "629F8C435AF86919", item: { count: 1, id: "nenus_pop_plushies:saint_valentines_miku_plushie" } }

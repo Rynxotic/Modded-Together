@@ -223,8 +223,8 @@
 				item: { count: 1, id: "minecraft:andesite" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 2.25d
+			x: 0.0d
+			y: 0.75d
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
@@ -271,8 +271,8 @@
 				item: { count: 1, id: "chipped:mason_table" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 2.25d
+			x: 5.25d
+			y: 0.75d
 		}
 		{
 			entity_vis_size: 1.0f
@@ -285,7 +285,7 @@
 			id: "579E50D9449872AD"
 			rewards: [
 				{
-					auto: "enabled"
+					auto: "no_toast"
 					command: "/apoth set_world_tier @p pinnacle"
 					disable_reward_screen_blur: true
 					icon: {
@@ -300,6 +300,7 @@
 					type: "command"
 				}
 				{
+					auto: "no_toast"
 					id: "782F060B147CBAD8"
 					item: {
 						count: 1
@@ -311,12 +312,12 @@
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
-				id: "4CF96DB5492128E7"
-				item: { count: 1, id: "minecraft:crafting_table" }
-				type: "item"
+				dimension: "minecraft:overworld"
+				id: "32400303AF3BC332"
+				type: "dimension"
 			}]
 			x: 0.0d
-			y: -0.75d
+			y: -1.125d
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
@@ -343,8 +344,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:chests)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.25d
+			x: 1.75d
+			y: 0.75d
 		}
 		{
 			dependencies: [
@@ -396,8 +397,8 @@
 				item: { count: 1, id: "unify:brass_ingot" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 3.25d
+			x: -0.5d
+			y: 1.75d
 		}
 		{
 			dependencies: [
@@ -461,8 +462,8 @@
 				item: { count: 1, id: "ae2:controller" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.25d
+			x: 1.75d
+			y: 1.75d
 		}
 		{
 			dependencies: [
@@ -495,25 +496,14 @@
 					}
 					type: "item"
 				}
-				{
-					id: "5BA3FCC9E5CE650A"
-					item: {
-						components: {
-							"ftbquests:loot_crate": "relics_ars"
-						}
-						count: 1
-						id: "ftbquests:lootcrate"
-					}
-					type: "item"
-				}
 			]
 			tasks: [{
 				id: "39943ED45A131F0C"
 				item: { count: 1, id: "ars_nouveau:imbuement_chamber" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 3.25d
+			x: -1.75d
+			y: 1.75d
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
@@ -556,17 +546,6 @@
 					}
 					type: "item"
 				}
-				{
-					id: "3C4EBBD3231C1CDE"
-					item: {
-						components: {
-							"ftbquests:loot_crate": "relics"
-						}
-						count: 1
-						id: "ftbquests:lootcrate"
-					}
-					type: "item"
-				}
 			]
 			tasks: [{
 				dimension: "minecraft:the_nether"
@@ -576,8 +555,8 @@
 				id: "478052DA1DB1CA55"
 				type: "dimension"
 			}]
-			x: -3.5d
-			y: 2.25d
+			x: -3.25d
+			y: 0.75d
 		}
 		{
 			dependencies: ["7F972B3D9AF131FC"]
@@ -639,8 +618,8 @@
 				id: "7AD51DD6BCFDD253"
 				type: "dimension"
 			}]
-			x: -3.5d
-			y: 3.25d
+			x: -3.25d
+			y: 1.75d
 		}
 		{
 			dependencies: ["7E67CBAC42F3DD58"]
@@ -699,8 +678,8 @@
 				item: { count: 1, id: "minecraft:ender_eye" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 4.25d
+			x: -3.25d
+			y: 2.75d
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
@@ -740,46 +719,33 @@
 				item: { count: 1, id: "malum:refined_soulstone" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 2.25d
+			x: -1.75d
+			y: 0.75d
 		}
 		{
 			dependencies: ["1FA35D9B9C012809"]
 			entity_vis_size: 1.0f
 			hide_dependency_lines: false
 			id: "29A9F5E23FCB78F5"
-			rewards: [
-				{
-					id: "532E4D744BD8282D"
-					item: {
-						components: {
-							"ftbquests:loot_crate": "apotheosis"
-						}
-						count: 1
-						id: "ftbquests:lootcrate"
+			rewards: [{
+				id: "532E4D744BD8282D"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "apotheosis"
 					}
-					type: "item"
+					count: 1
+					id: "ftbquests:lootcrate"
 				}
-				{
-					id: "0C367C42F960D9F7"
-					item: {
-						components: {
-							"ftbquests:loot_crate": "relics_cataclysm"
-						}
-						count: 1
-						id: "ftbquests:lootcrate"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			size: 1.0d
 			tasks: [{
 				id: "6D948519D6BECB08"
 				item: { count: 1, id: "apotheosis:simple_reforging_table" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 3.3d
+			x: -4.75d
+			y: 1.7999999999999998d
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
@@ -843,8 +809,8 @@
 				item: { count: 1, id: "farmersdelight:stove" }
 				type: "item"
 			}]
-			x: 2.75d
-			y: 2.25d
+			x: 3.5d
+			y: 0.75d
 		}
 		{
 			dependencies: ["579E50D9449872AD"]
@@ -887,8 +853,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:armors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 2.25d
+			x: -4.75d
+			y: 0.75d
 		}
 		{
 			dependencies: ["29A9F5E23FCB78F5"]
@@ -911,8 +877,8 @@
 				item: { components: { "gateways:gateway": "apotheosis:tiered/pinnacle" }, count: 1, id: "gateways:gate_pearl" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 4.3d
+			x: -4.75d
+			y: 2.8d
 		}
 		{
 			dependencies: ["46B9E8C825098695"]
@@ -935,8 +901,8 @@
 				item: { count: 1, id: "mynethersdelight:nether_bricks_stove" }
 				type: "item"
 			}]
-			x: 2.75d
-			y: 3.25d
+			x: 3.5d
+			y: 1.75d
 		}
 		{
 			dependencies: ["55535225BDBDF6FD"]
@@ -959,8 +925,8 @@
 				item: { count: 1, id: "ends_delight:end_stove" }
 				type: "item"
 			}]
-			x: 2.75d
-			y: 4.25d
+			x: 3.5d
+			y: 2.75d
 		}
 		{
 			dependencies: ["1ADE21F3A1856D14"]
@@ -971,8 +937,8 @@
 				item: { count: 1, id: "embers:ember_bore" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 4.25d
+			x: -0.5d
+			y: 2.75d
 		}
 		{
 			dependencies: ["1ADE21F3A1856D14"]
@@ -983,8 +949,8 @@
 				item: { count: 1, id: "oritech:foundry_block" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.25d
+			x: 0.5d
+			y: 1.75d
 		}
 		{
 			dependencies: [
@@ -998,36 +964,8 @@
 				item: { count: 1, id: "tempad:chronometer" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 5.25d
-		}
-		{
-			dependencies: [
-				"35D71AB41E3127FF"
-				"1ADE21F3A1856D14"
-			]
-			entity_vis_size: 1.0f
-			hide_details_until_startable: true
-			id: "3D2B4F6D02DB7F13"
-			rewards: [{
-				id: "5B4DF7C81F00BAF8"
-				item: {
-					components: {
-						"ftbquests:loot_crate": "coins2"
-					}
-					count: 1
-					id: "ftbquests:lootcrate"
-				}
-				type: "item"
-			}]
-			size: 1.0d
-			tasks: [{
-				id: "294F48B8CA67956D"
-				item: { count: 1, id: "simulated:physics_assembler" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 3.25d
+			x: 0.5d
+			y: 2.75d
 		}
 	]
 }

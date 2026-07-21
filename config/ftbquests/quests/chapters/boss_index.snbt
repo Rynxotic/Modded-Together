@@ -1205,6 +1205,9 @@
 		{
 			dependencies: ["1FA35D9B9C012809"]
 			entity_vis_size: 1.0f
+			icon: {
+				id: "iceandfire:spawn_egg_fire_dragon"
+			}
 			id: "0BBFE3A82C1D7086"
 			rewards: [
 				{
@@ -1253,6 +1256,9 @@
 		{
 			dependencies: ["1FA35D9B9C012809"]
 			entity_vis_size: 1.0f
+			icon: {
+				id: "iceandfire:spawn_egg_ice_dragon"
+			}
 			id: "48A8BDBA503F6840"
 			rewards: [
 				{
@@ -1301,6 +1307,9 @@
 		{
 			dependencies: ["1FA35D9B9C012809"]
 			entity_vis_size: 1.0f
+			icon: {
+				id: "iceandfire:spawn_egg_lightning_dragon"
+			}
 			id: "65B65FE2A989ADC8"
 			rewards: [
 				{
@@ -1349,6 +1358,9 @@
 		{
 			dependencies: ["1FA35D9B9C012809"]
 			entity_vis_size: 1.0f
+			icon: {
+				id: "minecraft:warden_spawn_egg"
+			}
 			id: "51DA55FEB55D644A"
 			rewards: [
 				{
@@ -1443,7 +1455,7 @@
 			]
 			entity_vis_size: 1.0f
 			icon: {
-				id: "hazennstuff:garments_of_the_first_flamebearer_helmet"
+				id: "irons_spellbooks:cinderous_soulcaller"
 			}
 			id: "394E9F83FB77E302"
 			rewards: [
@@ -1471,7 +1483,7 @@
 					type: "item"
 				}
 			]
-			shape: "hexagon"
+			shape: "netheritetier"
 			size: 1.25d
 			tasks: [{
 				entity: "irons_spellbooks:fire_boss"
@@ -1644,6 +1656,33 @@
 			}]
 			x: -5.0d
 			y: 0.9375d
+		}
+		{
+			dependencies: ["1FA35D9B9C012809"]
+			entity_vis_size: 1.0f
+			id: "5653C63E514D512B"
+			shape: "netheritetier"
+			size: 1.25d
+			tasks: [{
+				entity: "legendary_monsters:the_obliterator"
+				entity_vis_idle_mode: "USE_GLOBAL"
+				entity_vis_offset_x: 0.0f
+				entity_vis_offset_y: 0.0f
+				entity_vis_rotation: 0.0f
+				entity_vis_silhouette_mode: "NONE"
+				entity_vis_size: 1.0f
+				entity_vis_spin_mode: "USE_GLOBAL"
+				entity_vis_use_as_quest_icon: false
+				entity_vis_walk_mode: "USE_GLOBAL"
+				icon: {
+					id: "legendary_monsters:the_obliterator_spawn_egg"
+				}
+				id: "47C35CA08D35C88E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.25d
+			y: 1.25d
 		}
 	]
 }

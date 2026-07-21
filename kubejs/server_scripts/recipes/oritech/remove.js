@@ -26,6 +26,7 @@ ServerEvents.recipes((event) => {
     { id: 'oritech:crafting/foundry' },
     { id: 'oritech:crafting/centrifuge' },
     { id: 'oritech:crafting/centrifugealt' },
+    { id: 'oritech:crafting/atomicforge' },
   ];
 
   recipes.forEach((recipe) => {

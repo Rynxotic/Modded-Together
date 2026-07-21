@@ -15,7 +15,7 @@
 		string_id: "create"
 	}
 	loot_size: 1
-	order_index: 11
+	order_index: 10
 	rewards: [
 		{
 			count: 64

@@ -1,7 +1,7 @@
 ServerEvents.recipes((event) => {
   event.recipes.malum.spirit_infusion(
-    'cataclysm:ignitium_helmet',
     'iceandfire:dragonsteel_fire_helmet',
+    'cataclysm:ignitium_helmet',
     ['48x infernal', '64x eldritch'],
     [
       'cataclysm:ignitium_ingot',
@@ -12,8 +12,8 @@ ServerEvents.recipes((event) => {
     ],
   );
   event.recipes.malum.spirit_infusion(
-    'cataclysm:ignitium_chestplate',
     'iceandfire:dragonsteel_fire_chestplate',
+    'cataclysm:ignitium_chestplate',
     ['48x infernal', '64x eldritch'],
     [
       'cataclysm:ignitium_ingot',
@@ -24,8 +24,8 @@ ServerEvents.recipes((event) => {
     ],
   );
   event.recipes.malum.spirit_infusion(
-    'cataclysm:ignitium_leggings',
     'iceandfire:dragonsteel_fire_leggings',
+    'cataclysm:ignitium_leggings',
     ['48x infernal', '64x eldritch'],
     [
       'cataclysm:ignitium_ingot',
@@ -36,8 +36,8 @@ ServerEvents.recipes((event) => {
     ],
   );
   event.recipes.malum.spirit_infusion(
-    'cataclysm:ignitium_boots',
     'iceandfire:dragonsteel_fire_boots',
+    'cataclysm:ignitium_boots',
     ['48x infernal', '64x eldritch'],
     [
       'cataclysm:ignitium_ingot',
@@ -48,8 +48,8 @@ ServerEvents.recipes((event) => {
     ],
   );
   event.recipes.malum.spirit_infusion(
-    'cataclysm:cursium_helmet',
     'iceandfire:dragonsteel_ice_helmet',
+    'cataclysm:cursium_helmet',
     ['32x aqueous', '32x aerial', '64x eldritch'],
     [
       'cataclysm:cursium_ingot',
@@ -60,8 +60,8 @@ ServerEvents.recipes((event) => {
     ],
   );
   event.recipes.malum.spirit_infusion(
-    'cataclysm:cursium_chestplate',
     'iceandfire:dragonsteel_ice_chestplate',
+    'cataclysm:cursium_chestplate',
     ['32x aqueous', '32x aerial', '64x eldritch'],
     [
       'cataclysm:cursium_ingot',
@@ -72,8 +72,8 @@ ServerEvents.recipes((event) => {
     ],
   );
   event.recipes.malum.spirit_infusion(
-    'cataclysm:cursium_leggings',
     'iceandfire:dragonsteel_ice_leggings',
+    'cataclysm:cursium_leggings',
     ['32x aqueous', '32x aerial', '64x eldritch'],
     [
       'cataclysm:cursium_ingot',
@@ -84,8 +84,8 @@ ServerEvents.recipes((event) => {
     ],
   );
   event.recipes.malum.spirit_infusion(
-    'cataclysm:cursium_boots',
     'iceandfire:dragonsteel_ice_boots',
+    'cataclysm:cursium_boots',
     ['32x aqueous', '32x aerial', '64x eldritch'],
     [
       'cataclysm:cursium_ingot',

@@ -359,7 +359,7 @@
 				item: { count: 1, id: "createaddition:electric_motor" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 2.25d
 			y: 2.5d
 		}
 		{
@@ -395,7 +395,7 @@
 				item: { count: 1, id: "createaddition:alternator" }
 				type: "item"
 			}]
-			x: 3.25d
+			x: 3.5d
 			y: 2.5d
 		}
 		{
@@ -432,7 +432,7 @@
 				item: { count: 1, id: "createaddition:rolling_mill" }
 				type: "item"
 			}]
-			x: 0.75d
+			x: 1.0d
 			y: 1.25d
 		}
 		{
@@ -455,7 +455,7 @@
 				item: { count: 1, id: "createaddition:connector" }
 				type: "item"
 			}]
-			x: 0.75d
+			x: 1.0d
 			y: 3.75d
 		}
 		{
@@ -479,7 +479,7 @@
 				item: { count: 1, id: "createaddition:large_connector" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 2.25d
 			y: 6.25d
 		}
 		{
@@ -502,7 +502,7 @@
 				item: { count: 1, id: "createaddition:portable_energy_interface" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 2.25d
 			y: 3.75d
 		}
 		{
@@ -525,7 +525,7 @@
 				item: { count: 1, id: "createaddition:tesla_coil" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 4.75d
 			y: 3.75d
 		}
 		{
@@ -548,7 +548,7 @@
 				item: { count: 1, id: "createaddition:modular_accumulator" }
 				type: "item"
 			}]
-			x: 3.25d
+			x: 3.5d
 			y: 3.75d
 		}
 		{
@@ -572,7 +572,7 @@
 				item: { count: 1, id: "createaddition:copper_spool" }
 				type: "item"
 			}]
-			x: 0.75d
+			x: 1.0d
 			y: 2.5d
 		}
 		{
@@ -597,7 +597,7 @@
 				item: { count: 1, id: "createaddition:gold_spool" }
 				type: "item"
 			}]
-			x: 0.75d
+			x: 1.0d
 			y: 6.25d
 		}
 		{
@@ -620,7 +620,7 @@
 				item: { count: 1, id: "createaddition:electrum_spool" }
 				type: "item"
 			}]
-			x: 0.75d
+			x: 1.0d
 			y: 5.0d
 		}
 		{
@@ -644,55 +644,8 @@
 				item: { count: 1, id: "createaddition:festive_spool" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 2.25d
 			y: 1.25d
-		}
-		{
-			dependencies: ["792F9D2ACDD4937D"]
-			entity_vis_size: 1.0f
-			id: "7F0B971E7ABC0DEE"
-			rewards: [{
-				count: 5
-				id: "535B5C1993AC696E"
-				item: {
-					components: {
-						"ftbquests:loot_crate": "coins1"
-					}
-					count: 1
-					id: "ftbquests:lootcrate"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6DB7AEFE21A63122"
-				item: { count: 1, id: "fluid:pipette" }
-				type: "item"
-			}]
-			x: -1.25d
-			y: -1.0d
-		}
-		{
-			dependencies: ["07F75808024BEAAC"]
-			entity_vis_size: 1.0f
-			id: "6A4B331DE0D91C04"
-			rewards: [{
-				id: "5912FE3C9A25118B"
-				item: {
-					components: {
-						"ftbquests:loot_crate": "materials"
-					}
-					count: 1
-					id: "ftbquests:lootcrate"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "50F9C8307B990C48"
-				item: { count: 1, id: "fluid:baton" }
-				type: "item"
-			}]
-			x: -2.25d
-			y: -1.5d
 		}
 		{
 			dependencies: ["1ADE21F3A1856D14"]
@@ -726,7 +679,7 @@
 				item: { count: 1, id: "createdieselgenerators:distillation_controller" }
 				type: "item"
 			}]
-			x: -1.25d
+			x: -1.0d
 			y: 3.75d
 		}
 		{
@@ -749,7 +702,7 @@
 				item: { count: 1, id: "createdieselgenerators:diesel_engine" }
 				type: "item"
 			}]
-			x: -1.25d
+			x: -1.0d
 			y: 4.75d
 		}
 		{
@@ -785,7 +738,7 @@
 				item: { count: 1, id: "createdieselgenerators:huge_diesel_engine" }
 				type: "item"
 			}]
-			x: -1.25d
+			x: -1.0d
 			y: 6.0d
 		}
 		{
@@ -838,7 +791,7 @@
 					type: "item"
 				}
 			]
-			x: -1.25d
+			x: -1.0d
 			y: 2.5d
 		}
 		{
@@ -861,7 +814,7 @@
 				item: { count: 1, id: "createdieselgenerators:oil_scanner" }
 				type: "item"
 			}]
-			x: -1.25d
+			x: -1.0d
 			y: 1.25d
 		}
 		{
@@ -884,7 +837,7 @@
 				item: { count: 1, id: "createdieselgenerators:basin_lid" }
 				type: "item"
 			}]
-			x: -2.5d
+			x: -2.25d
 			y: 1.25d
 		}
 	]

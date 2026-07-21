@@ -16,7 +16,7 @@
 		x: 0.0d
 		y: -6.0d
 	}]
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -38,10 +38,10 @@
 					type: "item"
 				}
 				{
-					id: "7DE38C9C7573E441"
+					id: "05587ED73C542ED3"
 					item: {
 						components: {
-							"ftbquests:loot_crate": "AE2"
+							"ftbquests:loot_crate": "ae2"
 						}
 						count: 1
 						id: "ftbquests:lootcrate"
@@ -63,8 +63,15 @@
 			entity_vis_size: 1.0f
 			id: "0DC4960C79EC8367"
 			rewards: [{
-				id: "53C493B142210A4D"
-				type: "loot"
+				id: "52C96142F8F75D21"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "ae2"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "078ED8971BA13BB7"
@@ -115,10 +122,10 @@
 					type: "item"
 				}
 				{
-					id: "79270544EFD5DA08"
+					id: "44693684FFDC6FE1"
 					item: {
 						components: {
-							"ftbquests:loot_crate": "AE2"
+							"ftbquests:loot_crate": "ae2"
 						}
 						count: 1
 						id: "ftbquests:lootcrate"
@@ -244,10 +251,10 @@
 					type: "item"
 				}
 				{
-					id: "16C0EC96D4DB6376"
+					id: "37EA8B2F6B94B88F"
 					item: {
 						components: {
-							"ftbquests:loot_crate": "AE2"
+							"ftbquests:loot_crate": "ae2"
 						}
 						count: 1
 						id: "ftbquests:lootcrate"
@@ -405,10 +412,10 @@
 					type: "item"
 				}
 				{
-					id: "3A1FD9ED28B14AC5"
+					id: "66722B80DC2ADFE3"
 					item: {
 						components: {
-							"ftbquests:loot_crate": "AE2"
+							"ftbquests:loot_crate": "ae2"
 						}
 						count: 1
 						id: "ftbquests:lootcrate"
@@ -567,6 +574,17 @@
 			dependencies: ["1846F5727D2BC433"]
 			entity_vis_size: 1.0f
 			id: "0E9E1893164A0530"
+			rewards: [{
+				id: "16DC658A1E6899B0"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "ae2"
+					}
+					count: 1
+					id: "ftbquests:lootcrate"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "4028E02EA3E18898"

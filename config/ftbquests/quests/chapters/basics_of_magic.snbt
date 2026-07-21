@@ -2561,31 +2561,18 @@
 			}
 			icon_scale: 2.0d
 			id: "1966555A6D4B8AC1"
-			rewards: [
-				{
-					count: 2
-					id: "752D833C1A7D0B79"
-					item: {
-						components: {
-							"ftbquests:loot_crate": "coins2"
-						}
-						count: 1
-						id: "ftbquests:lootcrate"
+			rewards: [{
+				count: 2
+				id: "752D833C1A7D0B79"
+				item: {
+					components: {
+						"ftbquests:loot_crate": "coins2"
 					}
-					type: "item"
+					count: 1
+					id: "ftbquests:lootcrate"
 				}
-				{
-					id: "5D74B94D971B4B93"
-					item: {
-						components: {
-							"ftbquests:loot_crate": "relics_cataclysm"
-						}
-						count: 1
-						id: "ftbquests:lootcrate"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			shape: "none"
 			size: 1.0d
 			tasks: [{

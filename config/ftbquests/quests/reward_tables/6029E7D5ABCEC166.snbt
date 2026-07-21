@@ -3,18 +3,8 @@
 		id: "minecraft:chest"
 	}
 	id: "6029E7D5ABCEC166"
-	loot_crate: {
-		color: 4410462
-		drops: {
-			boss: 0
-			monster: 0
-			passive: 0
-		}
-		item_name: "Refined Storage Chest"
-		string_id: "refined"
-	}
 	loot_size: 1
-	order_index: 7
+	order_index: 11
 	rewards: [
 		{
 			count: 2

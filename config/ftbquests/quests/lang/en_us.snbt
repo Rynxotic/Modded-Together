@@ -1,11 +1,10 @@
 {
-	chapter.048AB9655BAEC29A.title: "- Areo Age"
 	chapter.09DC686D3B2C8747.title: "- Source Magic"
 	chapter.0DADEA55C8FE0DF1.title: "- Relics"
 	chapter.0FC8A45C8B69F6CF.title: "The Brass Age"
 	chapter.10030B7FBDC5BD9E.title: "&0Black Market"
 	chapter.101E511680EA70E5.title: "- Andesite Age"
-	chapter.1385AC8A1CE21AFE.title: "&6Trading Stall"
+	chapter.1385AC8A1CE21AFE.title: "&6Modded Togther Traders"
 	chapter.1486895FB68B0F08.title: "Overview"
 	chapter.18EA0CFDF0B44DFB.title: "- Cosmic Tech"
 	chapter.1AF49422240C8439.title: "- Copper Age"
@@ -38,10 +37,10 @@
 	chapter.7C47C9158627CBF8.title: "Collections"
 	chapter.7DC088661B274FFC.title: "- Matter Minipulation"
 	chapter_group.0DADF96DBC50AC3A.title: "&6EXPLORATION"
+	chapter_group.11A03005AB84A570.title: "&6Modded Together Market"
 	chapter_group.1BCBA5826AA41280.title: "&bCULTURE AND WORLD"
 	chapter_group.35D265AB28CC4B21.title: "&9TECH JOURNEY"
 	chapter_group.5CF4FC955D2F2DD3.title: "&dSCHOOL OF MAGIC"
-	chapter_group.6478263FC2EC36C2.title: "&2Modded Together Market"
 	file.0000000000000001.title: "&l&5&fModded Together&r&l&o&b&5"
 	quest.00005BF4AD7854AA.title: "Illusioner Shack"
 	quest.005C9447F3091F2B.quest_subtitle: "Collect Every Hat"
@@ -159,7 +158,6 @@
 	quest.022ACCBB71EB1966.title: "Ice Dragonsteel Armor"
 	quest.022B49893185D3B3.title: "Abyssal Chasm"
 	quest.0283BA8F872CB01E.quest_desc: ["Measures the amount of items inside a container or a machine. You must wear a Tinker's Lens or similar to see the results."]
-	quest.02B0448DA14595B0.quest_desc: ["A &l&9Contraption Diagram&r&r is an entity that can be interacted with to visualize forces acting on a &l&6Simulated Contraption&r&l&r."]
 	quest.02CE101FB8C37A65.title: "Crimson Pinewood"
 	quest.02E43399D22E3673.quest_desc: [
 		"&aPros:&r"
@@ -300,8 +298,9 @@
 	quest.06FA847D235F3445.quest_desc: [
 		"Thanks to everyone who contributed to the pack."
 		""
-		"&9MaleChad&r — Logo, graphics, worldgen"
-		"&9Kurisu&r — Textures"
+		"&9rynxotic&r - Quests"
+		"&9MaleChad&r - (1.2) Logo, graphics, worldgen"
+		"&9Kurisu&r - Textures"
 		""
 		""
 		"&zBeta Testers&r"
@@ -329,7 +328,7 @@
 	quest.072F8E3FEF871419.title: "Redwoods"
 	quest.0754B66CF5E31F83.quest_desc: ["Drops items into the world or systems. The Item Dropper releases stored items for use in automated Ember setups."]
 	quest.075DAF257F0A374A.title: "Maple Forest"
-	quest.0773BFF9C33A0D64.quest_desc: ["{entity:mowziesmobs:naga ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
+	quest.0773BFF9C33A0D64.quest_desc: ["{entity:mowziesmobs:naga ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.0773BFF9C33A0D64.title: "&2★☆☆ Naga"
 	quest.07D3A4B68355D9C9.title: "Frosted Prison"
 	quest.07F75808024BEAAC.quest_desc: [
@@ -414,16 +413,7 @@
 	quest.0B997F9AA39276A1.quest_subtitle: "Break slot restrictions"
 	quest.0BB53AC414552D70.quest_desc: ["The &ePortable Storage Drive &facts like a backpack. However it requires energy. These are great before you can get wireless terminals!"]
 	quest.0BB53AC414552D70.quest_subtitle: "Burning CD's!"
-	quest.0BBFE3A82C1D7086.quest_desc: [
-		"&cRawwrh!&r"
-		""
-		"Dragons have 5 stages. The ones on the surface are stages 2 and 3. The ones underground are stages 4 and 5. The bigger the dragon, the higher the stage and more difficult the fight. They have been placed under Tier 3 in the Boss Codex since that is middle-of-the-road."
-		""
-		"&7TIP: Dragon Eggs only drop from stage 4 and 5 &efemale&7 dragons."
-		"{entity:iceandfire:fire_dragon ent_size:1.5 off_x:0.0 off_y:0.5 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-		"{@pagebreak}"
-		"Fire Dragons can be found in hot biomes such as deserts and mesas."
-	]
+	quest.0BBFE3A82C1D7086.quest_desc: ["{entity:iceandfire:fire_dragon ent_size:1.5 off_x:0.0 off_y:0.5 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.0C0CDC3D8C72DAD9.quest_desc: [
 		"A &6Card Wallet&r can store multiple &6Location Cards&r and integrates automatically with the &6Tempad&r. "
 		""
@@ -488,12 +478,7 @@
 	quest.0DC4960C79EC8367.quest_desc: ["Use with a &eWireless Connector&r to connect networks wirelessly. "]
 	quest.0DCE59A1FBCF1519.quest_subtitle: "Brief flight capability when in darkness"
 	quest.0DCE59A1FBCF1519.title: "Darkness Suit"
-	quest.0DE14E15D9A336F6.quest_desc: [
-		"A monster with one body and six…no three…no nine heads. The &aHydra&r makes its lair in &2swampy&r biomes. The fog helping it to sneak up on and poison its prey. This creature will attack anything that moves, so you better hope it’s not got its sights set on you. If it does, make sure to keep it alight with fire, so that its heads do not multiply."
-		"{entity:iceandfire:hydra ent_size:0.5 off_x:0.0 off_y:-0.15 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-		"{@pagebreak}"
-		"The &aHydra&r will spawn in its lair throughout &2swamp-like&r biomes."
-	]
+	quest.0DE14E15D9A336F6.quest_desc: ["{entity:iceandfire:hydra ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.0DFF64C6452A3465.quest_desc: [
 		"&aPros:&r"
 		"&8●&r +Summons Sword Constructs"
@@ -543,11 +528,6 @@
 	quest.0E9E1893164A0530.quest_subtitle: "Spooky Action At A Distance!"
 	quest.0EABC471B5A4422B.quest_desc: ["{image:gamma_creatures:textures/screens/gusnow_eng2.png width:151 height:100 align:center fit:true}"]
 	quest.0EBC45A74B6F6BBF.quest_subtitle: "&l&n&5Once a old relic but was blessed by the gods!"
-	quest.0EC563188254E0A6.quest_desc: [
-		"The &6&lRope Winch&r&r controls the length of a connected &a&lRope&r&r, allowing you to extend or retract it using rotational power. This makes it ideal for lifting and lowering contraptions, securing airships, and creating moving mechanical systems."
-		""
-		"When connected to a compatible &a&lRope Attachment&r&r, the &6&lRope Winch&r&r can precisely position suspended structures."
-	]
 	quest.0EECD33C8D3B683F.quest_subtitle: "Reach lv1000"
 	quest.0EECD33C8D3B683F.title: "At the place called \"MAX\""
 	quest.0F0860DB98A76334.quest_desc: ["{image:gamma_creatures:textures/screens/bee_eng2.png width:151 height:100 align:center fit:true}"]
@@ -561,12 +541,7 @@
 	]
 	quest.0F47194D1B1B9873.quest_subtitle: "Experience storage"
 	quest.0F627A977DD2B969.quest_desc: ["{entity:ars_nouveau:wilden_boss ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
-	quest.0F9318C32E0B74F6.quest_desc: [
-		"&2Cyclopes&r are a species of one-eyed giants. Filled with a love for sheep and a hatred for humans, they stay in caves watching over their flocks. You may occasionally see one taking a stroll with their flock of sheep out in the plains. Brute force is their strength while vision is their weakness. It is said that an accurate shot towards its eye can leave the &2Cyclops&r blinded and stunned."
-		"{entity:iceandfire:cyclops ent_size:0.75 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-		"{@pagebreak}"
-		"&2Cyclopes&r are most often found in their &7stoney coves&r along &ebeaches&r, but occasionally can be spotted roaming &2plains&r and &2savannas&r."
-	]
+	quest.0F9318C32E0B74F6.quest_desc: ["{entity:iceandfire:cyclops ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:150 align:center}"]
 	quest.0FAB015603DE8044.quest_desc: [
 		"The &bResonance Tuner&r combines &#4BF3DAAerial&r and &#48EE19Earthen&r forces."
 		""
@@ -578,12 +553,7 @@
 	]
 	quest.0FAB015603DE8044.quest_subtitle: "Stability over speed"
 	quest.0FACEEEE34E36733.title: "Draco Arcanus Armor"
-	quest.0FAFE1943A28AF86.quest_desc: [
-		"Crafted by a mage piglin from ancient debris and black stone, the Nether Gauntlet was meant to be a living weapon. The piglin sacrificed its soul to merge with it, but lacking mana while trapped in the Nether, the Gauntlet remained dormant—just a heavy block of stone."
-		""
-		"It awakens only when provoked, and its compressed form makes it &cexplode&r upon defeat."
-		"{entity:bosses_of_mass_destruction:gauntlet ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.0FAFE1943A28AF86.quest_desc: ["{entity:bosses_of_mass_destruction:gauntlet ent_size:1.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.0FD6AAFFD4876C36.quest_desc: ["{image:gamma_creatures:textures/screens/muba_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.0FE59C55B86FC83C.title: "Old Swampland"
 	quest.10008913EA0470F6.quest_desc: [
@@ -659,6 +629,13 @@
 	quest.112A82ADF7733058.quest_desc: ["The &6Mechanical Drill&r breaks the block directly in front of it when supplied with rotational power."]
 	quest.1134B8B955B40235.title: "The Burning Arena"
 	quest.114347412B7B12D4.quest_desc: ["A &eTermial&r with the ability to craft."]
+	quest.114534F59500DF73.quest_desc: [
+		"Every journey begins with a simple chest."
+		""
+		"As you progress and gather more materials, storage quickly becomes a real challenge."
+		""
+		"Unlocks &6Basic Storage&r chapter."
+	]
 	quest.114534F59500DF73.quest_subtitle: "Hoard the Items"
 	quest.114534F59500DF73.title: "Storage Basics"
 	quest.118D168C5F04C4AA.quest_desc: [
@@ -757,11 +734,6 @@
 	]
 	quest.14E60E330EDADB98.quest_desc: ["The &l&6Clockwork Pickaxe&r&r is an indestructible, high-tier dawnstone hybrid tool, it functions as an incredibly fast mining tool that never breaks, as long as it has fuel."]
 	quest.14F306621CDFE316.title: "REMEMBER ALEX BIOMES"
-	quest.151CA70660521023.quest_desc: [
-		"&l&6End Stone Powder&r&r is a refined material created by processing &l&eEnd Stone&r&r into a more versatile form. "
-		""
-		"This fine powder is used as an ingredient in advanced crafting recipes, allowing engineers and explorers to unlock new technologies and specialized components."
-	]
 	quest.151F72A35AF500DC.quest_desc: [
 		"The &l&6Huge Diesel Engine&r&r is a high-capacity power source, designed to provide massive amounts of rotational force for large industrial systems. "
 		""
@@ -836,8 +808,6 @@
 		"16x &#CB0CF8Eldritch&r"
 	]
 	quest.16C70903BE6B120F.quest_subtitle: "Become the ocean’s avatar"
-	quest.16F86ACE99065E0F.quest_desc: ["An &l&6Adjustable Burner&r&r is used in combination with a balloon to fly Contraptions. It does not require fuel to use, only needing to be set to a lift level using a wrench."]
-	quest.16F86ACE99065E0F.title: "Take Off!!!"
 	quest.1746CBB538290039.quest_desc: [
 		"&5Special thanks to&r:"
 		""
@@ -873,7 +843,11 @@
 		"{@pagebreak}"
 		"Use the &6Eye of Sunbird&r to locate &eUmvuthani&r and his followers in the savanna."
 	]
-	quest.17E30219AD43B90C.quest_desc: ["Generates Heat from Ember. The &6Hearth Coil&r produces Heat ."]
+	quest.17E30219AD43B90C.quest_desc: [
+		"Generates Heat from Ember. The &6Hearth Coil&r produces Heat. "
+		""
+		"Can be used to heat and superheat Blazes."
+	]
 	quest.17E30219AD43B90C.quest_subtitle: "Damn that's a fast furnace,"
 	quest.17EC541F5D610169.title: "Candy Cavity"
 	quest.17EFC22034CD0363.title: "Abyssal Armor"
@@ -990,6 +964,11 @@
 	quest.1ABCD6809DD0627B.quest_desc: ["Allows to pipe items into the storage system."]
 	quest.1AC163B06D0FFC8F.quest_desc: ["Looks like a cocoa bean in the jungle canopy, but far from edible. The seed holds stimulant power and smells pleasant when roasted."]
 	quest.1AC163B06D0FFC8F.quest_subtitle: "Bitter Seed"
+	quest.1ADE21F3A1856D14.quest_desc: [
+		"After learning the basics of primitive technology, producing brass alloy becomes a major step toward more advanced mechanisms."
+		""
+		"Unlocks &6Brass Age&r chapter."
+	]
 	quest.1ADE21F3A1856D14.quest_subtitle: "Advanced Alloy ?"
 	quest.1ADE21F3A1856D14.title: "Brass Age"
 	quest.1B0077FC8B70BE47.quest_desc: ["Kill 16 Cave Spider"]
@@ -1011,12 +990,20 @@
 	]
 	quest.1B330CA2422E5FE6.quest_subtitle: "Air streams and bulk processing"
 	quest.1B40A0C4AE03DE92.title: "Rocky Meadow"
+	quest.1B57F6F420F3B000.quest_desc: [
+		"The End is a cosmic dimension that corrupts everything drawn into its existence."
+		""
+		"It is as beautiful as it is dangerous."
+		""
+		"If you seek true power, reaching it will not be easy — but it cannot be avoided."
+		""
+		"Unlocks &6End&r chapter."
+	]
 	quest.1B57F6F420F3B000.quest_subtitle: "Cosmic Void"
 	quest.1B57F6F420F3B000.title: "The End ?"
 	quest.1B654BE8B33871F5.quest_desc: ["Be hell warrior, will full set grant 4 utilities buff, the sword allow you to stay alive longer with ignis ability"]
 	quest.1B654BE8B33871F5.title: "Hell Warrior"
 	quest.1B7786D30593CCAE.quest_subtitle: "&l&n&5Power of the wind!"
-	quest.1BBE8557F54C8D6C.quest_desc: ["A &6&lSteam Vent&r&r is a block that can be powered by redstone to generate lift by filling balloons with hot air."]
 	quest.1BC3DA7400EA4A2A.title: "Astral Hideaway"
 	quest.1BCA029480FF9B9E.quest_desc: ["When attached to the bottom of an Ember Activator, it decreases it's ember production by 10% but adds a flat +300 ember bonus. This way it allows ember grit to produce ember."]
 	quest.1BD7614BCF857898.title: "I will build!"
@@ -1044,18 +1031,16 @@
 	quest.1BF65C5A2A8109A6.title: "Pillager Fortress"
 	quest.1C0493975473E23A.quest_subtitle: "Increases mana amount and regen rate. Decreases attack damage"
 	quest.1C375606107C117F.quest_subtitle: "Find Keep Kayra"
+	quest.1C3DBD984E973953.quest_desc: [
+		"Start with the &bMason Table&r.  "
+		"Place it, then use it to change the look of a block.  "
+		"Try it with cobblestone — your base floor can look better without much cost."
+		""
+		"Unlocks the &6Building Essentials&r chapter."
+	]
 	quest.1C3DBD984E973953.quest_subtitle: "Easier and Better than Ever"
 	quest.1C3DBD984E973953.title: "Building Basics"
-	quest.1C76316EF49F3B0B.quest_desc: [
-		"Born from &7soul sand&r and the &8tormented spirits&r of the dead, the Wither embodies hatred, rage, and fear. These emotions fuel its destruction, driving it to attack all living things as it drifts through the skies."
-		"{entity:minecraft:wither ent_size:0.8 off_x:0.0 off_y:-0.25 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
-	quest.1C982C9E827813C5.quest_desc: [
-		"The &6&lSteering Wheel&r&r is a rotation control block used to steer airships and other simulated contraptions."
-		""
-		"{@pagebreak}"
-		"The &l&6Gimbal sensor&r&r on a physics contraption, outputs redstone signals based on which side is leaning downwards."
-	]
+	quest.1C76316EF49F3B0B.quest_desc: ["{entity:minecraft:wither ent_size:0.8 off_x:0.0 off_y:-0.25 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.1CAD3BB2D5A8E0F1.quest_desc: [
 		"The &bSpirit Crucible&r can be enhanced using augments."
 		""
@@ -1207,6 +1192,12 @@
 	quest.1F8257FBCD532E59.quest_subtitle: "&oHide in Plain Sight&o"
 	quest.1F8257FBCD532E59.title: "Cardboard Armor Set"
 	quest.1F825B81E177885F.title: "Fen"
+	quest.1FA35D9B9C012809.quest_desc: [
+		"There are many ways to survive even the toughest monsters."
+		"This chapter introduces tools and gear that help you stay alive."
+		""
+		"Unlocks &6Armory&r and &6Boss Compendium&r chapters."
+	]
 	quest.1FA35D9B9C012809.quest_subtitle: "Combat Equipment"
 	quest.1FA35D9B9C012809.title: "Armoury"
 	quest.1FAAD28900184F6B.quest_desc: ["{image:gamma_creatures:textures/screens/golemd_eng2.png width:150 height:100 align:center fit:true}"]
@@ -1245,10 +1236,7 @@
 		"32x &#CB0CF8Eldritch&r"
 	]
 	quest.1FCFB1C0A752EC28.quest_subtitle: "See no evil, feel no evil"
-	quest.1FE39FE01E79CAE5.quest_desc: [
-		"A mysterious stone etched with runes, absorbing &8Void&r energy to grow stronger. It can summon &5Obelisks&r that restore its power. To defeat it, you must first destroy these obelisks, then strike the Obsidilith itself. Its purpose remains unknown, lost to history."
-		"{entity:bosses_of_mass_destruction:obsidilith ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.1FE39FE01E79CAE5.quest_desc: ["{entity:bosses_of_mass_destruction:obsidilith ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:120 align:center}"]
 	quest.1FFAE9F112A5F74C.quest_desc: [
 		"The &6Experience Hatch&r allows depositing or extracting experience from a &6Fluid Tank&r or &6Basin&r."
 		"    "
@@ -1442,7 +1430,7 @@
 	quest.2483EC1E147FBD1E.title: "Chimeric Beast I"
 	quest.249909092289B309.quest_desc: ["The Prometheum Pickaxe is an unbreakable high-tier mining tool that grants an extended block interaction reach when held"]
 	quest.249909092289B309.title: "Promethium Pickaxe"
-	quest.24E21C8FA12895A6.title: "Relic Trader"
+	quest.24E21C8FA12895A6.title: "Relic Buyer"
 	quest.24E4C32667E358C6.title: "Machine Extender"
 	quest.24E7329D79009F09.quest_desc: ["Measures the amount of fluids inside a container or a machine. You must wear a Tinker's Lens or similar to see the results."]
 	quest.24EFE0DCEE54E844.title: "Ice Spikes"
@@ -1475,6 +1463,13 @@
 		"Two wheels must be placed one block apart and rotate in opposite directions to function."
 	]
 	quest.251D21290027A466.quest_subtitle: "Item crushing"
+	quest.25207E44424D49A8.quest_desc: [
+		"Source Magic is so powerful that its only limit is your imagination."
+		""
+		"Those who master the magic of Source discover true freedom."
+		""
+		"Unlocks &6Source Magic&r chapter."
+	]
 	quest.25207E44424D49A8.quest_subtitle: "Arcane Mastery"
 	quest.25207E44424D49A8.title: "Source Magic"
 	quest.252BFDFCE0877B3C.quest_desc: [
@@ -1498,6 +1493,11 @@
 	quest.259F7DB51ECD6C05.title: "Steel Ingot"
 	quest.25A036DAB1AAD3B4.quest_desc: ["{image:gamma_creatures:textures/screens/banndu_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.25DCBCA3E08B26FC.quest_desc: ["The &l&6Blazing Ray &r&ris a beam-based weapon that fires continuous straight beams until it impacts a solid block or a mob."]
+	quest.25FE3E7DA0D58F67.quest_desc: [
+		"Cooking dragon meat grants powerful effects, comparable to drinking several potions at once."
+		""
+		"Craft an &6End Stove&r to show that your culinary mastery has reached even The End."
+	]
 	quest.25FE3E7DA0D58F67.quest_subtitle: "Always Leaves Room"
 	quest.25FE3E7DA0D58F67.title: "Dragon Cuisine"
 	quest.260209612D55D020.title: "Crimson Forest"
@@ -1584,7 +1584,6 @@
 	quest.27E17C1DE0D9848D.quest_desc: ["A lead-based metal, valued in magic for its stability. It resists magical effects, making it a strong material for devices and arcane tools."]
 	quest.27E17C1DE0D9848D.quest_subtitle: "Sturdy Alloy"
 	quest.27E4061235D55961.quest_subtitle: "Complete the Boss Codex chapter"
-	quest.27E521E443209518.quest_desc: ["Allows the docking of &6&lsimulated contraptions&r&r together. "]
 	quest.27E73CE068DB1450.quest_desc: ["Automatically mines resources using &l&6Ember&r&r. The &l&6Ember Bore&r&r drills into the world and collects materials for use in your production systems."]
 	quest.27EFE45815ABC490.quest_desc: [
 		"&aPros:&r"
@@ -1674,6 +1673,15 @@
 	]
 	quest.2987F83C7A21D8DD.title: "Blackwood Taiga"
 	quest.29A02D88684E3B14.title: "Tyr Armor"
+	quest.29A9F5E23FCB78F5.quest_desc: [
+		"Simple enchanting may not be enough."
+		"Reforge your equipment using the power of &6Cursed Core&r (found in structure below, mostly on plains) to gain additional effects. "
+		""
+		"Item rarity ranges from &9Rare&r to &dEpic&r and up to &6Mythic&r, each tier providing stronger bonuses."
+		""
+		"Unlocks &6Item Reforging&r chapter."
+		"{image:kubejs:textures/quests/vestiges.png width:200 height:100 align:center}"
+	]
 	quest.29A9F5E23FCB78F5.quest_subtitle: "Equipment Upgrades"
 	quest.29A9F5E23FCB78F5.title: "Reforging Basics"
 	quest.29D68A5F93C753A1.quest_desc: [
@@ -1801,11 +1809,6 @@
 		"{@pagebreak}"
 		"Scylla's anchor weapon Ceraunus is found at the top of the Acropolis in the &2Overworld&r. R-click the anchor to awaken her. Use an &6Eye of Storm&r to locate the Acropolis."
 	]
-	quest.2C7597CA3A0BD988.quest_desc: [
-		"The &l&6Wheel Mount&r&r is the block necessary to use &l&aWheels&r&r, with it being it's mount. "
-		""
-		"To use it, right click it with any wheel; the spring automatically adjusts in size to fit the wheel."
-	]
 	quest.2C8D52588D93AC87.quest_desc: ["Melts items at the top when the bottom is powered with ember."]
 	quest.2C8ED6929770CAD9.quest_desc: ["A combat support unit build for people who are not high skill or want to go with low cost"]
 	quest.2CA48A6493BAD6BD.quest_desc: ["Machine Cores determine the overall quality ceiling of your multiblock structures. While upgrading to a better core does not inherently speed up a machine on its own, it dictates exactly how many layers of external machine extenders and connected addons that specific machine can support."]
@@ -1816,6 +1819,7 @@
 	]
 	quest.2CCAC39F67E06944.quest_subtitle: "Automatic fishing"
 	quest.2CCBAF7F8AAB2F69.title: "Upside Down Forest"
+	quest.2CD318AED08DB001.title: "Relic Seller"
 	quest.2D0BF4AA6BE0F6E6.quest_desc: [
 		"&#1E5AA8Advanced Rite&r"
 		""
@@ -2024,6 +2028,12 @@
 	quest.3030D3181B98EDB3.title: "Cleric"
 	quest.303862D718D25101.quest_subtitle: "Collect Powerful Magical Artifacts"
 	quest.303862D718D25101.title: "You've got the Magic!"
+	quest.304B359A17D9DC8B.quest_desc: [
+		"Soulstone is the foundation of all magic."
+		"Consider obtaining it as your gateway into the realm of magic."
+		""
+		"Unlocks &6Basics of Magic&r and &6Familiars&r chapter."
+	]
 	quest.304B359A17D9DC8B.quest_subtitle: "Spells and Artifacts"
 	quest.304B359A17D9DC8B.title: "Magic Basics"
 	quest.30609822AD46F9F5.quest_desc: [
@@ -2092,20 +2102,20 @@
 	quest.31617ED679E65445.quest_subtitle: "Gather them all, exhaust every possibility"
 	quest.318C09F5262353EA.title: "Sky Arena"
 	quest.31A496FE886348D5.title: "Pillager Camp"
+	quest.31C2AAB08714196A.quest_desc: [
+		"While exploring the world, you will encounter gateways leading to other dimensions."
+		""
+		"Materials found there are far more powerful and useful for reforging."
+		""
+		"To use them, you will need to upgrade your &6Reforging Table&r using an &5Obsidian Heart&r."
+		""
+		"These gateways are guarded by dangerous monsters, so &nprepare potions, strong food, golems, and any other tools you may need.&r"
+	]
 	quest.31C2AAB08714196A.quest_subtitle: "Dimensional Challenges"
 	quest.31C2AAB08714196A.title: "Gateways"
 	quest.31F8C5D39AB07AE9.quest_desc: ["The Electric Mace is a high-tech, energy-powered weapon that adapts the smashing heavy-smite mechanics of a traditional mace into an industrial framework."]
 	quest.31F8C5D39AB07AE9.title: "Electric Mace"
-	quest.320A501E80680EFF.quest_desc: [
-		"The &l&6Redstone Magnet&r&r is a controllable magnetic component used to attract and manipulate compatible objects through redstone activation. "
-		""
-		"By switching the &l&6Magnet&r&r on and off with a signal, it allows contraptions to interact with nearby items and mechanisms."
-	]
-	quest.320A501E80680EFF.title: "Dont Bring Metal Near!"
-	quest.3231857C187C0EE1.quest_desc: [
-		"The &3Ocean Monument&r holds the key to living beneath the waves, but the key remains guarded by &3three ancient sea creatures&r and their underlings. With bodies built for both defence and offense, the fight will not be an easy one for those unprepared for the water."
-		"{entity:minecraft:elder_guardian ent_size:0.5 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.3231857C187C0EE1.quest_desc: ["{entity:minecraft:elder_guardian ent_size:0.5 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.3239F6FAEB0D15C2.quest_desc: [
 		"With a reluctant gaze, you turn your back on the &6fleeing Illagers&r. "
 		""
@@ -2194,12 +2204,7 @@
 	quest.33E92208F61B1E3A.quest_subtitle: "Defensive capabilities when player falls below half health"
 	quest.3408510E7D1AD32E.quest_desc: [""]
 	quest.3408510E7D1AD32E.title: "Lab"
-	quest.340AEA7194551724.quest_desc: [
-		"Think the &3Adjudicator&r was difficult? His successor is even worse. More powerful than an evoker and adjudicator combined, this Illager leader lives within the &dPillager Fortress&r. Despite his great strengths, defeating just him is not the only hard part. He is protected by legions of marauders, vindicators, ravagers, and more. To get to the &eInvoker&r, one must be prepared. "
-		"{entity:illagerinvasion:invoker ent_size:0.75 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-		"{@pagebreak}"
-		"The &eInvoker&r spawns at the top of the &dPillager Fortress&r."
-	]
+	quest.340AEA7194551724.quest_desc: ["{entity:illagerinvasion:invoker ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.340C69C98C436590.title: "Ion Thruster"
 	quest.3424D529ADF53915.quest_desc: ["Augmenting table allow upgrade an item had affix at a high cost or reroll affix value."]
 	quest.34545A548CE5373D.title: "Fluid Pipe"
@@ -2296,6 +2301,14 @@
 	quest.35CEE121B754C216.title: "Flower Fields"
 	quest.35D4765B6555620B.quest_subtitle: "Create every glyph"
 	quest.35D4765B6555620B.title: "Glyph Master"
+	quest.35D71AB41E3127FF.quest_desc: [
+		"You will need a lot of andesite.  "
+		"While exploring caves, finding it gives a simple chance to learn the basics of &6&lCreate&r."
+		""
+		"A common stone, but the start of many machines."
+		""
+		"Unlocks the &6Andesite Age&r and &6Copper Age&r chapters."
+	]
 	quest.35D71AB41E3127FF.quest_subtitle: "Automation and Technology"
 	quest.35D71AB41E3127FF.title: "Create Basics"
 	quest.35DD2558EC5F8677.quest_subtitle: "&l&n&5Bee Mjolnir?"
@@ -2479,22 +2492,8 @@
 	quest.39352B7CECAC84F4.title: "Master Chef"
 	quest.39420EB06038CF34.quest_desc: ["The &6&lClockwork Axe&r&r is an indestructible, high-tier dawnstone hybrid tool and weapon it acts simultaneously as an incredibly fast wood-chopping axe and a powerful melee weapon."]
 	quest.394272D93F2FE569.quest_subtitle: "Deal 500.000 Damage"
-	quest.39475684487F1958.quest_desc: [
-		"Long ago, a blacksmith created a hammer that would never break. When an assassin came to steal it, the weapon bound to its maker’s soul reacted, pulling them both into the Nether."
-		""
-		"The assassin was erased, but a shard of the blacksmith’s soul endured, merging with stone, obsidian, and lava until it became the Netherite Monstrosity — a creature that remembers what it once was."
-		""
-		"Now it waits in the endless red gloom, far from the overworld. To reach it, you must use the Eye of Monstrous, an artifact that carries you to the place where this monster resides."
-		"{entity:cataclysm:netherite_monstrosity ent_size:0.8 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
-	quest.394E9F83FB77E302.quest_desc: [
-		"Not much is known about the &6Echo of Tyros&r, save that he was once a legendary pyromancer known as the &cFirst Flamebearer&r. In life, Tyros sought absolute mastery over fire, believing flame to be the purest expression of magic. When his mortal form finally failed, his will burned on, leaving behind a powerful echo bound eternally to the inferno he created. His rage and magic still linger, testing any who dare challenge the legacy of flame."
-		""
-		"{entity:irons_spellbooks:fire_boss ent_size:0.5 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-		"{@pagebreak}"
-		""
-		"The &6Echo of Tyros&r dwells within the &cHellfire Citadel&r, a scorched stronghold hidden deep within the world. To awaken him, one must reach the Citadel’s summit and use a &6Cinderous Soulcaller&r upon the ritual platform. Only those prepared to endure fire itself may hope to silence Tyros’ echo and claim the rewards left behind by the first master of flame."
-	]
+	quest.39475684487F1958.quest_desc: ["{entity:cataclysm:netherite_monstrosity ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
+	quest.394E9F83FB77E302.quest_desc: ["{entity:irons_spellbooks:fire_boss ent_size:0.5 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.39E27D08343CC1EA.quest_desc: [
 		"The &dWilden Chimera&r is a beast so powerful that it took the greatest wizards all of their power to trap it in an &5Archmage Tower&r. The tower by itself could not hold this creature, and many wizards had to stay behind to contain it. Overtime, they too became dark and corrupted. Be sure to train and grow in your power, for this tower is a deadly trap to those who go in unprepared. "
 		"{@pagebreak}"
@@ -2525,14 +2524,7 @@
 	quest.3ADBC1D66AD8811A.title: "Mana Transfer"
 	quest.3AF461B39D7DD4D2.quest_desc: ["{entity:irons_spellbooks:dead_king ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.3AF8B4EBCE54E817.title: "Archwood Forest"
-	quest.3B1965C5BE57D7F6.quest_desc: [
-		"Long ago, a dark order called the &5Abyss Callers&r tried to bind a mighty prehistoric creature through forbidden necromancy. The ritual failed—the beast’s soul turned on them, erasing their entire order."
-		""
-		"Defeated only by the &9first king&r and his circle of sorcerers, the creature’s body was sealed away, too powerful to destroy. Its &8dark energy&r still leaks from the depths, cursing all who wander close."
-		""
-		"Some say the &eEye of the Desert&r still points to its resting place. Will you end its curse… or join the bones beneath the sand?"
-		"{entity:cataclysm:ancient_remnant ent_size:0.75 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.3B1965C5BE57D7F6.quest_desc: ["{entity:cataclysm:ancient_remnant ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:120 align:center}"]
 	quest.3B1C4F836F521D66.quest_desc: ["The Quantum Research Station is a high-tier multiblock expansion for your Augmentation Center that unlocks advanced, space-time, and high-energy physics modifications."]
 	quest.3B1C4F836F521D66.title: "Advanced Augment Station"
 	quest.3B2840F80C601A0F.quest_desc: [
@@ -2570,12 +2562,6 @@
 	quest.3BA21B990625F684.quest_subtitle: "Step. Form. Ready. Raise. Begin. Draw. Release."
 	quest.3BA44EB64742E3F7.quest_desc: ["Reforging table allow to forge all tier affix"]
 	quest.3BD7B772B404B878.quest_desc: ["Find and enter &4Throne Pillar Structure&r"]
-	quest.3BD85D07B2A60A0B.quest_desc: [
-		"The &l&6Gyroscopic Mechanism&r&r provides advanced stabilization and control for moving contraptions by using rotational force to maintain balance and orientation. "
-		""
-		"It is an essential component for machines that require precise movement and stability."
-	]
-	quest.3BE85FD997514498.quest_desc: ["Gyroscopic propeller bearings attempt to stabilize the simulated contraption they are placed on by tilting the attached propeller up to 12° i"]
 	quest.3C0A30E13C5D0F80.title: "Choo Choo!"
 	quest.3C1A9DC6312F1349.quest_desc: ["Finish all the desire task from &eBee Queen&r"]
 	quest.3C510AA36D63F0F5.quest_desc: [
@@ -2644,8 +2630,6 @@
 	quest.3D0087322543B31D.quest_desc: [""]
 	quest.3D0087322543B31D.quest_subtitle: "Augmenting material"
 	quest.3D1C0F80B74B27D5.quest_subtitle: "Arrive at a Lighthouse"
-	quest.3D2B4F6D02DB7F13.quest_subtitle: "This can move ?"
-	quest.3D2B4F6D02DB7F13.title: "Aero Age"
 	quest.3D40D539C72FEE73.quest_desc: [
 		"The &bRunewood Obelisk&r speeds up the &6Spirit Altar&r."
 		""
@@ -2753,12 +2737,7 @@
 	quest.3ECA226F08D5195F.quest_subtitle: "Find a Monastery"
 	quest.3F062C3715898E58.quest_desc: ["{image:gamma_creatures:textures/screens/dogishi_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.3F2E272663BECA1F.title: "Mott"
-	quest.3FA36BF576843022.quest_desc: [
-		"Frostmaws are rare, massive beasts of the snowy lands. Their &bice breath&r and immense strength make them deadly foes."
-		""
-		"If you find one sleeping on your path, it may be wiser to go around rather than wake it. The creature guards a precious &eIce Crystal&r, capable of unleashing pure winter energy when wielded. Ranged weapons are recommended for those daring enough to face it."
-		"{entity:mowziesmobs:frostmaw ent_size:0.75 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.3FA36BF576843022.quest_desc: ["{entity:mowziesmobs:frostmaw ent_size:0.75 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.3FBC763FCE6DBB86.quest_desc: ["To charge cells and batteries, craft a &2Chronon Generator&r. Carrying it in the inventory or a Curios slot passively generates &2Chronons&r that flow into nearby cells and devices."]
 	quest.3FBC763FCE6DBB86.quest_subtitle: "Generating Time?"
 	quest.3FC3D70076B6DDF0.quest_desc: [
@@ -2787,20 +2766,12 @@
 		"The rope length can be monitored using a &6Threshold Switch&r."
 	]
 	quest.40AD704CCE937072.quest_subtitle: "Vertical movement"
-	quest.4106639299FA35BE.quest_desc: [
-		"Once one of the six sea gods, &bScylla&r was cast out for breaking the divine law—she fell in love with &bMaledictus&r, a mortal king. When he gave his life to stop &6Ignis&r and save the world, her grief became her curse."
-		""
-		"She withdrew to a fortress high above the clouds, her sorrow twisting into rage. Immortal in body but shattered in mind, she now strikes down any human who dares to approach."
-		""
-		"Some say only a true hero can end her torment. Craft the &9Eye of Storm&r, locate &bthe acropolis&r and rise into the sky—where her endless sadness still lingers."
-		"{entity:cataclysm:scylla ent_size:1.0 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.4106639299FA35BE.quest_desc: ["{entity:cataclysm:scylla ent_size:1.0 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.4118927D9D079DC8.quest_desc: ["Rising like jagged thorns from the ground, these massive towers are defended by skeletons entwined with deadly roses. Each level is heavily fortified, and flying rose guards patrol the skies above. Only those who ascend to the top will claim the treasures and secrets hidden within."]
 	quest.4118927D9D079DC8.quest_subtitle: "Visit the Thornborn Towers"
 	quest.411E75619F1C378C.quest_desc: ["Somehow killed &0Wither&r with &estinger spear&r."]
 	quest.415CD6CC10D4D7F2.quest_desc: ["{image:gamma_creatures:textures/screens/redthunder_eng2.png width:150 height:100 align:center fit:true}"]
 	quest.41627C829F1C0684.title: "Item Filter"
-	quest.41A0B52DD33255A3.quest_desc: ["The &l&6Rope Coupling&r&r creates a strong connection between two compatible attachment points using a &l&aRope&r&r. It allows contraptions to remain linked while still moving naturally, making it perfect for towing, suspension systems, and airship docking."]
 	quest.41A34FE87DD3EA6E.title: "Bastion"
 	quest.41ACE04C5F44BBF1.title: "Sunken Ship"
 	quest.41CD8B330FFD9CB1.quest_subtitle: "Increases mana amount and regen rate. Bonus spell power"
@@ -2817,13 +2788,7 @@
 	quest.42963ECC905690BB.title: "Fashionista"
 	quest.42A44816F5A597CF.quest_desc: ["{image:gamma_creatures:textures/screens/turlan_eng2.png width:151 height:100 align:center fit:true}"]
 	quest.42ED72476B62BA71.quest_desc: ["&5Mage's Spell Book&r allow you to cast tier 2 glyphs and below"]
-	quest.42FA5AE8D5124F92.quest_desc: [
-		"The Wither’s power drew the interest of &9technomancers&r, who sought to turn it into a weapon. They captured and reshaped it into the Harbinger—a mechanical war machine. But a shard of its &8tormented soul&r remained, beyond control."
-		""
-		"Countless lives were lost before its &eNether Star&r core was removed and the project abandoned. The ruined factory now lies buried beneath the earth, hidden from sight."
-		"To locate it, one must wield the &6Eye of Mech&r—the only device able to detect what still stirs below."
-		"{entity:cataclysm:the_harbinger ent_size:0.8 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.42FA5AE8D5124F92.quest_desc: ["{entity:cataclysm:the_harbinger ent_size:0.8 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.42FEB5F8EBBC4E49.quest_desc: ["Your next big step is building an Assembler and a Centrifuge. Tip: Leave room around this machine for upgrades and expansion."]
 	quest.42FEB5F8EBBC4E49.title: "Assembling Components"
 	quest.4304895AF86DC805.quest_desc: ["After basic equipment this is tougher. Allow you to survive hit with less dmg taken."]
@@ -2833,11 +2798,6 @@
 	quest.4353E25AA0DCDB58.quest_subtitle: "&l&n&5Legendary Ice blacksmith's hammer once forged the greatest of weapon's!"
 	quest.436231715C11E3BA.quest_desc: ["Scattered across the wilds, small bands of Illagers set up camp beneath their distinctive purple tents. Though their supplies are meager and their loot scarce, their presence is a warning, the Illagers’ reach grows wider with every outpost."]
 	quest.436231715C11E3BA.quest_subtitle: "Find an Illager Campsite"
-	quest.436319DB8AD746DA.quest_desc: [
-		"The &6&lLaser Pointer&r&r is a precision tool used to project a visible beam, helping with alignment, targeting, and positioning in advanced mechanical builds. "
-		""
-		"It allows engineers to accurately mark locations and ensure components are correctly placed."
-	]
 	quest.4378B90E9375D1CD.quest_desc: [
 		"&#6EC1FFSimple Rite&r"
 		""
@@ -2895,12 +2855,9 @@
 	quest.454BCE20D19A946E.title: "Ember Transportation"
 	quest.4559CA5E4634C661.title: "Dark Tower"
 	quest.45C92BD615F3B7EB.quest_desc: [
-		"Once a mortal, &cIgnis&r was feared for his relentless experiments on life itself. He twisted his own body for forbidden power and used countless innocents as test subjects. Those he oppressed eventually rose and banished him to the Nether."
 		""
-		"In exile, he forged terrible weapons using &cMonstrosity&r, including a sword of explosive magic and a shield of eternal flame. When humans opened the Nether portal, he returned, seeking vengeance—but was ultimately defeated alongside &6Maledictus&r."
 		""
-		"Yet his soul endured, trapped in the &4Burning Ashes&r. To end his terror, all Ashes must be placed upon the &5Altar of Fire&r, destroying his final soul. The &9Eye of Flame&r will guide you to his rebirth—cleanse this abomination and prevent future disaster."
-		"{entity:cataclysm:ignis ent_size:0.75 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+		"{entity:cataclysm:ignis ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
 	]
 	quest.45C94A869977DDC6.title: "Lush Caves"
 	quest.45E2C787B0B44DAF.quest_subtitle: "{count:1,id:\"refinedstorage:1024b_fluid_storage_block\"}"
@@ -2951,6 +2908,15 @@
 	quest.468A4AA02E32A08B.quest_subtitle: "{components:{\"ftbquests:loot_crate\":\"create\"},count:1,id:\"ftbquests:lootcrate\"}"
 	quest.468FDF7394357FF3.title: "Ruins of the Deep"
 	quest.46913E9659C71457.quest_subtitle: "&l&n&5Double edge weapon &efrom the stars!&r"
+	quest.46B9E8C825098695.quest_desc: [
+		"Cooking better food will greatly help you on your journey."
+		""
+		"Nourishing meals can increase your hearts and keep you satiated much longer, regardless of work or health regeneration."
+		""
+		"It is well worth automating."
+		""
+		"Unlocks &6Culinaery Arts&r chapter."
+	]
 	quest.46B9E8C825098695.quest_subtitle: "Increasing your Hearts"
 	quest.46B9E8C825098695.title: "Cooking Basics"
 	quest.46DD0C741220A8F1.quest_desc: [
@@ -2970,7 +2936,6 @@
 	quest.46DD0C741220A8F1.title: "Frostling"
 	quest.4729C395E23EDB15.quest_subtitle: "Increases swim speed and enables gliding out of water"
 	quest.472C8CBAF47579DD.title: "Dread Citadel"
-	quest.474340122C1CC765.quest_desc: ["Grants convenient control over redstone links by using the keyboard."]
 	quest.474B713B22FBECB5.quest_desc: ["Use the &eBasin&r with the &eMechanical Mixer&r to mix ingredients, and hold liquids. Can also be used for shapeless crafting"]
 	quest.4791FC0A2E834D85.quest_desc: ["Dark magics linger in the depths of these dungeons, woven into items, halls, and even the very air. Power awaits the bold, but so do twisted fates for the careless."]
 	quest.4791FC0A2E834D85.quest_subtitle: "Find a Bathhouse"
@@ -3008,16 +2973,7 @@
 	quest.486D460A66203A95.quest_subtitle: "To be full is to be anchored"
 	quest.4872C571502FFB48.title: "Pillager Outpost"
 	quest.487E679F69B609B1.quest_desc: ["Spawn 8 flowers by hitting flowers with &6Pollen Puff&r."]
-	quest.48A8BDBA503F6840.quest_desc: [
-		"&bRawwrh!&r"
-		""
-		"Dragons have 5 stages. The ones on the surface are stages 2 and 3. The ones underground are stages 4 and 5. The bigger the dragon, the higher the stage and more difficult the fight. They have been placed under Tier 3 in the Boss Codex since that is middle-of-the-road."
-		""
-		"&7TIP: Dragon Eggs only drop from stage 4 and 5 &efemale&7 dragons."
-		"{entity:iceandfire:ice_dragon ent_size:1.5 off_x:0.0 off_y:0.5 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-		"{@pagebreak}"
-		"Ice Dragons can be found in cold biomes such as snowy plains and ice spikes."
-	]
+	quest.48A8BDBA503F6840.quest_desc: ["{entity:iceandfire:ice_dragon ent_size:1.5 off_x:0.0 off_y:0.5 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.48BDA991D14A345C.quest_desc: [
 		"The &6Copper Backtank&r must be filled with air pressure to function."
 		""
@@ -3036,12 +2992,6 @@
 	quest.48E3C2D33EFD6812.quest_subtitle: "&l&n&5Elemental &eblade!&r"
 	quest.493AC092DA35B1E1.title: "Jagged Peaks"
 	quest.495CC7C5A8BEF15A.title: "Health Increase"
-	quest.497B8D680CACC76F.quest_desc: [
-		"Just like the &l&2Engineer's Goggles&r&r, they allow for added information to be displayed about various &a&lCreate compontents&r&r. "
-		""
-		"As well as the &4&lweight&r&r and &4&lfriction&r&r for any placeable blocks to be displayed when hovered over them in the inventory, helping you better understand and manage each blocks behavior."
-	]
-	quest.497B8D680CACC76F.title: "I can See!"
 	quest.49AD5DABD2280DF9.title: "Charger"
 	quest.49F1CDC6DAFE13E2.quest_desc: [
 		"Used to make steam and Dwarven Gas. Connect it to the bottom of the Ember Activator."
@@ -3058,12 +3008,7 @@
 	]
 	quest.4A1D180F1688C261.title: "Ocean Monument"
 	quest.4A4C7DC41D551FED.title: "Dry Brushland"
-	quest.4A72D1BC57E0B869.quest_desc: [
-		"Those who fled the Ender Dragon built the &7End Citadel&r, a fortress full of traps. Over time, the &0Void&r consumed the defenders, twisting them into &5Ender Golems&r."
-		""
-		"They no longer remember life, acting only to guard the citadel. The king of these lost warriors became the &5Ender Guardian&r. Perhaps a hero can free them from this cursed fate, but to see the truth, you will need the &dEye of Void&r."
-		"{entity:cataclysm:ender_golem ent_size:0.75 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.4A72D1BC57E0B869.quest_desc: ["{entity:cataclysm:ender_golem ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.4A75FF97FF645E27.title: "Frostmaw Spawn"
 	quest.4A7D7CFE21D0F020.title: "Capacitor Addon Extender"
 	quest.4A958BA4CE4F0F17.quest_desc: [
@@ -3128,10 +3073,7 @@
 	]
 	quest.4C0BA7F1453A9EA8.quest_desc: ["Residing within dark caves, the &4Mother of Spiders&r protects her kin. She is the last true descendant of &6Arachne&r and as such holds more power and abilities to the other arachnids you have encountered. The &4Mother&r poisons and slows her victims. She will also summon her children to help fight off attackers. Once defeated, she will leave behind a mess of her webs, and should you be lucky enough, one of her &cMandibles&r."]
 	quest.4C21428819E5C7AC.quest_desc: ["This table is &d&lessential to casting spells.&r It enables one-time use spells to be added to spell books, allowing unlimited casts. Likewise, it may be used to remove spells from spellbooks. "]
-	quest.4C3CD36614615318.quest_desc: [
-		"Someone brought a Void Blossom into this world, where it absorbed local energy and became a terrifying predator. Its hard, dry shell can poison deeply, and it can even move through the ground like water. Yet it is still a plant—perhaps a little fire will finish the job."
-		"{entity:eternal_starlight:lunar_monstrosity ent_size:0.75 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.4C3CD36614615318.quest_desc: ["{entity:eternal_starlight:lunar_monstrosity ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.4C430AD8ACBEBF9E.quest_desc: [
 		"&5&lCurseForge Page&r&r: https://www.curseforge.com/minecraft/modpacks/integrated-minecraft"
 		""
@@ -3188,11 +3130,6 @@
 	]
 	quest.4C6C1CD4824BB8E7.quest_subtitle: "High-capacity storage"
 	quest.4C6C1CD4824BB8E7.title: "Limited Barrels"
-	quest.4C751258A1DC908F.quest_desc: [
-		"&l&6Tires&r&r provide traction for vehicles and mobile contraptions, allowing them to grip the ground and move efficiently across a variety of terrain. "
-		""
-		"They are an essential component for creating reliable land-based transportation."
-	]
 	quest.4C840076783D73B9.quest_desc: [
 		"Since you're here, you probably understand the basics of the &dQuest Book&r. However, in case you are new to this, here's some important things to keep in mind:"
 		""
@@ -3208,11 +3145,6 @@
 	]
 	quest.4C840076783D73B9.quest_subtitle: "Learn how the Quest Book works!"
 	quest.4C840076783D73B9.title: "Quests"
-	quest.4C88AACD94986A30.quest_desc: [
-		"The &l&6Torsion Spring&r&r allows for a rotational input to be limited to a specific angle of motion. "
-		""
-		"It is powered via a shaft input on the bottom, but will only turn a configured amount of degrees before halting rotation."
-	]
 	quest.4CA94FAA40ECF71D.quest_desc: ["In a heated basin, mix together copper and zinc. Place the basin on top of a blaze burner. R-click the blaze burner with fuel (coal, wood, blaze rod, etc.) to heat."]
 	quest.4CA94FAA40ECF71D.title: "Brass Casings and Ingots"
 	quest.4CAF984AB7164AAA.quest_desc: [
@@ -3339,10 +3271,7 @@
 	quest.51B328233482AFF8.title: "Exo Helmet"
 	quest.51C5A13E468075F6.title: "Obsidilith Arena"
 	quest.51D9307FA7FEDA46.title: "Mangrove Swamp"
-	quest.51DA55FEB55D644A.quest_desc: [
-		"Without eyes to see with, the &3Warden&r uses preternatural hearing to locate trespassers in its &3Ancient City&r. This being usually remains submerged in the skulk, but it will appear should the alarm sound three times. Are you brave enough to explore the &3Ancient City&r and seek out its treasures?"
-		"{entity:minecraft:warden ent_size:0.8 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.51DA55FEB55D644A.quest_desc: ["{entity:minecraft:warden ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.51DCF05D37DCFC0D.title: "Mushroom House"
 	quest.522E5672D2B41A32.quest_desc: ["More slot, more mana is needed."]
 	quest.5230D3587B041C15.quest_desc: [
@@ -3403,8 +3332,6 @@
 		"{@pagebreak}"
 		"When you find the Ancient Remnant, it will be stationary like a statue. You’ll need to right-click it with the &eNecklace of the Desert&r. The Necklace is hidden within suspicious sand in the Cursed Pyramid. Use the &6Eye of Desert&r to locate the Cursed Pyramid."
 	]
-	quest.52E2AE15B6E9D88B.quest_desc: ["&l&6Pearlescent Levitite&r&r is a rare and advanced material infused with &l&blevitating properties&r&r, making it a valuable resource!"]
-	quest.52E2AE15B6E9D88B.title: "Stop Floating!"
 	quest.52F6CC1B60E21A5C.title: "Energy Pipe"
 	quest.53064706B9E4D8B2.quest_desc: [
 		"A swift familiar specialized in ranged combat and scouting."
@@ -3525,6 +3452,11 @@
 	quest.5501173723FBA43B.quest_subtitle: "Trade with villager 500 times"
 	quest.5501173723FBA43B.title: "Master of persuasion"
 	quest.552D8109F40973DC.title: "Black Ice Glaciers"
+	quest.55535225BDBDF6FD.quest_desc: [
+		"Hell-themed meals can grant fire immunity or even turn fire into a beneficial effect."
+		""
+		"A &6Nether Stove&r should be a centerpiece of your kitchen."
+	]
 	quest.55535225BDBDF6FD.quest_subtitle: "Mmmmmmmmmm Spicy!"
 	quest.55535225BDBDF6FD.title: "Nether Stove"
 	quest.55709EBAD751F02D.quest_subtitle: "Orbital Void ability. Eldritch and Ender school bonuses"
@@ -3598,7 +3530,7 @@
 		""
 		"&7HINT: The key to stopping regeneration can made with the mechanical crafter. It is the only recipe that is 6 items wide."
 	]
-	quest.56723AE661B61F88.quest_desc: ["The Swivel Bearing is used to create and rotate Simulated contraptions. Unlike other bearings, it is rotated through the cog on its side, and allows rotation to pass through its center shaft."]
+	quest.5653C63E514D512B.quest_desc: ["{entity:legendary_monsters:the_obliterator ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.567AA17FEE8A83DE.quest_desc: [
 		"&#6EC1FFSimple Rite&r"
 		""
@@ -3749,12 +3681,7 @@
 	quest.58CC87ADBE0B75C8.title: "Laurel Forest"
 	quest.591049F5DAAE6A75.quest_subtitle: "Increases speed on sand"
 	quest.5930BFB02D8F2217.title: "Ancient Mines"
-	quest.593386BCED66E75E.quest_desc: [
-		"An expedition once built a sturdy iron-clad bunker in Starlight, summoning many golems to defend it. After battles, some golems were left behind, forgotten. Over time, these abandoned guardians became the &9Starlight Golem&r."
-		""
-		"Though it cannot move without commands, its iron body has oxidized and fused with impurities, becoming &7indestructible&r when it draws energy from Starlight. Over the years, it has strangely gained wisdom, learning to craft technology no one has seen before. Cut off its connection to the dimension, and its metallic shell may soften—if only for a moment."
-		"{entity:eternal_starlight:starlight_golem ent_size:0.75 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.593386BCED66E75E.quest_desc: ["{entity:eternal_starlight:starlight_golem ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.593F0A2DD7B6F9B1.quest_subtitle: "Deal 50.000 Damage"
 	quest.593F0A2DD7B6F9B1.title: "Brutal Sword"
 	quest.5944DCA9D92A2B3C.quest_desc: [
@@ -3819,11 +3746,6 @@
 	quest.59F1AB1383244909.quest_desc: [""]
 	quest.59F1AB1383244909.title: "Frozen Crypt"
 	quest.59F7DBF03F4A6EE5.quest_subtitle: "{components:{\"ftbquests:loot_crate\":\"relics_ars\"},count:1,id:\"ftbquests:lootcrate\"}"
-	quest.5A1B67C68500F828.quest_desc: [
-		"The &l&6Auger Shaft&r&r is a mechanical transport component used to move items through advanced systems. "
-		""
-		"By transferring rotational motion, it helps power item movement within contraptions, allowing for automated transport solutions."
-	]
 	quest.5A3900FD2A6F064E.quest_desc: ["Little Tremmy never did anything to you. And this is how you repay him?!?"]
 	quest.5A3900FD2A6F064E.quest_subtitle: "You monster. How could you do this?"
 	quest.5A51B19A671B71AC.quest_desc: ["Enter a &eCell Maze&r Structure"]
@@ -4007,11 +3929,6 @@
 	quest.5DE9C42F9E76A839.quest_desc: ["Obtain the Chronicle of Shadows from the mod &eApotheosis&r. Contains details on enchanting changes, potion changes, and villager changes."]
 	quest.5DE9C42F9E76A839.quest_subtitle: "More details on Enchanting changes from Apotheosis!"
 	quest.5E5191E2220CB59C.title: "Haunted Manor"
-	quest.5E89E093362958B4.quest_desc: [
-		"&6&lHoney Glue&r&r is a usable tool primarily used in the construction of &4simulated contraptions&r such as airships, cars, planes and other simulated contraptions. "
-		""
-		"It functions as a binding agent that allows blocks to be treated as a single cohesive entity."
-	]
 	quest.5E9EFD10D91BE754.quest_desc: [
 		"Like the copper set, it grants Water Breathing when the &6Backtank&r contains Air Pressure."
 		""
@@ -4036,7 +3953,6 @@
 		"{@pagebreak}"
 		"The &4Nether Gauntlet&r is found in the &4Gauntlet Arena&r. Break one of the blocks with eyes on it to spawn the &4Gauntlet&r."
 	]
-	quest.5F4FEC3C99AA8352.quest_desc: ["The propeller bearing is a Bearing to make a propeller, which can produce thrust. The blocks that count as propeller blocks are Wool, Sails, Symmetric sails, Wooden sails and Phantom sails."]
 	quest.5F509CFFAF21EEEB.title: "Ancient Archwood Tree"
 	quest.5F6C693550555151.title: "Arcane Library"
 	quest.5FC95FCD72608AE2.quest_subtitle: "Lookin' good!"
@@ -4072,13 +3988,7 @@
 	quest.6045821950FFB096.title: "Fisherman's Lodge"
 	quest.60560968324CDF2D.title: "Castle"
 	quest.607D35CC05763FE4.quest_subtitle: "&l&n&5A step to &eimmortality?&r"
-	quest.60A9F2B130BE02D5.quest_desc: [
-		"Is the End another world—or a dream that never ends? None can say. What’s certain is that both you and the &5Ender Dragon&r exist within it."
-		"Legends tell of this creature as the ruler of The End, enforcing its own silent order. Those who enter its realm seldom return, their bodies and minds lost to the &0Void&r."
-		""
-		"Over ages, the lost have become &8Endermen&r—hollow echoes of who they once were. Perhaps by defeating the dragon, the balance can be restored, and their spirits freed."
-		"{entity:minecraft:ender_dragon ent_size:2.0 off_x:0.0 off_y:0.25 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.60A9F2B130BE02D5.quest_desc: ["{entity:minecraft:ender_dragon ent_size:2.0 off_x:0.0 off_y:0.25 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.611E0A75AEB395BB.title: "Cherry Grove"
 	quest.614FBA80C927D14C.quest_desc: [
 		"For those who seek to explore and loot the &dPink Salt Shrine&r deep underground, be warned for it is protected against trespassers. The &dBerserker&r is the guardian of this shrine. What once was a normal zombie became fused with the pink salt within the shrine and turned into the behemoth it now is. It's rage and chaos unparalleled by any others within the cave."
@@ -4220,12 +4130,6 @@
 	quest.64A7804BB3AEFE86.quest_subtitle: "Equip rune effects"
 	quest.64AD14BA422C2A84.quest_subtitle: "&l&n&5The hammer of the raging nether lord!"
 	quest.64BAA6F2657DDED2.quest_desc: ["Trade 128 times with the &eBee Queen.&r"]
-	quest.64CE86392E99B983.quest_desc: [
-		"The &l&6Andesite Propeller&r&r provides a propulsion force 31.43 propulsion units when powered from behind at 32 RPM. "
-		""
-		"It functions identically to the &l&6Wooden Propeller&r, but aesthetically it has 4 andesite blades, as opposed to the 2 wooden blades of the &l&6Wooden Propeller&r&r."
-	]
-	quest.64CE86392E99B983.title: "We Have Movement!"
 	quest.64FAE7341B7F29CA.quest_desc: [
 		"&aPros:&r"
 		"&8●&r Empty armor slots grant Armor and Armor Toughness"
@@ -4288,21 +4192,10 @@
 	]
 	quest.656A08444C0E1B92.quest_subtitle: "Is it just me or is it hot in here?"
 	quest.656A08444C0E1B92.title: "Metallurgy"
-	quest.657E28A7CB3A5598.quest_desc: ["The&6 &lMounted Potato Cannon&r&r is a deployable ranged mechanism designed to be attached to moving contraptions, allowing them to launch projectiles while in motion."]
-	quest.657E28A7CB3A5598.title: "Dont Aim That At Me !!!!!!!!!"
 	quest.658F7D00A8E5D76D.quest_desc: ["&bRune Of Vitality&r increases healing received by about 20%."]
 	quest.658F7D00A8E5D76D.quest_subtitle: "Stronger healing"
 	quest.65AAD6AD8E1E517F.quest_subtitle: "&l&n&5A dagger forged with the essence of life!"
-	quest.65B65FE2A989ADC8.quest_desc: [
-		"&5Rawwrh!&r"
-		""
-		"Dragons have 5 stages. The ones on the surface are stages 2 and 3. The ones underground are stages 4 and 5. The bigger the dragon, the higher the stage and more difficult the fight. They have been placed under Tier 3 in the Boss Codex since that is middle-of-the-road."
-		""
-		"&7TIP: Dragon Eggs only drop from stage 4 and 5 &efemale&7 dragons."
-		"{entity:iceandfire:lightning_dragon ent_size:1.5 off_x:0.0 off_y:0.5 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-		"{@pagebreak}"
-		"Lightning Dragons can be found anywhere in the Overworld as long as the altitude (y-level) is high enough."
-	]
+	quest.65B65FE2A989ADC8.quest_desc: ["{entity:iceandfire:lightning_dragon ent_size:1.5 off_x:0.0 off_y:0.5 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.65E170B1002FD845.title: "Crystal Canyon"
 	quest.6602E2CF2A7A7B9C.quest_desc: [
 		"The &6Millstone&r is a simpler alternative to &6Crushing Wheels&r, used to process items."
@@ -4371,7 +4264,6 @@
 	quest.66EBDFD2C7EF8780.title: "Buying: Wilden Den Explorer Map"
 	quest.67030CEFEC1CEF37.quest_desc: ["Driven from their villages, these hardy merchants now wander the wilds, taking shelter beneath simple cyan and brown tents. Though weary from exile, they still offer trade and refuge to travelers brave enough to seek them out. In a world rising with danger, such camps are rare havens of trust."]
 	quest.67030CEFEC1CEF37.quest_subtitle: "Find a Merchant Campsite"
-	quest.670EE1E72CCE9C2B.quest_desc: ["A &l&2Throttle Lever&r&r allows fine control of its redstone output, and functions similarly to &l&5Create's Analog Lever&r&r."]
 	quest.67160FF0D674100F.title: "Train Ruins"
 	quest.67343BA35FE59E7A.title: "The most hurt hit is the hit that no one know"
 	quest.673BE438B9516764.quest_desc: [
@@ -4426,23 +4318,12 @@
 		"{@pagebreak}"
 		"The Overgrown Colossus is found in the&2 Better Jungle Temple. "
 	]
-	quest.68950B470C3B36AF.quest_desc: [
-		"&bMaledictus&r, a human king, was celebrated for his strength and noble heart. When &4Ignis&r entered the world and laid waste to countless lives, he led his army against the impossible foe."
-		""
-		"To defeat Ignis, he wielded the &5Soul Render&r—a weapon that curses all who see it, turning them into undead and erasing enemy souls. Victory came, but at a terrible cost: Maledictus himself became undead, stripped of memory, and his soldiers followed the same cursed fate."
-		""
-		"In a fleeting moment of clarity, he asked to be buried beneath the crypt in the frozen wasteland. The sheer number of undead forced his people to abandon the task, leaving his soldiers to guard the tomb forever."
-		""
-		"Will you dare to see this cursed place? Craft the &9Eye of Curse&r and witness the legacy of the Undying King."
-		"{entity:cataclysm:maledictus ent_size:1.0 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.68950B470C3B36AF.quest_desc: ["{entity:cataclysm:maledictus ent_size:1.0 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.689E8FC6E36FEC08.quest_desc: ["Protection is not enough? This is the fix"]
 	quest.689E8FC6E36FEC08.title: "Battle Mage"
 	quest.68CEA4A7AB7F3EC7.quest_desc: [
-		"Lost deep underground, these heavily armored warriors are neither man nor statue. They may guard something, mourn someone, or await a moment long past—but they have forgotten what, whom, or when."
 		""
-		"All they know is to slay intruders who enter their chambers. Their armor is &7indestructible&r, yet a single weakness lies at their back—perhaps a sword? Only the bravest adventurers dare face the &8Ferrous Wroughtnaut&r."
-		"{entity:mowziesmobs:ferrous_wroughtnaut ent_size:0.6 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
+		"{entity:mowziesmobs:ferrous_wroughtnaut ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
 	]
 	quest.68FDFFAE3BE17592.quest_desc: ["...or well...building anything, I guess. This chapter will showcase decorative blocks, building tools, and more!"]
 	quest.6903210043926E19.quest_desc: ["Familiars will look out for neraby beds when they need to recover health."]
@@ -4461,13 +4342,6 @@
 	]
 	quest.6972903259DED12D.quest_subtitle: "If only we could gain their trust..."
 	quest.6972903259DED12D.title: "Obtain Information about the Illusionary Apothecary"
-	quest.697A75979171E953.quest_desc: [
-		"The &l&bPhysics Assembler&r&r is a crucial block for creating &6Simulated Contraptions&r. "
-		""
-		"When it's activated, blocks connected through either &l&2super glue&r&r or"
-		"&l&ehoney glue&r&r will turn into a &l&cPhysics Contraption&r&r (also known as a sublevel) which can move and rotate around in the world."
-	]
-	quest.697A75979171E953.title: "This can move ?"
 	quest.698A347B351C9C0E.quest_desc: ["Craft 6 &ebee nest&r or &ebee hive&r"]
 	quest.6994C60E270CEC43.quest_desc: ["&eCreate&r allows for some amazing mechanics using trains. Far more than I could fit in this quest. Make sure to ponder about trains and their components to learn about them in much more detail."]
 	quest.69955032DAB8E0C0.quest_desc: [
@@ -4507,12 +4381,6 @@
 	quest.6A1FA3085162F2D2.quest_subtitle: "Inverted gravity"
 	quest.6A1FA3085162F2D2.title: "&#4BF3DARite Of Ascension&r"
 	quest.6A363CCF59A64C50.quest_subtitle: "Allows rolling while sprinting"
-	quest.6A4B331DE0D91C04.quest_desc: [
-		"The &6Conductor’s Baton&r lets you fix misconfigured &6Mechanical Arms&r, &6Pipettes&r, or &6Ejectors&r without breaking them."
-		""
-		"It allows adjusting their configuration directly."
-	]
-	quest.6A4B331DE0D91C04.quest_subtitle: "Reconfiguration"
 	quest.6A67EA9C70D23736.quest_desc: [
 		"A familiar deeply connected to the natural world."
 		"It uses nature magic to support life around it."
@@ -4547,14 +4415,7 @@
 	quest.6B1DEDA32CA51BAD.title: "Things are Heating Up!"
 	quest.6B3B060ED1B708B9.quest_subtitle: "Aerial Arsenal Ability. Lightning school bonus."
 	quest.6B3B060ED1B708B9.title: "Mechanized Exoskeleton Armor"
-	quest.6B5C6DA5D92C3FB6.quest_desc: [
-		"&6Umvuthi&r sits upon his throne in the sun-drenched groves, creator of the &aAbavuthana&r. He draws power from the sun, calling down &esunstrikes, solar flares,&r and massive &6solar beams&r to smite intruders."
-		""
-		"He can also bring his followers to life—&aUmvuthana&r, including healers known as &bUmvuthana Cranes&r—from enchanted masks. These masked children worship him as a god."
-		""
-		"Unprepared travelers should keep their distance, but those strong enough to defeat him are rewarded with the &eSol Visage&r mask. It allows the wearer to animate masks and create followers—but the sun’s true power remains with &6Umvuthi&r, lost when he falls. Perhaps another path exists to harness it…"
-		"{entity:mowziesmobs:umvuthi ent_size:0.7 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.6B5C6DA5D92C3FB6.quest_desc: ["{entity:mowziesmobs:umvuthi ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.6B6F3826CBF62F73.quest_desc: ["&l&6Pipes&r&r are easier way to transport in comparison, because &l&6Pipes&r&r don't need power like &l&2Belts&r or &l&2Pumps&r&r."]
 	quest.6B6F3826CBF62F73.title: "Pipes"
 	quest.6B9EEA486F89EB3F.quest_desc: [
@@ -4571,11 +4432,6 @@
 	]
 	quest.6B9EEA486F89EB3F.quest_subtitle: "Faster smelting"
 	quest.6BAA73A56012674B.title: "Pirate Village"
-	quest.6BC0D978E293515F.quest_desc: [
-		"&l&6Portable Engines&r&r are used for space-efficient rotational force generation on &l&aSimulated contraptions&r&r."
-		""
-		"Feed the &l&6Portable Engines&r&r burnable items and it wil produce rotational force."
-	]
 	quest.6BD17F61D64105FF.quest_desc: [
 		"&aPros:&r"
 		"&8●&r Fire effects inflicted on enemies are amplified"
@@ -4694,8 +4550,6 @@
 	quest.6D4CEE9AE7B782E3.quest_subtitle: "&oGuidance for the Aspiring Engineer&o"
 	quest.6D4CEE9AE7B782E3.title: "&6&lCreate Tutorials&r"
 	quest.6DAA84E02026713E.title: "Machine Efficiency Addon"
-	quest.6DE0519678E31ECF.quest_desc: ["&l&6Levitite&r&r is a rare and advanced material infused with &l&blevitating properties&r&r, making it a valuable resource!"]
-	quest.6DE0519678E31ECF.title: "Lighter than air!"
 	quest.6DE10ECC03F221E4.quest_desc: ["The Deep Drill is a large multiblock machine used to extract rare resources from deep below the bedrock layer"]
 	quest.6DE10ECC03F221E4.title: "Deep Drill"
 	quest.6DFE972FAA694B33.quest_desc: [
@@ -4836,10 +4690,7 @@
 	quest.6F7DAC2D906DFD4B.title: "Dare to come again?"
 	quest.6F7EE5B63C91A70F.quest_desc: ["Two basic tables from Ars - the Scribe is for spell crafting and Alteration to upgrade armor, equipment and bind spells to equipment."]
 	quest.6F7EE5B63C91A70F.title: "Scribe and Alteration"
-	quest.6FACE97C88427A54.quest_desc: [
-		"Once a simple underground Venus trap, the &5Void Blossom&r evolved after the Blood Moon, absorbing &8Void&r energy to become faster, deadlier, and able to attack over a wide area with spikes."
-		"{entity:bosses_of_mass_destruction:void_blossom ent_size:1.0 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.6FACE97C88427A54.quest_desc: ["{entity:bosses_of_mass_destruction:void_blossom ent_size:1.2 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.6FB0DC24A262CBF9.quest_desc: [
 		"Opens the grave and gives Your items back."
 		"You can right click on haunted grave to teleport to Your death location."
@@ -4872,14 +4723,7 @@
 	quest.70581D79FC865B4C.quest_desc: ["A dark purple toadstool hiding among nether fungi. Ignored by hoglins but eaten by their undead kin. It reeks of rot, though alchemy may draw out its entropic power."]
 	quest.70581D79FC865B4C.quest_subtitle: "Fungus of Decay"
 	quest.706E41199B308C92.title: "Tropics"
-	quest.70776C37B0B7F00F.quest_desc: [
-		"Those who fled the Ender Dragon built the &7End Citadel&r, a fortress filled with deadly traps to keep intruders away."
-		""
-		"Time and the &0Void&r corrupted them, twisting the once-loyal guards into &8Ender Golems&r. Their king, trapped on the lowest floor, became the &5Ender Guardian&r."
-		""
-		"They no longer remember life, acting only to defend the citadel. Some say they still wait for a hero to release them from this cursed fate. To see the truth, you will need the &dEye of Void&r."
-		"{entity:cataclysm:ender_guardian ent_size:0.8 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.70776C37B0B7F00F.quest_desc: ["{entity:cataclysm:ender_guardian ent_size:0.8 off_x:0.0 off_y:-0.1 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.70965B7B1E10E72E.quest_subtitle: "{components:{\"ftbquests:loot_crate\":\"ars\"},count:1,id:\"ftbquests:lootcrate\"}"
 	quest.70B89204B24F897B.quest_desc: [
 		"Use this at a &5Ritual brazier&r to summon a &4Wilden Chimera&r boss. You will need to active the tablet first."
@@ -4950,7 +4794,6 @@
 	quest.731D092CBEF73010.title: "Spirit Focusing"
 	quest.7331B766323137A2.title: "War-den"
 	quest.734BEA705A36799C.quest_desc: ["{image:gamma_creatures:textures/screens/careyatros_eng2.png width:151 height:100 align:center fit:true}"]
-	quest.73BD53E9130BA3C5.quest_desc: ["The &6&lEngine Assembly&r&r is the heart of any powered vehicle, converting fuel into the rotational force needed to drive wheels and mechanical systems. Without one, your vehicle won't be going anywhere."]
 	quest.73D5EE5238C37982.quest_desc: ["In the wilds rests the skeletal form of a great creature. its skeleton stretching skyward like branches of pale bone. Whether a relic of forgotten myth or a beast once hunted to extinction, none can say. Its silent frame endures as a monument to creatures long lost."]
 	quest.73D5EE5238C37982.quest_subtitle: "Find a Ceryneian Hind"
 	quest.73D660B9873BEE68.quest_subtitle: "&l&n&5A axe Forged in the cold!"
@@ -5131,15 +4974,7 @@
 	quest.77667929B0FE5B92.quest_subtitle: "Trade for Unique Potions!"
 	quest.77667929B0FE5B92.title: "Compound Potions"
 	quest.777ECEC887B1CA2D.quest_subtitle: "{components:{\"ftbquests:loot_crate\":\"materials\"},count:1,id:\"ftbquests:lootcrate\"}"
-	quest.77B22F28C4718378.quest_desc: [
-		"Deep in the ocean lies the &9Sunken City&r, where whispers of the &1Leviathan&r still echo through flooded halls. It is a monstrous being, vast as a mountain, its tendrils moving like living storms beneath the waves."
-		""
-		"The creature is worshiped by those twisted by the deep, guarding the &5Altar of the Abyss&r built in its name. Its &3Abyssal magic&r poisons water and soul alike, devouring all that approach."
-		""
-		"They say the &9Eye of Abyss&r can reveal the altar’s location."
-		"Find it if you dare—but know this: the ocean has already chosen its god."
-		"{entity:cataclysm:the_leviathan ent_size:0.75 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"
-	]
+	quest.77B22F28C4718378.quest_desc: ["{entity:cataclysm:the_leviathan ent_size:0.75 off_x:0.0 off_y:-0.2 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.77E47B660E2517D8.quest_desc: ["A mage should have a staff atleast, let's make decent equipment before going out test your spell."]
 	quest.77E47B660E2517D8.title: "Wizard"
 	quest.77EF3B4F770E5471.quest_subtitle: "What is this ?"
@@ -5206,12 +5041,6 @@
 	quest.794F10DFF56A82EE.title: "Food store"
 	quest.7959A303339364CF.quest_subtitle: "{components:{\"ftbquests:loot_crate\":\"food2\"},count:1,id:\"ftbquests:lootcrate\"}"
 	quest.795C0F22F2C649BA.quest_subtitle: "&l&n&5A weapon forged to watch for eternity!"
-	quest.7971AD11B9C4EBE5.quest_desc: ["&3&lHandles&r&r allow the moving of small creations or the player through the use of right-clicking."]
-	quest.79B64653F3A6537F.quest_desc: [
-		"The &6&lLevitite Blend Bucket&r&r contains a specialized fluid mixture."
-		""
-		"This powerful blend plays a key role in creating &l&blightweight&r&r and &l&bgravity-defying&r&r components."
-	]
 	quest.79DB41984ACBE7BC.title: "Mushroom Fields"
 	quest.7A0D9FCECF78B9E8.quest_desc: [
 		"&aPros:&r"
@@ -5273,13 +5102,20 @@
 	]
 	quest.7A61DCA5D60B5A6E.quest_subtitle: "First: Find Sniffer"
 	quest.7A61DCA5D60B5A6E.title: "Onto Origin Island"
-	quest.7AC68566766A7827.quest_desc: ["{entity:mythsandlegends:possessed_armor_inquisitor ent_size:0.75 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
+	quest.7AC68566766A7827.quest_desc: ["{entity:mythsandlegends:possessed_armor_inquisitor ent_size:1.0 off_x:0.0 off_y:0.0 rot:0.0 spin:USE_GLOBAL idle:USE_GLOBAL walk:USE_GLOBAL width:100 height:100 align:center}"]
 	quest.7AFD5307EE32AAF1.title: "Dark Coven"
 	quest.7B33A0B7B0475946.quest_desc: ["A pink lotus found beside lilypads, carrying a soft aura and soothing scent. Once used in ritual fires as offerings, or to ward off monsters, sickness, and corruption."]
 	quest.7B33A0B7B0475946.quest_subtitle: "Lotus of Calm"
 	quest.7B3D68BB8425ABC4.title: "Baba Yaga Hut"
 	quest.7B5A5516583CD2E5.quest_desc: ["Before advancing into many of Oritech's stronger machines, you will need **fluxite**. Tip: Leave room around this machine for upgrades and expansion."]
 	quest.7B5A5516583CD2E5.title: "Lasers And Fluxite"
+	quest.7B6D24D7F57E065A.quest_desc: [
+		"As your resources grow, traditional storage becomes insufficient."
+		""
+		"Alien technology from the &9Starlight Dimension&r combined with electricity allows you to store immense amounts of items, automate production, and access your storage instantly from anywhere across dimensions."
+		""
+		"Unlocks &6Advanced Storage&r chapter."
+	]
 	quest.7B6D24D7F57E065A.title: "Digitalizing Storage"
 	quest.7B8A69CF40851993.title: "Oasis Village"
 	quest.7B93DF7B1EE96E10.quest_desc: ["Cheap cost and fun, this build can get you safe, easy and low cost at once but will not work well with teammate since these undead creature are aggressive most of the time so you are most likely solo play with this build."]
@@ -5297,7 +5133,6 @@
 	quest.7DA050AE32FF8540.title: "Forgotten Tools"
 	quest.7DBC8A2160706F39.quest_desc: ["Start worshipping, may be somewhere out there will respond back to you. First wear uniform"]
 	quest.7DBC8A2160706F39.title: "Worship"
-	quest.7DC6F687EB6A1139.quest_desc: ["The &l&6Optical Sensor&r&r is a precision detection component used to monitor surroundings and provide feedback."]
 	quest.7E1893A68247C7F2.quest_desc: [
 		"The &6Mechanical Pump&r pushes fluids through &6Fluid Pipes&r."
 		""
@@ -5325,6 +5160,15 @@
 	quest.7E1893A68247C7F2.quest_subtitle: "Fluid movement"
 	quest.7E2864E95CE03B08.quest_desc: [""]
 	quest.7E2864E95CE03B08.quest_subtitle: "Chance to inflict Blight"
+	quest.7E67CBAC42F3DD58.quest_desc: [
+		"Starlight is a dimension unlike any other."
+		""
+		"Within it you may discover lost golem technology, allowing you to digitize your storage."
+		""
+		"Its materials are infused with far stronger magic than those found in the Overworld."
+		""
+		"Unlocks &6Eternal Starlight&r chapter"
+	]
 	quest.7E67CBAC42F3DD58.quest_subtitle: "Sky Full of Stars!"
 	quest.7E67CBAC42F3DD58.title: "The Starlight Dimension"
 	quest.7E6CA91CCF4D4AFE.quest_desc: ["The Drone Port is an advanced logistical multiblock that coordinates automated sky-drones to transport items over long distances without messy wires or conduits."]
@@ -5387,22 +5231,17 @@
 	]
 	quest.7F0321F6C37A19B7.quest_subtitle: "All current keybinds of note!"
 	quest.7F0321F6C37A19B7.title: "Keybinds"
-	quest.7F0B971E7ABC0DEE.quest_desc: [
-		"The &6Mechanical Pipette&r works like a &6Mechanical Arm&r but transfers fluids instead of items."
-		""
-		"It can move fluids between nearby fluid containers."
-		""
-		"Some fluid storages cannot be accessed directly."
-		"In those cases, use &6Fluid Interfaces&r."
-	]
-	quest.7F0B971E7ABC0DEE.quest_subtitle: "Fluid handling"
-	quest.7F3BC00F12B44739.quest_desc: [
-		"A &l&6Hot Air Envelope&r&r (and the one with shaft) can be used to construct balloons."
-		""
-		"A balloon must be enclosed everywhere except at the bottom. Hot air fills balloons like an inverted bowl, with any holes on the balloon leaking all the air away. Non-air blocks inside the balloon take away lifting volume."
-	]
 	quest.7F3EA5B3DD048C6F.title: "Machine Fluid Addon"
 	quest.7F71C0CB020ACA4D.quest_desc: ["Shares chests/vaults (etc.) inventories to network. Place blaze burner/seat with mob on it and You can order those things! You'll need packager to extract stuff from inside."]
+	quest.7F972B3D9AF131FC.quest_desc: [
+		"The Nether is necessary to obtain materials such as quartz."
+		""
+		"Structures found there may contain useful tools and resources."
+		""
+		"Beware though — hellfire has forged some of the strongest monsters you will face."
+		""
+		"Unlocks &6The Nether&r chapter"
+	]
 	quest.7F972B3D9AF131FC.quest_subtitle: "Hostile Realm"
 	quest.7F972B3D9AF131FC.title: "Dimension Basics"
 	quest.7FD332F870142F0F.quest_desc: [
@@ -5419,14 +5258,12 @@
 	reward.3A712E4D09E452A3.title: "Unlocks weapons and armor tiers"
 	reward_table.050F733833498BE5.title: "food1"
 	reward_table.052B3A25E9666BF9.title: "coins1"
-	reward_table.06F13C7572548ED6.title: "relics_cataclysm"
 	reward_table.0F87E0B0D0D3A5F6.title: "nether"
 	reward_table.1167DE10C74242E1.title: "coins3"
 	reward_table.129C915FC6CB10B9.title: "block"
 	reward_table.142BB7B61392796F.title: "iron"
 	reward_table.162317829A775AD2.title: "augments"
 	reward_table.1783B9BF4E2DC918.title: "ae2"
-	reward_table.26AA26ABD5FCDF5F.title: "relics_ars"
 	reward_table.2EAEF66067FA9D28.title: "Aero Chest"
 	reward_table.31FCBB5EA0F45949.title: "coins2"
 	reward_table.337CCE599E13306B.title: "apotheosis"
@@ -5437,7 +5274,6 @@
 	reward_table.4A42E0079B796709.title: "tempad"
 	reward_table.4CB0D80EDCB84D8C.title: "potions1"
 	reward_table.5F57EA1AC30EB227.title: "food2"
-	reward_table.6104E045C42EF7F1.title: "relics"
 	reward_table.666E0B797494FB1F.title: "crate"
 	reward_table.6D4598044496322E.title: "plushie"
 	reward_table.793DEA1B20A9C0E6.title: "storage"
@@ -5584,7 +5420,6 @@
 	task.2D5E0E113B026D2B.title: "Oath Of The Overeager Fist"
 	task.2E12C4864C911C9B.title: "&c★★★★☆ Obsidilith!"
 	task.2E14132AD3881F18.title: "Pact Of Contentedness"
-	task.2E8A5CDFACD2B364.title: "Any #relics:relic"
 	task.2F524A1BE59185B9.title: "&a★☆☆☆☆ Frostbitten Golem!"
 	task.2F6CEC92354AF5B3.title: "Summons"
 	task.2FE16D5755F41D92.title: "&c★★★★☆ Dread Queen!"
@@ -5658,6 +5493,7 @@
 	task.475E59625F9F9825.title: "Seek Vengeance"
 	task.4783E2506D895E96.title: "&e★★☆☆☆ Tongbi, the Sculptor"
 	task.47ACC3DA775CA87C.title: "Tide Guardian Boots"
+	task.47C35CA08D35C88E.title: "&c★★★ Obliterator"
 	task.48F499CAE25EE0F2.title: "&6★★★☆☆ Ender Dragon!"
 	task.49B3154A968B4653.title: "Expert Monster Hunter"
 	task.4A202E57E5C2331C.title: "Ranks"

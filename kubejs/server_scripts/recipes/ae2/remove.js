@@ -19,8 +19,6 @@ ServerEvents.recipes((event) => {
     { id: 'ae2:materials/annihilationcore' },
     { id: 'ae2:network/cables/glass_fluix' },
     { id: 'ae2:network/parts/quartz_fiber_part' },
-    { id: 'ae2:inscriber/logic_processor_print' },
-    { id: 'ae2:network/cables/covered_fluix' },
     { id: 'ae2:network/cells/item_storage_components_cell_1k_part' },
     { id: 'ae2:network/cells/item_storage_components_cell_4k_part' },
     { id: 'ae2:network/cells/item_storage_components_cell_16k_part' },

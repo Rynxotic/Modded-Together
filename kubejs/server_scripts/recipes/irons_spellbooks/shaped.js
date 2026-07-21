@@ -6,7 +6,7 @@ ServerEvents.recipes((event) => {
   });
 
   event.shaped('irons_spellbooks:iron_spell_book', [' S ', 'SBS', ' S '], {
-    B: 'irons_spellbooks:copper_spell_book',
+    B: 'minecraft:book',
     S: 'unify:iron_sheet',
   });
 

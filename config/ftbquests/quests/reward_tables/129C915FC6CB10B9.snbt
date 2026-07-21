@@ -17,8 +17,6 @@
 	loot_size: 1
 	order_index: 17
 	rewards: [
-		{ id: "738BEEC473858699", item: { components: { "ftbquests:missing_item": "refinedstorage:1k_storage_block" }, count: 1, id: "ftbquests:missing_item" } }
-		{ id: "5EBBF37C176D7AFB", item: { components: { "ftbquests:missing_item": "refinedstorage:64k_storage_block" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "4B1B6E466BAB904A", item: { count: 1, id: "hazennstuff:arcane_steel_block" } }
 		{ id: "090CC337CD7A6811", item: { count: 1, id: "cataclysm:black_steel_block" } }
 		{ id: "2F6045E390A5B3F0", item: { count: 1, id: "eternal_starlight:aethersent_block" } }
@@ -53,7 +51,6 @@
 		{ id: "3CCEC7CEA64941BA", item: { count: 1, id: "unify:steel_block" } }
 		{ id: "7BE235903576DDDF", item: { count: 1, id: "create_enchantment_industry:super_experience_block" } }
 		{ id: "38CF8E31376D9368", item: { count: 1, id: "cataclysm:witherite_block" } }
-		{ id: "1E4B17B755CB64AC", item: { components: { "ftbquests:missing_item": "alexscaves:cinder_block" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "63F290C84B129B3A", item: { count: 1, id: "supplementaries:clock_block" } }
 		{ id: "0DA4265B3E2D095A", item: { count: 1, id: "supplementaries:cog_block" } }
 		{ id: "0685A3BD1D5175CB", item: { count: 1, id: "minecraft:dried_kelp_block" } }
@@ -67,7 +64,6 @@
 		{ id: "35A75680316917F0", item: { count: 1, id: "minecraft:slime_block" } }
 		{ id: "099E3E3C1DA5ABA8", item: { count: 1, id: "supplementaries:speaker_block" } }
 		{ id: "738047A60B2C2C87", item: { count: 1, id: "farmersdelight:tatami" } }
-		{ id: "562D817862A23AEB", item: { components: { "ftbquests:missing_item": "betterend:thallasium_block" }, count: 1, id: "ftbquests:missing_item" } }
 		{ id: "7555F86776618FD6", item: { count: 1, id: "cataclysm:void_lantern_block" } }
 		{ id: "311D365440AAE31C", item: { count: 1, id: "hazennstuff:zenalite_block" } }
 		{ id: "34D5AC10CB6C5D73", item: { count: 1, id: "supplementaries:slidy_block" } }
